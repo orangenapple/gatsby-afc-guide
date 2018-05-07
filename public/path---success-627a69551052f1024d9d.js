@@ -1,0 +1,2 @@
+webpackJsonp([0x9b544cfa2a85],{901:function(a,e){a.exports={data:{page:{id:"/Users/Adam/gatsby-afc-guide/content/pages/success/index.md absPath of file >>> MarkdownRemark",html:"<p>Thank you. I will answer to the message as soon as possible.</p>",frontmatter:{title:"Success"}},footnote:{id:"/Users/Adam/gatsby-afc-guide/content/parts/footnote.md absPath of file >>> MarkdownRemark",html:"<p>Made with ♥️ by Africa Farmers Club</p>"},site:{siteMetadata:{facebook:{appId:""}}}},pathContext:{slug:"/success/"}}}});
+//# sourceMappingURL=path---success-627a69551052f1024d9d.js.map

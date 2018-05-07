@@ -1,0 +1,196 @@
+{
+  "assetsByChunkName": {
+    "path---increasing-milk-production-part-1": [
+      "path---increasing-milk-production-part-1-b642894116877dacaaa4.js",
+      "path---increasing-milk-production-part-1-b642894116877dacaaa4.js.map"
+    ],
+    "path---east-coast-fever-disease": [
+      "path---east-coast-fever-disease-6c05b8efcb032c6c059c.js",
+      "path---east-coast-fever-disease-6c05b8efcb032c6c059c.js.map"
+    ],
+    "path---preventing-and-managing-bloat": [
+      "path---preventing-and-managing-bloat-caf8b42cb0a72ed9dbe9.js",
+      "path---preventing-and-managing-bloat-caf8b42cb0a72ed9dbe9.js.map"
+    ],
+    "path---malignant-catarrhal-fever": [
+      "path---malignant-catarrhal-fever-0fdeaad7757f7070a8cb.js",
+      "path---malignant-catarrhal-fever-0fdeaad7757f7070a8cb.js.map"
+    ],
+    "path---choosing-forages-to-cultivate": [
+      "path---choosing-forages-to-cultivate-08b21e4d6a71f85722a8.js",
+      "path---choosing-forages-to-cultivate-08b21e4d6a71f85722a8.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-aa9570313651ef926b5a.js",
+      "component---src-pages-index-js-aa9570313651ef926b5a.js.map"
+    ],
+    "path---testing-milk-quality": [
+      "path---testing-milk-quality-6af027ea4aeaf869a1b2.js",
+      "path---testing-milk-quality-6af027ea4aeaf869a1b2.js.map"
+    ],
+    "path---dairy-cattle-sheds-introduction": [
+      "path---dairy-cattle-sheds-introduction-ca9e1ea380218bf91455.js",
+      "path---dairy-cattle-sheds-introduction-ca9e1ea380218bf91455.js.map"
+    ],
+    "path---": [
+      "path----b7c345c4129bbf821325.js",
+      "path----b7c345c4129bbf821325.js.map"
+    ],
+    "path---understanding-breeds": [
+      "path---understanding-breeds-68d04dbba7699f6f96c7.js",
+      "path---understanding-breeds-68d04dbba7699f6f96c7.js.map"
+    ],
+    "path---signs-for-a-cow-on-heat": [
+      "path---signs-for-a-cow-on-heat-758ec3bead0a8c80c383.js",
+      "path---signs-for-a-cow-on-heat-758ec3bead0a8c80c383.js.map"
+    ],
+    "path---foot-and-mouth-disease": [
+      "path---foot-and-mouth-disease-df7b4de7b44e25a31353.js",
+      "path---foot-and-mouth-disease-df7b4de7b44e25a31353.js.map"
+    ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-016c324c035e8357fa09.js",
+      "component---src-pages-contact-js-016c324c035e8357fa09.js.map"
+    ],
+    "path---getting-better-prices": [
+      "path---getting-better-prices-d0915fea511f90a382ab.js",
+      "path---getting-better-prices-d0915fea511f90a382ab.js.map"
+    ],
+    "path---increasing-milk-production-part-2": [
+      "path---increasing-milk-production-part-2-ca13484f342d547ee7f2.js",
+      "path---increasing-milk-production-part-2-ca13484f342d547ee7f2.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---when-to-serve-and-ai": [
+      "path---when-to-serve-and-ai-3d60eb8606f5ca891950.js",
+      "path---when-to-serve-and-ai-3d60eb8606f5ca891950.js.map"
+    ],
+    "path---feeding-milking-cows": [
+      "path---feeding-milking-cows-9284274735ac35c3dc3d.js",
+      "path---feeding-milking-cows-9284274735ac35c3dc3d.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-c0814c17fb544f2621bb.js",
+      "component---src-layouts-index-js-c0814c17fb544f2621bb.js.map"
+    ],
+    "path---feeding-calf": [
+      "path---feeding-calf-e3217a4a2ba13397a4a3.js",
+      "path---feeding-calf-e3217a4a2ba13397a4a3.js.map"
+    ],
+    "path---heifer-rearing": [
+      "path---heifer-rearing-7b2aebe0099354bde579.js",
+      "path---heifer-rearing-7b2aebe0099354bde579.js.map"
+    ],
+    "path---preventing-and-treating-milk-fever": [
+      "path---preventing-and-treating-milk-fever-005e02f9cb3608c2937c.js",
+      "path---preventing-and-treating-milk-fever-005e02f9cb3608c2937c.js.map"
+    ],
+    "path---index": [
+      "path---index-206ac74de0d3aab26f03.js",
+      "path---index-206ac74de0d3aab26f03.js.map"
+    ],
+    "component---src-pages-search-js": [
+      "component---src-pages-search-js-9b51531dafceece096dd.js",
+      "component---src-pages-search-js-9b51531dafceece096dd.js.map"
+    ],
+    "path---calf-rearing": [
+      "path---calf-rearing-6252eeef4363e4be4484.js",
+      "path---calf-rearing-6252eeef4363e4be4484.js.map"
+    ],
+    "commons": [
+      "commons-d74f36d454d7b02a5c82.js",
+      "build-js-styles.css",
+      "commons-d74f36d454d7b02a5c82.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---success": [
+      "path---success-627a69551052f1024d9d.js",
+      "path---success-627a69551052f1024d9d.js.map"
+    ],
+    "path---deworming": [
+      "path---deworming-4194ea3145e3f06afd84.js",
+      "path---deworming-4194ea3145e3f06afd84.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---preventing-mastitus": [
+      "path---preventing-mastitus-c602d6149d3fc16afeba.js",
+      "path---preventing-mastitus-c602d6149d3fc16afeba.js.map"
+    ],
+    "path---sleeping-sickness": [
+      "path---sleeping-sickness-05fafb4f181c184dc745.js",
+      "path---sleeping-sickness-05fafb4f181c184dc745.js.map"
+    ],
+    "component---src-templates-post-template-js": [
+      "component---src-templates-post-template-js-64c0b488d8a271d28a3d.js",
+      "component---src-templates-post-template-js-64c0b488d8a271d28a3d.js.map"
+    ],
+    "path---feeding-your-cow-basics": [
+      "path---feeding-your-cow-basics-d3881c3fc63bb776b9a7.js",
+      "path---feeding-your-cow-basics-d3881c3fc63bb776b9a7.js.map"
+    ],
+    "path---sore-mouth": [
+      "path---sore-mouth-f257bc592a4185f0c3eb.js",
+      "path---sore-mouth-f257bc592a4185f0c3eb.js.map"
+    ],
+    "path---keeping-records": [
+      "path---keeping-records-2a3cc229389ef463aa28.js",
+      "path---keeping-records-2a3cc229389ef463aa28.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---tail-rot": [
+      "path---tail-rot-da5ba48848bf13c4b0da.js",
+      "path---tail-rot-da5ba48848bf13c4b0da.js.map"
+    ],
+    "path---starters": [
+      "path---starters-1627bdd69450c766e6db.js",
+      "path---starters-1627bdd69450c766e6db.js.map"
+    ],
+    "app": [
+      "app-cbd4b4c535373eb92d4c.js",
+      "build-js-styles.css",
+      "app-cbd4b4c535373eb92d4c.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-templates-page-template-js": [
+      "component---src-templates-page-template-js-e0434750f574a9276ef2.js",
+      "component---src-templates-page-template-js-e0434750f574a9276ef2.js.map"
+    ],
+    "path---feeding-dry-cows": [
+      "path---feeding-dry-cows-648a4356a011c70f3bd6.js",
+      "path---feeding-dry-cows-648a4356a011c70f3bd6.js.map"
+    ],
+    "path---prevention-of-ketosis": [
+      "path---prevention-of-ketosis-2f5b7307cd664b24e8ea.js",
+      "path---prevention-of-ketosis-2f5b7307cd664b24e8ea.js.map"
+    ],
+    "path---keeping-this-guide-offline": [
+      "path---keeping-this-guide-offline-a5e272619a41993ac8f7.js",
+      "path---keeping-this-guide-offline-a5e272619a41993ac8f7.js.map"
+    ],
+    "path---search": [
+      "path---search-84269fabafea3eec14cf.js",
+      "path---search-84269fabafea3eec14cf.js.map"
+    ],
+    "path---clean-milk-production": [
+      "path---clean-milk-production-905a90a23f7d4f2d8a50.js",
+      "path---clean-milk-production-905a90a23f7d4f2d8a50.js.map"
+    ],
+    "path---about": [
+      "path---about-3b8dec70c1a6688c902a.js",
+      "path---about-3b8dec70c1a6688c902a.js.map"
+    ],
+    "path---milk-transportation": [
+      "path---milk-transportation-42c15f10b98a9194d1e7.js",
+      "path---milk-transportation-42c15f10b98a9194d1e7.js.map"
+    ]
+  }
+}
