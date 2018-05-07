@@ -1,20 +1,20 @@
 var plugins = [{
-      plugin: require('/Users/Adam/gatsby-afc-guide/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
+      plugin: require('/Users/georgiabarrie/gatsby-afc-guide/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/Adam/gatsby-afc-guide/node_modules/gatsby-plugin-manifest/gatsby-ssr.js'),
+      plugin: require('/Users/georgiabarrie/gatsby-afc-guide/node_modules/gatsby-plugin-manifest/gatsby-ssr.js'),
       options: {"plugins":[],"name":"Dairy Guide - for AFC members","short_name":"AFC-dairy","start_url":"/","display":"standalone","icons":[{"src":"/icons/icon-48x48.png","sizes":"48x48","type":"image/png"},{"src":"/icons/icon-96x96.png","sizes":"96x96","type":"image/png"},{"src":"/icons/icon-144x144.png","sizes":"144x144","type":"image/png"},{"src":"/icons/icon-192x192.png","sizes":"192x192","type":"image/png"},{"src":"/icons/icon-256x256.png","sizes":"256x256","type":"image/png"},{"src":"/icons/icon-384x384.png","sizes":"384x384","type":"image/png"},{"src":"/icons/icon-512x512.png","sizes":"512x512","type":"image/png"}]},
     },{
-      plugin: require('/Users/Adam/gatsby-afc-guide/node_modules/gatsby-plugin-google-analytics/gatsby-ssr.js'),
+      plugin: require('/Users/georgiabarrie/gatsby-afc-guide/node_modules/gatsby-plugin-google-analytics/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/Adam/gatsby-afc-guide/node_modules/gatsby-plugin-feed/gatsby-ssr.js'),
+      plugin: require('/Users/georgiabarrie/gatsby-afc-guide/node_modules/gatsby-plugin-feed/gatsby-ssr.js'),
       options: {"plugins":[],"query":"\n          {\n            site {\n              siteMetadata {\n                title\n                description\n                siteUrl\n                site_url: siteUrl\n              }\n            }\n          }\n        ","feeds":[{"query":"\n              {\n                allMarkdownRemark(\n                  limit: 1000,\n                  sort: { order: DESC, fields: [fields___prefix] },\n                  filter: { id: { regex: \"//posts//\" } }\n                ) {\n                  edges {\n                    node {\n                      excerpt\n                      html\n                      fields { \n                        slug\n                        prefix \n                      }\n                      frontmatter {\n                        title\n                      }\n                    }\n                  }\n                }\n              }\n            ","output":"/rss.xml"}]},
     },{
-      plugin: require('/Users/Adam/gatsby-afc-guide/node_modules/gatsby-plugin-sitemap/gatsby-ssr.js'),
+      plugin: require('/Users/georgiabarrie/gatsby-afc-guide/node_modules/gatsby-plugin-sitemap/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/Adam/gatsby-afc-guide/gatsby-ssr.js'),
+      plugin: require('/Users/georgiabarrie/gatsby-afc-guide/gatsby-ssr.js'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:

@@ -1,14 +1,14 @@
 var plugins = [{
-      plugin: require('/Users/Adam/gatsby-afc-guide/node_modules/gatsby-plugin-catch-links/gatsby-browser.js'),
+      plugin: require('/Users/georgiabarrie/gatsby-afc-guide/node_modules/gatsby-plugin-catch-links/gatsby-browser.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/Adam/gatsby-afc-guide/node_modules/gatsby-plugin-offline/gatsby-browser.js'),
+      plugin: require('/Users/georgiabarrie/gatsby-afc-guide/node_modules/gatsby-plugin-offline/gatsby-browser.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/Adam/gatsby-afc-guide/node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
+      plugin: require('/Users/georgiabarrie/gatsby-afc-guide/node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/Adam/gatsby-afc-guide/gatsby-browser.js'),
+      plugin: require('/Users/georgiabarrie/gatsby-afc-guide/gatsby-browser.js'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks
