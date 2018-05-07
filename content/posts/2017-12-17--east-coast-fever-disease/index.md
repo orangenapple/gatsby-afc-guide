@@ -1,8 +1,8 @@
 ---
-title: 🔒 East Coast Fever Disease
+title: East Coast Fever Disease
 subTitle: Disease & animal health
 category: "disease & animal health"
-cover: locked-ecf.png
+cover: unlock-east-coast-fever-disease.png
 ---
 <blockquote style="background: #f2f3f4;">
 <p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://s3.amazonaws.com/afc-dairytrial/comment_icon.png" >  in bottom corner 👇</p>
@@ -15,9 +15,7 @@ cover: locked-ecf.png
 As of 1992 East Coast fever was called probably the most important livestock disease of cattle, sheep and goats in Africa, causing an annual loss of 1.1 million cattle and $168 million in 1992...
 <br></br>
 
-![](./unlock_this.png)
-
-<h1 style="text-align: center;">🔒To unlock this topic you will need a full subscription <a href="/about">click here for full package info</a></h1>
+![](./access-soon.jpg)
 
 <br></br>
 

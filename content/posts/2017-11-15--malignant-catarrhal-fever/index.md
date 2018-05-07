@@ -1,8 +1,8 @@
 ---
-title: 🔒 Malignant Catarrhal Fever
+title: Malignant Catarrhal Fever
 subTitle: Disease & animal health
 category: "disease & animal health"
-cover: lock-malignant-catarrhal-fever.png
+cover: unlock-malignant-catarrhal-fever.png
 ---
 <blockquote style="background: #f2f3f4;">
 <p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://s3.amazonaws.com/afc-dairytrial/comment_icon.png" >  in bottom corner 👇</p>
@@ -15,9 +15,7 @@ cover: lock-malignant-catarrhal-fever.png
 Bovine malignant catarrhal fever is an almost invariably fatal, generalized lymphoproliferative disease. Treatment is of little value, however, administration of antibiotics for control of secondary infection may be worthwhile in valuable individuals. The wildebeest associated infections can be avoided by preventing cattle from contacting wildebeest herds, especially, when they are calving...
 <br></br>
 
-![](./unlock_this.png)
-
-<h1 style="text-align: center;">🔒To unlock this topic you will need a full subscription <a href="/about">click here for full package info</a></h1>
+![](./access-soon.jpg)
 
 <br></br>
 

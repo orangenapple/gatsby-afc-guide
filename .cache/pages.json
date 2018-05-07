@@ -10,181 +10,6 @@
         "componentChunkName": "component---src-templates-post-template-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "keeping-this-guide-offline.json",
-        "path": "/keeping-this-guide-offline/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "feeding-dry-cows.json",
-        "path": "/feeding-dry-cows/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "feeding-calf.json",
-        "path": "/feeding-calf/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "testing-milk-quality.json",
-        "path": "/testing-milk-quality/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "choosing-forages-to-cultivate.json",
-        "path": "/choosing-forages-to-cultivate/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "milk-transportation.json",
-        "path": "/milk-transportation/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "keeping-records.json",
-        "path": "/keeping-records/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "prevention-of-ketosis.json",
-        "path": "/prevention-of-ketosis/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "dairy-cattle-sheds-introduction.json",
-        "path": "/dairy-cattle-sheds-introduction/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "clean-milk-production.json",
-        "path": "/clean-milk-production/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "tail-rot.json",
-        "path": "/tail-rot/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "calf-rearing.json",
-        "path": "/calf-rearing/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "sleeping-sickness.json",
-        "path": "/sleeping-sickness/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "sore-mouth.json",
-        "path": "/sore-mouth/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "foot-and-mouth-disease.json",
-        "path": "/foot-and-mouth-disease/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "malignant-catarrhal-fever.json",
-        "path": "/malignant-catarrhal-fever/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "when-to-serve-and-ai.json",
-        "path": "/when-to-serve-and-ai/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "signs-for-a-cow-on-heat.json",
-        "path": "/signs-for-a-cow-on-heat/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "heifer-rearing.json",
-        "path": "/heifer-rearing/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "deworming.json",
-        "path": "/deworming/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "increasing-milk-production-part-2.json",
-        "path": "/increasing-milk-production-part-2/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "increasing-milk-production-part-1.json",
-        "path": "/increasing-milk-production-part-1/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "preventing-mastitus.json",
-        "path": "/preventing-mastitus/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "understanding-breeds.json",
-        "path": "/understanding-breeds/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "feeding-milking-cows.json",
-        "path": "/feeding-milking-cows/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "getting-better-prices.json",
         "path": "/getting-better-prices/"
     },
@@ -194,13 +19,6 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "feeding-your-cow-basics.json",
         "path": "/feeding-your-cow-basics/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "east-coast-fever-disease.json",
-        "path": "/east-coast-fever-disease/"
     },
     {
         "componentChunkName": "component---src-templates-post-template-js",
@@ -227,15 +45,197 @@
         "componentChunkName": "component---src-templates-page-template-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "starters.json",
-        "path": "/starters/"
+        "jsonName": "success.json",
+        "path": "/success/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "east-coast-fever-disease.json",
+        "path": "/east-coast-fever-disease/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "feeding-milking-cows.json",
+        "path": "/feeding-milking-cows/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "understanding-breeds.json",
+        "path": "/understanding-breeds/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "preventing-mastitus.json",
+        "path": "/preventing-mastitus/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "increasing-milk-production-part-1.json",
+        "path": "/increasing-milk-production-part-1/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "increasing-milk-production-part-2.json",
+        "path": "/increasing-milk-production-part-2/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "deworming.json",
+        "path": "/deworming/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "heifer-rearing.json",
+        "path": "/heifer-rearing/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "signs-for-a-cow-on-heat.json",
+        "path": "/signs-for-a-cow-on-heat/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "when-to-serve-and-ai.json",
+        "path": "/when-to-serve-and-ai/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "malignant-catarrhal-fever.json",
+        "path": "/malignant-catarrhal-fever/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "foot-and-mouth-disease.json",
+        "path": "/foot-and-mouth-disease/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "sore-mouth.json",
+        "path": "/sore-mouth/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "sleeping-sickness.json",
+        "path": "/sleeping-sickness/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "calf-rearing.json",
+        "path": "/calf-rearing/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "tail-rot.json",
+        "path": "/tail-rot/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "clean-milk-production.json",
+        "path": "/clean-milk-production/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "dairy-cattle-sheds-introduction.json",
+        "path": "/dairy-cattle-sheds-introduction/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "prevention-of-ketosis.json",
+        "path": "/prevention-of-ketosis/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "keeping-records.json",
+        "path": "/keeping-records/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "milk-transportation.json",
+        "path": "/milk-transportation/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "testing-milk-quality.json",
+        "path": "/testing-milk-quality/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "feeding-calf.json",
+        "path": "/feeding-calf/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "keeping-this-guide-offline.json",
+        "path": "/keeping-this-guide-offline/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "choosing-forages-to-cultivate.json",
+        "path": "/choosing-forages-to-cultivate/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "feeding-dry-cows.json",
+        "path": "/feeding-dry-cows/"
     },
     {
         "componentChunkName": "component---src-templates-page-template-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "success.json",
-        "path": "/success/"
+        "jsonName": "starters.json",
+        "path": "/starters/"
     },
     {
         "componentChunkName": "component---src-pages-contact-js",

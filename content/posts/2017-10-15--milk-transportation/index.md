@@ -1,8 +1,8 @@
 ---
-title: 🔒 Milk Transportation
+title: Milk Transportation
 subTitle: Getting started
 category: "getting started"
-cover: lock-milk-transportation.png
+cover: unlock-milk-transportation.png
 ---
 <blockquote style="background: #f2f3f4;">
 <p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://s3.amazonaws.com/afc-dairytrial/comment_icon.png" >  in bottom corner 👇</p>
@@ -17,9 +17,7 @@ The best option for collecting, storing and transporting milk is the 10-litre �
 Mazzi cans are a new, improved type of milk container designed specifically to prevent spoilage. If Mazzi containers are not available in your area, use seamless aluminium or stainless steel cans for milking and storing milk...
 <br></br>
 
-![](./unlock_this.png)
-
-<h1 style="text-align: center;">🔒To unlock this topic you will need a full subscription <a href="/about">click here for full package info</a></h1>
+![](./access-soon.jpg)
 
 <br></br>
 

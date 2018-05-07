@@ -1,8 +1,8 @@
 ---
-title: 🔒 Sore Mouth
+title: Sore Mouth
 subTitle: Disease & animal health
 category: "disease & animal health"
-cover: lock-sore-mouth.png
+cover: unlock-sore-mouth.png
 ---
 <blockquote style="background: #f2f3f4;">
 <p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://s3.amazonaws.com/afc-dairytrial/comment_icon.png" >  in bottom corner 👇</p>
@@ -15,9 +15,7 @@ cover: lock-sore-mouth.png
 Foot-and-mouth disease (FMD) is a highly contagious and sometimes fatal viral disease. FMD can be confused with similar but less harmful diseases, including sore mouth. Except in rare cases, animals recover completely from sore mouth infections within a month...
 <br></br>
 
-![](./unlock_this.png)
-
-<h1 style="text-align: center;">🔒To unlock this topic you will need a full subscription <a href="/about">click here for full package info</a></h1>
+![](./access-soon.jpg)
 
 <br></br>
 

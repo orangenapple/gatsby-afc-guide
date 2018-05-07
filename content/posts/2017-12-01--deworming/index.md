@@ -1,8 +1,8 @@
 ---
-title: 🔒 Deworming
+title: Deworming
 subTitle: Disease & animal health
 category: "disease & animal health"
-cover: lock-deworming.png
+cover: unlock-deworming.png
 ---
 <blockquote style="background: #f2f3f4;">
 <p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://s3.amazonaws.com/afc-dairytrial/comment_icon.png" >  in bottom corner 👇</p>
@@ -15,9 +15,7 @@ cover: lock-deworming.png
 Dairy farmers can do much to ensure their stock remain healthy and productive. Deworming and vaccinations are a key part of that process...
 <br></br>
 
-![](./unlock_this.png)
-
-<h1 style="text-align: center;">🔒To unlock this topic you will need a full subscription <a href="/about">click here for full package info</a></h1>
+![](./access-soon.jpg)
 
 <br></br>
 

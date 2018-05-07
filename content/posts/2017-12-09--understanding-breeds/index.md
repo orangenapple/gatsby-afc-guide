@@ -1,8 +1,8 @@
 ---
-title: 🔒 Understanding breeds
+title: Understanding breeds
 subTitle: Getting Started
 category: "getting started"
-cover: lock-understanding-breeds.png
+cover: unlock-understanding-breeds.png
 ---
 <blockquote style="background: #f2f3f4;">
 <p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://s3.amazonaws.com/afc-dairytrial/comment_icon.png" >  in bottom corner 👇</p>
@@ -15,9 +15,7 @@ cover: lock-understanding-breeds.png
 There are very many dairy cattle breeds. However, there are a few common breeds in Kenya that we will go over here so you understand the key differences between them...
 <br></br>
 
-![](./unlock_this.png)
-
-<h1 style="text-align: center;">🔒To unlock this topic you will need a full subscription <a href="/about">click here for full package info</a></h1>
+![](./access-soon.jpg)
 
 <br></br>
 

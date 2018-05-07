@@ -1,8 +1,8 @@
 ---
-title: 🔒 Foot and Mouth Disease
+title: Foot and Mouth Disease
 subTitle: Disease & animal health
 category: "disease & animal health"
-cover: lock-foot-and-mouth-disease.png
+cover: unlock-foot-and-mouth-disease.png
 ---
 <blockquote style="background: #f2f3f4;">
 <p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://s3.amazonaws.com/afc-dairytrial/comment_icon.png" >  in bottom corner 👇</p>
@@ -16,9 +16,7 @@ Foot-and-mouth disease is a severe, highly contagious viral disease
 of cattle and swine. It also affects sheep, goats, and other cloven hooven animals. The disease is controlled through annual vaccination...
 <br></br>
 
-![](./unlock_this.png)
-
-<h1 style="text-align: center;">🔒To unlock this topic you will need a full subscription <a href="/about">click here for full package info</a></h1>
+![](./access-soon.jpg)
 
 <br></br>
 

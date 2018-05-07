@@ -1,8 +1,8 @@
 ---
-title: 🔒 Choosing Forages to Cultivate
+title: Choosing Forages to Cultivate
 subTitle: Getting started
 category: "getting started"
-cover: lock-choosing-forages-to-cultivate.png
+cover: unlock-choosing-forages.png
 ---
 <blockquote style="background: #f2f3f4;">
 <p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://s3.amazonaws.com/afc-dairytrial/comment_icon.png" >  in bottom corner 👇</p>
@@ -13,11 +13,10 @@ cover: lock-choosing-forages-to-cultivate.png
 </div>
 <br></br>
 Livestock feed is the second- highest cost for most dairy farmers, after the cost of purchasing cattle. These costs make it harder to profit from selling milk. A cost-effective approach for feeding dairy cattle is cultivating forage crops on your farm. This enables a farmer to supply feed for much less than it would cost to buy the same quality feed at market...
+
 <br></br>
 
-![](./unlock_this.png)
-
-<h1 style="text-align: center;">🔒To unlock this topic you will need a full subscription <a href="/about">click here for full package info</a></h1>
+![](./access-soon.jpg)
 
 <br></br>
 

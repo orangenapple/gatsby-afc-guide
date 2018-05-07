@@ -1,8 +1,8 @@
 ---
-title: 🔒 Preventing Mastitus
+title: Preventing Mastitus
 subTitle: Disease & animal health
 category: "disease & animal health"
-cover: lock-preventing-mastitus.png
+cover: unlock-preventing-mastitus.png
 ---
 <blockquote style="background: #f2f3f4;">
 <p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://africafarmersclub.com/static/comment_icon-fd465a3a52da53f109d439f079d19bf5-08634.png" >  in bottom corner 👇</p>
@@ -15,9 +15,7 @@ cover: lock-preventing-mastitus.png
 Mastitis is a potentially fatal mammary gland infection. It is one of the most costly issues in the dairy industry. In this post we discuss how to identify and handle the issue...
 <br></br>
 
-![](./unlock_this.png)
-
-<h1 style="text-align: center;">🔒To unlock this topic you will need a full subscription <a href="/about">click here for full package info</a></h1>
+![](./access-soon.jpg)
 
 <br></br>
 

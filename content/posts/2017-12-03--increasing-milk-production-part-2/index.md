@@ -1,8 +1,8 @@
 ---
-title: 🔒 Increasing  Milk Production - part 2
+title: Increasing  Milk Production - part 2
 subTitle: Production
 category: "production"
-cover: lock-increasing-milk-production.png
+cover: unlock-increasing-milk-production.png
 ---
 <blockquote style="background: #f2f3f4;">
 <p style="text-align: center; font-weight: 300; font-size: 0.9em">To add your question press <img style="height:2em;" src="https://s3.amazonaws.com/afc-dairytrial/comment_icon.png" >  in bottom corner 👇</p>
@@ -15,9 +15,7 @@ cover: lock-increasing-milk-production.png
 It's a question that every dairy farmer asks again and again. We explore this important topic even further in this second part...
 <br></br>
 
-![](./unlock_this.png)
-
-<h1 style="text-align: center;">🔒To unlock this topic you will need a full subscription <a href="/about">click here for full package info</a></h1>
+![](./access-soon.jpg)
 
 <br></br>
 
