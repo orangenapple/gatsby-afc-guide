@@ -150,13 +150,6 @@
         "componentChunkName": "component---src-templates-post-template-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "preventing-mastitus.json",
-        "path": "/preventing-mastitus/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "getting-better-prices.json",
         "path": "/getting-better-prices/"
     },
@@ -236,6 +229,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "feeding-calf.json",
         "path": "/feeding-calf/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "preventing-mastitus.json",
+        "path": "/preventing-mastitus/"
     },
     {
         "componentChunkName": "component---src-pages-contact-js",

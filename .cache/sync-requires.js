@@ -38,7 +38,6 @@ exports.json = {
   "heifer-rearing.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/heifer-rearing.json"),
   "increasing-milk-production-part-2.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/increasing-milk-production-part-2.json"),
   "feeding-dry-cows.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/feeding-dry-cows.json"),
-  "preventing-mastitus.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/preventing-mastitus.json"),
   "getting-better-prices.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/getting-better-prices.json"),
   "understanding-breeds.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/understanding-breeds.json"),
   "feeding-your-cow-basics.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/feeding-your-cow-basics.json"),
@@ -51,6 +50,7 @@ exports.json = {
   "about.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/about.json"),
   "starters.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/starters.json"),
   "feeding-calf.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/feeding-calf.json"),
+  "preventing-mastitus.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/preventing-mastitus.json"),
   "contact.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/contact.json"),
   "index.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/index.json"),
   "search.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/search.json")

@@ -1962,12 +1962,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-07T11:56:59.450Z",
+      "buildTime": "2018-05-14T14:04:28.731Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "327925794433e2a1f43e2a69e087ed11",
+        "contentDigest": "ce8a9f5d9d1f68e13f78ec717c81e868",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1977,7 +1977,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "fa06a6d1bf0dbb4d6eef694b2617191c",
+        "contentDigest": "5b76efd9a0bbcfec957a76b23ea3d0fe",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1988,7 +1988,7 @@
       "size": 1056,
       "prettySize": "1.06 kB",
       "modifiedTime": "2018-05-07T11:32:25.361Z",
-      "accessTime": "2018-05-07T11:57:03.157Z",
+      "accessTime": "2018-05-14T14:04:33.644Z",
       "changeTime": "2018-05-07T11:32:25.361Z",
       "birthTime": "2018-05-07T10:45:23.227Z",
       "root": "/",
@@ -2006,11 +2006,11 @@
       "blksize": 4194304,
       "ino": 8598660296,
       "blocks": 0,
-      "atimeMs": 1525694223157.4597,
+      "atimeMs": 1526306673643.98,
       "mtimeMs": 1525692745361.1602,
       "ctimeMs": 1525692745361.1602,
       "birthtimeMs": 1525689923227.1462,
-      "atime": "2018-05-07T11:57:03.157Z",
+      "atime": "2018-05-14T14:04:33.644Z",
       "mtime": "2018-05-07T11:32:25.361Z",
       "ctime": "2018-05-07T11:32:25.361Z",
       "birthtime": "2018-05-07T10:45:23.227Z"
@@ -2020,7 +2020,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "28666ddaccf6dcc9964bc2d3f8a97dc2",
+        "contentDigest": "ff952d8e867c87d131578d7a9e0d6849",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2031,7 +2031,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-05-07T10:45:23.236Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.665Z",
       "changeTime": "2018-05-07T10:45:23.236Z",
       "birthTime": "2018-05-07T10:45:23.227Z",
       "root": "/",
@@ -2049,11 +2049,11 @@
       "blksize": 4194304,
       "ino": 8598660297,
       "blocks": 0,
-      "atimeMs": 1525694223169.7249,
+      "atimeMs": 1526306673664.5935,
       "mtimeMs": 1525689923235.5862,
       "ctimeMs": 1525689923235.5862,
       "birthtimeMs": 1525689923227.2312,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.665Z",
       "mtime": "2018-05-07T10:45:23.236Z",
       "ctime": "2018-05-07T10:45:23.236Z",
       "birthtime": "2018-05-07T10:45:23.227Z"
@@ -2063,7 +2063,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9b31dbdab493ef70df950d1baeaa6dd6",
+        "contentDigest": "ab0ac2fa4357cce4bddeb7d070777cf5",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2074,7 +2074,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.261Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.665Z",
       "changeTime": "2018-05-07T10:45:23.261Z",
       "birthTime": "2018-05-07T10:45:23.242Z",
       "root": "/",
@@ -2092,11 +2092,11 @@
       "blksize": 4194304,
       "ino": 8598660301,
       "blocks": 0,
-      "atimeMs": 1525694223169.736,
+      "atimeMs": 1526306673664.6858,
       "mtimeMs": 1525689923261.4216,
       "ctimeMs": 1525689923261.4216,
       "birthtimeMs": 1525689923241.7607,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.665Z",
       "mtime": "2018-05-07T10:45:23.261Z",
       "ctime": "2018-05-07T10:45:23.261Z",
       "birthtime": "2018-05-07T10:45:23.242Z"
@@ -2106,7 +2106,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9ad226f81d6f710bba0eb55451ae477d",
+        "contentDigest": "9ad067bf879aab9fd45b78d543f1a434",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2117,7 +2117,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2018-05-07T11:32:40.472Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.665Z",
       "changeTime": "2018-05-07T11:32:40.472Z",
       "birthTime": "2018-05-07T10:45:23.266Z",
       "root": "/",
@@ -2135,11 +2135,11 @@
       "blksize": 4194304,
       "ino": 8598660307,
       "blocks": 0,
-      "atimeMs": 1525694223169.702,
+      "atimeMs": 1526306673664.8142,
       "mtimeMs": 1525692760472.489,
       "ctimeMs": 1525692760472.489,
       "birthtimeMs": 1525689923265.9624,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.665Z",
       "mtime": "2018-05-07T11:32:40.472Z",
       "ctime": "2018-05-07T11:32:40.472Z",
       "birthtime": "2018-05-07T10:45:23.266Z"
@@ -2149,7 +2149,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "203d0daff6a08e526ae3b52775b3225f",
+        "contentDigest": "c01c2cc6c8d6864cb0b87ee4043d1138",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2160,7 +2160,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.298Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.665Z",
       "changeTime": "2018-05-07T10:45:23.298Z",
       "birthTime": "2018-05-07T10:45:23.285Z",
       "root": "/",
@@ -2178,11 +2178,11 @@
       "blksize": 4194304,
       "ino": 8598660313,
       "blocks": 0,
-      "atimeMs": 1525694223169.7793,
+      "atimeMs": 1526306673664.8735,
       "mtimeMs": 1525689923297.7454,
       "ctimeMs": 1525689923297.7454,
       "birthtimeMs": 1525689923285.1387,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.665Z",
       "mtime": "2018-05-07T10:45:23.298Z",
       "ctime": "2018-05-07T10:45:23.298Z",
       "birthtime": "2018-05-07T10:45:23.285Z"
@@ -2192,7 +2192,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "67519b97cb2777594050bbfb57142e24",
+        "contentDigest": "8f60eab0ab107648e11c91b0bccb178c",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2203,7 +2203,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.321Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.665Z",
       "changeTime": "2018-05-07T10:45:23.321Z",
       "birthTime": "2018-05-07T10:45:23.301Z",
       "root": "/",
@@ -2221,11 +2221,11 @@
       "blksize": 4194304,
       "ino": 8598660319,
       "blocks": 0,
-      "atimeMs": 1525694223169.8513,
+      "atimeMs": 1526306673665.1885,
       "mtimeMs": 1525689923321.4236,
       "ctimeMs": 1525689923321.4236,
       "birthtimeMs": 1525689923300.674,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.665Z",
       "mtime": "2018-05-07T10:45:23.321Z",
       "ctime": "2018-05-07T10:45:23.321Z",
       "birthtime": "2018-05-07T10:45:23.301Z"
@@ -2235,7 +2235,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7c50fc3148ba423cb34eeb4a7d313520",
+        "contentDigest": "cf75bfcf74adbe16049320c72f637d38",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2246,7 +2246,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.375Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.665Z",
       "changeTime": "2018-05-07T10:45:23.375Z",
       "birthTime": "2018-05-07T10:45:23.327Z",
       "root": "/",
@@ -2264,11 +2264,11 @@
       "blksize": 4194304,
       "ino": 8598660325,
       "blocks": 0,
-      "atimeMs": 1525694223169.9275,
+      "atimeMs": 1526306673665.2144,
       "mtimeMs": 1525689923374.8967,
       "ctimeMs": 1525689923374.8967,
       "birthtimeMs": 1525689923326.7996,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.665Z",
       "mtime": "2018-05-07T10:45:23.375Z",
       "ctime": "2018-05-07T10:45:23.375Z",
       "birthtime": "2018-05-07T10:45:23.327Z"
@@ -2278,7 +2278,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a026c0cc3c742507a1981cdcf0c08ea0",
+        "contentDigest": "0e46bbe3028388663474acd774f48dbc",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2289,7 +2289,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.398Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.665Z",
       "changeTime": "2018-05-07T10:45:23.398Z",
       "birthTime": "2018-05-07T10:45:23.379Z",
       "root": "/",
@@ -2307,11 +2307,11 @@
       "blksize": 4194304,
       "ino": 8598660331,
       "blocks": 0,
-      "atimeMs": 1525694223169.7844,
+      "atimeMs": 1526306673664.9976,
       "mtimeMs": 1525689923398.0205,
       "ctimeMs": 1525689923398.0205,
       "birthtimeMs": 1525689923378.5742,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.665Z",
       "mtime": "2018-05-07T10:45:23.398Z",
       "ctime": "2018-05-07T10:45:23.398Z",
       "birthtime": "2018-05-07T10:45:23.379Z"
@@ -2321,7 +2321,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e76ff922dd10510fc2bdedd2de1052bf",
+        "contentDigest": "b42088fc579776acdbd34d049b4a010c",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2332,7 +2332,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.428Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.665Z",
       "changeTime": "2018-05-07T10:45:23.428Z",
       "birthTime": "2018-05-07T10:45:23.402Z",
       "root": "/",
@@ -2350,11 +2350,11 @@
       "blksize": 4194304,
       "ino": 8598660337,
       "blocks": 0,
-      "atimeMs": 1525694223169.8308,
+      "atimeMs": 1526306673665.0503,
       "mtimeMs": 1525689923428.4414,
       "ctimeMs": 1525689923428.4414,
       "birthtimeMs": 1525689923401.7988,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.665Z",
       "mtime": "2018-05-07T10:45:23.428Z",
       "ctime": "2018-05-07T10:45:23.428Z",
       "birthtime": "2018-05-07T10:45:23.402Z"
@@ -2364,7 +2364,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f66935852ec8def97d4855939d0a48be",
+        "contentDigest": "4fe8eb1a9ca444e7a8c4448c7359ca11",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2375,7 +2375,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.458Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.665Z",
       "changeTime": "2018-05-07T10:45:23.458Z",
       "birthTime": "2018-05-07T10:45:23.432Z",
       "root": "/",
@@ -2393,11 +2393,11 @@
       "blksize": 4194304,
       "ino": 8598660343,
       "blocks": 0,
-      "atimeMs": 1525694223169.9033,
+      "atimeMs": 1526306673665.0735,
       "mtimeMs": 1525689923457.7908,
       "ctimeMs": 1525689923457.7908,
       "birthtimeMs": 1525689923432.1123,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.665Z",
       "mtime": "2018-05-07T10:45:23.458Z",
       "ctime": "2018-05-07T10:45:23.458Z",
       "birthtime": "2018-05-07T10:45:23.432Z"
@@ -2407,7 +2407,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2dbbb9592ee6a59c33155bb710d46974",
+        "contentDigest": "99321ac85cd79d29b4f0df3e8b090d5a",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2418,7 +2418,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.496Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.665Z",
       "changeTime": "2018-05-07T10:45:23.496Z",
       "birthTime": "2018-05-07T10:45:23.461Z",
       "root": "/",
@@ -2436,11 +2436,11 @@
       "blksize": 4194304,
       "ino": 8598660349,
       "blocks": 0,
-      "atimeMs": 1525694223169.9023,
+      "atimeMs": 1526306673665.1187,
       "mtimeMs": 1525689923496.0117,
       "ctimeMs": 1525689923496.0117,
       "birthtimeMs": 1525689923461.4697,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.665Z",
       "mtime": "2018-05-07T10:45:23.496Z",
       "ctime": "2018-05-07T10:45:23.496Z",
       "birthtime": "2018-05-07T10:45:23.461Z"
@@ -2450,7 +2450,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2737637461d47ffdad87e07ac60a3205",
+        "contentDigest": "e8cb2cc05517a0d59975be01f58e2cbc",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2461,7 +2461,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.547Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.666Z",
       "changeTime": "2018-05-07T10:45:23.547Z",
       "birthTime": "2018-05-07T10:45:23.499Z",
       "root": "/",
@@ -2479,11 +2479,11 @@
       "blksize": 4194304,
       "ino": 8598660355,
       "blocks": 0,
-      "atimeMs": 1525694223169.9478,
+      "atimeMs": 1526306673665.6301,
       "mtimeMs": 1525689923546.5393,
       "ctimeMs": 1525689923546.5393,
       "birthtimeMs": 1525689923498.9324,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.666Z",
       "mtime": "2018-05-07T10:45:23.547Z",
       "ctime": "2018-05-07T10:45:23.547Z",
       "birthtime": "2018-05-07T10:45:23.499Z"
@@ -2493,7 +2493,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "68d989c9a41a8b66ef4a74df424c188e",
+        "contentDigest": "05e9c2b7ede1f47777c948b3650c4941",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2504,7 +2504,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.575Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.665Z",
       "changeTime": "2018-05-07T10:45:23.575Z",
       "birthTime": "2018-05-07T10:45:23.550Z",
       "root": "/",
@@ -2522,11 +2522,11 @@
       "blksize": 4194304,
       "ino": 8598660361,
       "blocks": 0,
-      "atimeMs": 1525694223169.9966,
+      "atimeMs": 1526306673665.147,
       "mtimeMs": 1525689923574.768,
       "ctimeMs": 1525689923574.768,
       "birthtimeMs": 1525689923550.371,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.665Z",
       "mtime": "2018-05-07T10:45:23.575Z",
       "ctime": "2018-05-07T10:45:23.575Z",
       "birthtime": "2018-05-07T10:45:23.550Z"
@@ -2536,7 +2536,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c2ac24d017e00850653e8e5cacf137d4",
+        "contentDigest": "ea088008a1e9272b5a0f424a0fa658a1",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2547,7 +2547,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.627Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.665Z",
       "changeTime": "2018-05-07T10:45:23.627Z",
       "birthTime": "2018-05-07T10:45:23.605Z",
       "root": "/",
@@ -2565,11 +2565,11 @@
       "blksize": 4194304,
       "ino": 8598660373,
       "blocks": 0,
-      "atimeMs": 1525694223170.002,
+      "atimeMs": 1526306673665.2964,
       "mtimeMs": 1525689923627.1821,
       "ctimeMs": 1525689923627.1821,
       "birthtimeMs": 1525689923605.0312,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.665Z",
       "mtime": "2018-05-07T10:45:23.627Z",
       "ctime": "2018-05-07T10:45:23.627Z",
       "birthtime": "2018-05-07T10:45:23.605Z"
@@ -2579,7 +2579,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3667e12e9a87678b43391d44b4ec654c",
+        "contentDigest": "dc4e59277d96d451da030a15811dd0b6",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2590,7 +2590,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.602Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.665Z",
       "changeTime": "2018-05-07T10:45:23.602Z",
       "birthTime": "2018-05-07T10:45:23.579Z",
       "root": "/",
@@ -2608,11 +2608,11 @@
       "blksize": 4194304,
       "ino": 8598660367,
       "blocks": 0,
-      "atimeMs": 1525694223169.9585,
+      "atimeMs": 1526306673665.2493,
       "mtimeMs": 1525689923602.3098,
       "ctimeMs": 1525689923602.3098,
       "birthtimeMs": 1525689923578.5503,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.665Z",
       "mtime": "2018-05-07T10:45:23.602Z",
       "ctime": "2018-05-07T10:45:23.602Z",
       "birthtime": "2018-05-07T10:45:23.579Z"
@@ -2622,7 +2622,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ba4158dc2f67bf4740459ee0c315ddbd",
+        "contentDigest": "563f38f7c919f26c558077a6f2e3cb7a",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2633,7 +2633,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.650Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.665Z",
       "changeTime": "2018-05-07T10:45:23.650Z",
       "birthTime": "2018-05-07T10:45:23.630Z",
       "root": "/",
@@ -2651,11 +2651,11 @@
       "blksize": 4194304,
       "ino": 8598660379,
       "blocks": 0,
-      "atimeMs": 1525694223170.0564,
+      "atimeMs": 1526306673665.3591,
       "mtimeMs": 1525689923650.0474,
       "ctimeMs": 1525689923650.0474,
       "birthtimeMs": 1525689923630.3428,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.665Z",
       "mtime": "2018-05-07T10:45:23.650Z",
       "ctime": "2018-05-07T10:45:23.650Z",
       "birthtime": "2018-05-07T10:45:23.630Z"
@@ -2665,7 +2665,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "1ad6397f5b7cd59caa0651723627345c",
+        "contentDigest": "407ba1a4b80b8a327d9dd61261743e2c",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2676,7 +2676,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.669Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.665Z",
       "changeTime": "2018-05-07T10:45:23.669Z",
       "birthTime": "2018-05-07T10:45:23.653Z",
       "root": "/",
@@ -2694,11 +2694,11 @@
       "blksize": 4194304,
       "ino": 8598660385,
       "blocks": 0,
-      "atimeMs": 1525694223170.017,
+      "atimeMs": 1526306673665.323,
       "mtimeMs": 1525689923668.9963,
       "ctimeMs": 1525689923668.9963,
       "birthtimeMs": 1525689923652.9375,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.665Z",
       "mtime": "2018-05-07T10:45:23.669Z",
       "ctime": "2018-05-07T10:45:23.669Z",
       "birthtime": "2018-05-07T10:45:23.653Z"
@@ -2708,7 +2708,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "63f466754bc1b5e2277e156c34aed54f",
+        "contentDigest": "0287c646fc850f075ffed779ea5e1a91",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2719,7 +2719,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.706Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.665Z",
       "changeTime": "2018-05-07T10:45:23.706Z",
       "birthTime": "2018-05-07T10:45:23.672Z",
       "root": "/",
@@ -2737,11 +2737,11 @@
       "blksize": 4194304,
       "ino": 8598660391,
       "blocks": 0,
-      "atimeMs": 1525694223170.0598,
+      "atimeMs": 1526306673665.3933,
       "mtimeMs": 1525689923705.8245,
       "ctimeMs": 1525689923705.8245,
       "birthtimeMs": 1525689923672.032,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.665Z",
       "mtime": "2018-05-07T10:45:23.706Z",
       "ctime": "2018-05-07T10:45:23.706Z",
       "birthtime": "2018-05-07T10:45:23.672Z"
@@ -2751,7 +2751,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "df7e5307a4d8c787bbad023c461b2bdd",
+        "contentDigest": "05b1bb867aa3a94d1e53f33e1bf4934d",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2762,7 +2762,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.726Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.665Z",
       "changeTime": "2018-05-07T10:45:23.726Z",
       "birthTime": "2018-05-07T10:45:23.709Z",
       "root": "/",
@@ -2780,11 +2780,11 @@
       "blksize": 4194304,
       "ino": 8598660397,
       "blocks": 0,
-      "atimeMs": 1525694223170.094,
+      "atimeMs": 1526306673665.455,
       "mtimeMs": 1525689923726.2217,
       "ctimeMs": 1525689923726.2217,
       "birthtimeMs": 1525689923708.6785,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.665Z",
       "mtime": "2018-05-07T10:45:23.726Z",
       "ctime": "2018-05-07T10:45:23.726Z",
       "birthtime": "2018-05-07T10:45:23.709Z"
@@ -2794,7 +2794,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f5295b2cf9763a8b520094f74e34c670",
+        "contentDigest": "d7f46dbc3f15d556dfc0690c2e6ed7bb",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2805,7 +2805,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.750Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.665Z",
       "changeTime": "2018-05-07T10:45:23.750Z",
       "birthTime": "2018-05-07T10:45:23.730Z",
       "root": "/",
@@ -2823,11 +2823,11 @@
       "blksize": 4194304,
       "ino": 8598660403,
       "blocks": 0,
-      "atimeMs": 1525694223170.0828,
+      "atimeMs": 1526306673665.498,
       "mtimeMs": 1525689923750.2864,
       "ctimeMs": 1525689923750.2864,
       "birthtimeMs": 1525689923729.8323,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.665Z",
       "mtime": "2018-05-07T10:45:23.750Z",
       "ctime": "2018-05-07T10:45:23.750Z",
       "birthtime": "2018-05-07T10:45:23.730Z"
@@ -2837,7 +2837,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3f7e4103d29a9ad430a019f3efd40c03",
+        "contentDigest": "83b92096adeffc1edbda8bbf0ba83bb6",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2848,7 +2848,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.778Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.666Z",
       "changeTime": "2018-05-07T10:45:23.778Z",
       "birthTime": "2018-05-07T10:45:23.753Z",
       "root": "/",
@@ -2866,11 +2866,11 @@
       "blksize": 4194304,
       "ino": 8598660409,
       "blocks": 0,
-      "atimeMs": 1525694223170.134,
+      "atimeMs": 1526306673665.5195,
       "mtimeMs": 1525689923777.6348,
       "ctimeMs": 1525689923777.6348,
       "birthtimeMs": 1525689923753.4602,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.666Z",
       "mtime": "2018-05-07T10:45:23.778Z",
       "ctime": "2018-05-07T10:45:23.778Z",
       "birthtime": "2018-05-07T10:45:23.753Z"
@@ -2880,7 +2880,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c00c54e12fc39a6ff6ece9fbfa9254c2",
+        "contentDigest": "166b960c898b5a5920e42198fec9b5f6",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2891,7 +2891,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.797Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.666Z",
       "changeTime": "2018-05-07T10:45:23.797Z",
       "birthTime": "2018-05-07T10:45:23.781Z",
       "root": "/",
@@ -2909,11 +2909,11 @@
       "blksize": 4194304,
       "ino": 8598660415,
       "blocks": 0,
-      "atimeMs": 1525694223170.1367,
+      "atimeMs": 1526306673665.539,
       "mtimeMs": 1525689923796.9004,
       "ctimeMs": 1525689923796.9004,
       "birthtimeMs": 1525689923780.75,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.666Z",
       "mtime": "2018-05-07T10:45:23.797Z",
       "ctime": "2018-05-07T10:45:23.797Z",
       "birthtime": "2018-05-07T10:45:23.781Z"
@@ -2923,7 +2923,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2a344ff45df1b11c70ae328ace08c555",
+        "contentDigest": "277637d6c110624d572820e14e276a43",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2934,7 +2934,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.812Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.666Z",
       "changeTime": "2018-05-07T10:45:23.812Z",
       "birthTime": "2018-05-07T10:45:23.800Z",
       "root": "/",
@@ -2952,11 +2952,11 @@
       "blksize": 4194304,
       "ino": 8598660421,
       "blocks": 0,
-      "atimeMs": 1525694223170.4421,
+      "atimeMs": 1526306673665.5576,
       "mtimeMs": 1525689923811.6453,
       "ctimeMs": 1525689923811.6453,
       "birthtimeMs": 1525689923799.9692,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.666Z",
       "mtime": "2018-05-07T10:45:23.812Z",
       "ctime": "2018-05-07T10:45:23.812Z",
       "birthtime": "2018-05-07T10:45:23.800Z"
@@ -2966,7 +2966,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b88a2fc07321f9d8a2af0894b24f9d4a",
+        "contentDigest": "7f4188648a5d8574f613f155e2eb01b2",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2976,9 +2976,9 @@
       "extension": "",
       "size": 224,
       "prettySize": "224 B",
-      "modifiedTime": "2018-05-07T10:45:23.836Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
-      "changeTime": "2018-05-07T10:45:23.836Z",
+      "modifiedTime": "2018-05-14T13:41:13.310Z",
+      "accessTime": "2018-05-14T14:04:33.666Z",
+      "changeTime": "2018-05-14T13:41:13.310Z",
       "birthTime": "2018-05-07T10:45:23.815Z",
       "root": "/",
       "dir": "/Users/georgiabarrie/gatsby-afc-guide/content/posts",
@@ -2995,13 +2995,13 @@
       "blksize": 4194304,
       "ino": 8598660427,
       "blocks": 0,
-      "atimeMs": 1525694223170.3726,
-      "mtimeMs": 1525689923835.9316,
-      "ctimeMs": 1525689923835.9316,
+      "atimeMs": 1526306673665.5935,
+      "mtimeMs": 1526305273309.612,
+      "ctimeMs": 1526305273309.612,
       "birthtimeMs": 1525689923815.1436,
-      "atime": "2018-05-07T11:57:03.170Z",
-      "mtime": "2018-05-07T10:45:23.836Z",
-      "ctime": "2018-05-07T10:45:23.836Z",
+      "atime": "2018-05-14T14:04:33.666Z",
+      "mtime": "2018-05-14T13:41:13.310Z",
+      "ctime": "2018-05-14T13:41:13.310Z",
       "birthtime": "2018-05-07T10:45:23.815Z"
     },
     "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-09--understanding-breeds absPath of file": {
@@ -3009,7 +3009,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "128840d21320ebebc220e0d23852a602",
+        "contentDigest": "7c1c5ecfbd0448b60f7fa090ad9c8937",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3020,7 +3020,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.864Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.666Z",
       "changeTime": "2018-05-07T10:45:23.864Z",
       "birthTime": "2018-05-07T10:45:23.840Z",
       "root": "/",
@@ -3038,11 +3038,11 @@
       "blksize": 4194304,
       "ino": 8598660433,
       "blocks": 0,
-      "atimeMs": 1525694223170.1538,
+      "atimeMs": 1526306673665.5764,
       "mtimeMs": 1525689923864.0876,
       "ctimeMs": 1525689923864.0876,
       "birthtimeMs": 1525689923839.6416,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.666Z",
       "mtime": "2018-05-07T10:45:23.864Z",
       "ctime": "2018-05-07T10:45:23.864Z",
       "birthtime": "2018-05-07T10:45:23.840Z"
@@ -3052,7 +3052,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f8135f05465de6b093f26c40781564fc",
+        "contentDigest": "d7bc4a6c2fee2f2ef85dd6730a013f45",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3063,7 +3063,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2018-05-07T10:45:23.889Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.666Z",
       "changeTime": "2018-05-07T10:45:23.889Z",
       "birthTime": "2018-05-07T10:45:23.867Z",
       "root": "/",
@@ -3081,11 +3081,11 @@
       "blksize": 4194304,
       "ino": 8598660439,
       "blocks": 0,
-      "atimeMs": 1525694223170.4138,
+      "atimeMs": 1526306673665.6113,
       "mtimeMs": 1525689923888.6956,
       "ctimeMs": 1525689923888.6956,
       "birthtimeMs": 1525689923866.8938,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.666Z",
       "mtime": "2018-05-07T10:45:23.889Z",
       "ctime": "2018-05-07T10:45:23.889Z",
       "birthtime": "2018-05-07T10:45:23.867Z"
@@ -3095,7 +3095,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f85b99a8599440d8b840cdb07f54e7f2",
+        "contentDigest": "1eff90590834359ece84cc437dae7e64",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3106,7 +3106,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2018-05-07T10:45:23.921Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.666Z",
       "changeTime": "2018-05-07T10:45:23.921Z",
       "birthTime": "2018-05-07T10:45:23.893Z",
       "root": "/",
@@ -3124,11 +3124,11 @@
       "blksize": 4194304,
       "ino": 8598660444,
       "blocks": 0,
-      "atimeMs": 1525694223170.469,
+      "atimeMs": 1526306673665.6643,
       "mtimeMs": 1525689923920.5432,
       "ctimeMs": 1525689923920.5432,
       "birthtimeMs": 1525689923893.1082,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.666Z",
       "mtime": "2018-05-07T10:45:23.921Z",
       "ctime": "2018-05-07T10:45:23.921Z",
       "birthtime": "2018-05-07T10:45:23.893Z"
@@ -3138,7 +3138,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9da3735ba4d5c66eb83b97de70a05aea",
+        "contentDigest": "4b15f4539353bb0b16be1aa0a06ea264",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3149,7 +3149,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-05-07T10:45:23.928Z",
-      "accessTime": "2018-05-07T11:57:03.170Z",
+      "accessTime": "2018-05-14T14:04:33.666Z",
       "changeTime": "2018-05-07T10:45:23.928Z",
       "birthTime": "2018-05-07T10:45:23.924Z",
       "root": "/",
@@ -3167,11 +3167,11 @@
       "blksize": 4194304,
       "ino": 8598660452,
       "blocks": 0,
-      "atimeMs": 1525694223170.4941,
+      "atimeMs": 1526306673665.646,
       "mtimeMs": 1525689923928.4927,
       "ctimeMs": 1525689923928.4927,
       "birthtimeMs": 1525689923923.8574,
-      "atime": "2018-05-07T11:57:03.170Z",
+      "atime": "2018-05-14T14:04:33.666Z",
       "mtime": "2018-05-07T10:45:23.928Z",
       "ctime": "2018-05-07T10:45:23.928Z",
       "birthtime": "2018-05-07T10:45:23.924Z"
@@ -3181,7 +3181,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a7af45be1cd56798600b7d190232b016",
+        "contentDigest": "448e66a2c2e331ff49f19539578c7142",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3192,7 +3192,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2018-05-07T10:45:23.960Z",
-      "accessTime": "2018-05-07T11:57:03.171Z",
+      "accessTime": "2018-05-14T14:04:33.666Z",
       "changeTime": "2018-05-07T10:45:23.960Z",
       "birthTime": "2018-05-07T10:45:23.934Z",
       "root": "/",
@@ -3210,11 +3210,11 @@
       "blksize": 4194304,
       "ino": 8598660455,
       "blocks": 0,
-      "atimeMs": 1525694223170.5781,
+      "atimeMs": 1526306673665.797,
       "mtimeMs": 1525689923960.0623,
       "ctimeMs": 1525689923960.0623,
       "birthtimeMs": 1525689923933.6335,
-      "atime": "2018-05-07T11:57:03.171Z",
+      "atime": "2018-05-14T14:04:33.666Z",
       "mtime": "2018-05-07T10:45:23.960Z",
       "ctime": "2018-05-07T10:45:23.960Z",
       "birthtime": "2018-05-07T10:45:23.934Z"
@@ -3224,7 +3224,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "be303413dc7ea5a16b17491fa64fbca0",
+        "contentDigest": "311e9af0cc08cf4aed550c30e15d5570",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3235,7 +3235,7 @@
       "size": 480,
       "prettySize": "480 B",
       "modifiedTime": "2018-05-07T10:45:24.001Z",
-      "accessTime": "2018-05-07T11:57:03.171Z",
+      "accessTime": "2018-05-14T14:04:33.666Z",
       "changeTime": "2018-05-07T10:45:24.001Z",
       "birthTime": "2018-05-07T10:45:23.966Z",
       "root": "/",
@@ -3253,11 +3253,11 @@
       "blksize": 4194304,
       "ino": 8598660462,
       "blocks": 0,
-      "atimeMs": 1525694223171.0312,
+      "atimeMs": 1526306673665.9211,
       "mtimeMs": 1525689924000.7156,
       "ctimeMs": 1525689924000.7156,
       "birthtimeMs": 1525689923966.3623,
-      "atime": "2018-05-07T11:57:03.171Z",
+      "atime": "2018-05-14T14:04:33.666Z",
       "mtime": "2018-05-07T10:45:24.001Z",
       "ctime": "2018-05-07T10:45:24.001Z",
       "birthtime": "2018-05-07T10:45:23.966Z"
@@ -3267,7 +3267,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3db453c5bb449e14a9f540f722df144d",
+        "contentDigest": "f9add911d1a85e91a91f5d1ebe9eb0d0",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3278,7 +3278,7 @@
       "size": 576,
       "prettySize": "576 B",
       "modifiedTime": "2018-05-07T10:45:24.047Z",
-      "accessTime": "2018-05-07T11:57:03.171Z",
+      "accessTime": "2018-05-14T14:04:33.666Z",
       "changeTime": "2018-05-07T10:45:24.047Z",
       "birthTime": "2018-05-07T10:45:24.003Z",
       "root": "/",
@@ -3296,11 +3296,11 @@
       "blksize": 4194304,
       "ino": 8598660476,
       "blocks": 0,
-      "atimeMs": 1525694223171.2095,
+      "atimeMs": 1526306673666.2559,
       "mtimeMs": 1525689924047.41,
       "ctimeMs": 1525689924047.41,
       "birthtimeMs": 1525689924003.191,
-      "atime": "2018-05-07T11:57:03.171Z",
+      "atime": "2018-05-14T14:04:33.666Z",
       "mtime": "2018-05-07T10:45:24.047Z",
       "ctime": "2018-05-07T10:45:24.047Z",
       "birthtime": "2018-05-07T10:45:24.003Z"
@@ -3310,7 +3310,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d03632b35ba48f02c7363b865d4048f6",
+        "contentDigest": "446e871cc05b3dcd36d907c543308a15",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3321,7 +3321,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-05-07T10:45:23.895Z",
-      "accessTime": "2018-05-07T11:57:03.184Z",
+      "accessTime": "2018-05-14T14:04:33.685Z",
       "changeTime": "2018-05-07T10:45:23.895Z",
       "birthTime": "2018-05-07T10:45:23.895Z",
       "root": "/",
@@ -3339,11 +3339,11 @@
       "blksize": 4194304,
       "ino": 8598660446,
       "blocks": 0,
-      "atimeMs": 1525694223184.3484,
+      "atimeMs": 1526306673684.885,
       "mtimeMs": 1525689923895.4355,
       "ctimeMs": 1525689923895.4355,
       "birthtimeMs": 1525689923895.3425,
-      "atime": "2018-05-07T11:57:03.184Z",
+      "atime": "2018-05-14T14:04:33.685Z",
       "mtime": "2018-05-07T10:45:23.895Z",
       "ctime": "2018-05-07T10:45:23.895Z",
       "birthtime": "2018-05-07T10:45:23.895Z"
@@ -4321,7 +4321,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a43b1dc84f6364ab4a403aeb989b7270",
+        "contentDigest": "c21c0836be9dbaf50761da9299d67ea2",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -4330,11 +4330,11 @@
       "absolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/index.md",
       "relativePath": "2017-12-07--preventing-mastitus/index.md",
       "extension": "md",
-      "size": 1281,
-      "prettySize": "1.28 kB",
-      "modifiedTime": "2018-05-07T10:45:23.818Z",
-      "accessTime": "2018-05-07T10:45:23.905Z",
-      "changeTime": "2018-05-07T10:45:23.818Z",
+      "size": 7056,
+      "prettySize": "7.06 kB",
+      "modifiedTime": "2018-05-14T14:03:09.930Z",
+      "accessTime": "2018-05-14T14:03:04.376Z",
+      "changeTime": "2018-05-14T14:03:09.930Z",
       "birthTime": "2018-05-07T10:45:23.818Z",
       "root": "/",
       "dir": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus",
@@ -4350,14 +4350,14 @@
       "rdev": 0,
       "blksize": 4194304,
       "ino": 8598660429,
-      "blocks": 8,
-      "atimeMs": 1525689923904.8655,
-      "mtimeMs": 1525689923817.974,
-      "ctimeMs": 1525689923817.974,
+      "blocks": 16,
+      "atimeMs": 1526306584376.154,
+      "mtimeMs": 1526306589930.466,
+      "ctimeMs": 1526306589930.466,
       "birthtimeMs": 1525689923817.8616,
-      "atime": "2018-05-07T10:45:23.905Z",
-      "mtime": "2018-05-07T10:45:23.818Z",
-      "ctime": "2018-05-07T10:45:23.818Z",
+      "atime": "2018-05-14T14:03:04.376Z",
+      "mtime": "2018-05-14T14:03:09.930Z",
+      "ctime": "2018-05-14T14:03:09.930Z",
       "birthtime": "2018-05-07T10:45:23.818Z"
     },
     "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-11--getting-better-prices/index.md absPath of file": {
@@ -6700,52 +6700,6 @@
       "ctime": "2018-05-07T10:45:23.242Z",
       "birthtime": "2018-05-07T10:45:23.242Z"
     },
-    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/access-soon.jpg absPath of file": {
-      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/access-soon.jpg absPath of file",
-      "children": [
-        "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/access-soon.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "e30cc9a385c6bbad59ad3ae758e7f0b3",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/access-soon.jpg",
-      "relativePath": "2017-12-07--preventing-mastitus/access-soon.jpg",
-      "extension": "jpg",
-      "size": 70440,
-      "prettySize": "70.4 kB",
-      "modifiedTime": "2018-05-07T10:45:23.816Z",
-      "accessTime": "2018-05-07T10:45:23.901Z",
-      "changeTime": "2018-05-07T10:45:23.816Z",
-      "birthTime": "2018-05-07T10:45:23.815Z",
-      "root": "/",
-      "dir": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus",
-      "base": "access-soon.jpg",
-      "ext": ".jpg",
-      "name": "access-soon",
-      "relativeDirectory": "2017-12-07--preventing-mastitus",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8598660428,
-      "blocks": 144,
-      "atimeMs": 1525689923901.4539,
-      "mtimeMs": 1525689923815.8794,
-      "ctimeMs": 1525689923815.8794,
-      "birthtimeMs": 1525689923815.2534,
-      "atime": "2018-05-07T10:45:23.901Z",
-      "mtime": "2018-05-07T10:45:23.816Z",
-      "ctime": "2018-05-07T10:45:23.816Z",
-      "birthtime": "2018-05-07T10:45:23.815Z"
-    },
     "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-09--understanding-breeds/access-soon.jpg absPath of file": {
       "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-09--understanding-breeds/access-soon.jpg absPath of file",
       "children": [
@@ -8434,16 +8388,6 @@
       "ctime": "2018-05-07T10:45:23.798Z",
       "birthtime": "2018-05-07T10:45:23.797Z"
     },
-    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/access-soon.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/access-soon.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/access-soon.jpg absPath of file",
-      "internal": {
-        "contentDigest": "e30cc9a385c6bbad59ad3ae758e7f0b3",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
     "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-09--understanding-breeds/access-soon.jpg absPath of file >> ImageSharp": {
       "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-09--understanding-breeds/access-soon.jpg absPath of file >> ImageSharp",
       "children": [],
@@ -8559,52 +8503,6 @@
       "mtime": "2018-05-07T10:45:23.265Z",
       "ctime": "2018-05-07T10:45:23.265Z",
       "birthtime": "2018-05-07T10:45:23.261Z"
-    },
-    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/unlock_this.png absPath of file": {
-      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/unlock_this.png absPath of file",
-      "children": [
-        "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/unlock_this.png absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "03aff4db18ef8a8293a077c40817b2e1",
-        "mediaType": "image/png",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/unlock_this.png",
-      "relativePath": "2017-12-07--preventing-mastitus/unlock_this.png",
-      "extension": "png",
-      "size": 253846,
-      "prettySize": "254 kB",
-      "modifiedTime": "2018-05-07T10:45:23.838Z",
-      "accessTime": "2018-05-07T10:45:23.912Z",
-      "changeTime": "2018-05-07T10:45:23.838Z",
-      "birthTime": "2018-05-07T10:45:23.836Z",
-      "root": "/",
-      "dir": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus",
-      "base": "unlock_this.png",
-      "ext": ".png",
-      "name": "unlock_this",
-      "relativeDirectory": "2017-12-07--preventing-mastitus",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8598660432,
-      "blocks": 496,
-      "atimeMs": 1525689923911.9675,
-      "mtimeMs": 1525689923837.9211,
-      "ctimeMs": 1525689923837.9211,
-      "birthtimeMs": 1525689923835.919,
-      "atime": "2018-05-07T10:45:23.912Z",
-      "mtime": "2018-05-07T10:45:23.838Z",
-      "ctime": "2018-05-07T10:45:23.838Z",
-      "birthtime": "2018-05-07T10:45:23.836Z"
     },
     "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-09--understanding-breeds/unlock_this.png absPath of file": {
       "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-09--understanding-breeds/unlock_this.png absPath of file",
@@ -10021,16 +9919,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/unlock_this.png absPath of file >> ImageSharp": {
-      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/unlock_this.png absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/unlock_this.png absPath of file",
-      "internal": {
-        "contentDigest": "03aff4db18ef8a8293a077c40817b2e1",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
     "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-09--understanding-breeds/unlock_this.png absPath of file >> ImageSharp": {
       "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-09--understanding-breeds/unlock_this.png absPath of file >> ImageSharp",
       "children": [],
@@ -10138,35 +10026,6 @@
       "fields": {
         "slug": "/feeding-dry-cows/",
         "prefix": "2017-10-09"
-      }
-    },
-    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/index.md absPath of file",
-      "internal": {
-        "content": "---\r\ntitle: Preventing Mastitus\r\nsubTitle: Disease & animal health\r\ncategory: \"disease & animal health\"\r\ncover: unlock-preventing-mastitus.png\r\n---\r\n<blockquote style=\"background: #f2f3f4;\">\r\n<p style=\"text-align: center; font-weight: 300; font-size: 0.9em\">To add your question press <img style=\"height:2em;\" src=\"https://africafarmersclub.com/static/comment_icon-fd465a3a52da53f109d439f079d19bf5-08634.png\" >  in bottom corner 👇</p>\r\n</blockquote>\r\n\r\n<div style=\"text-align: center\">\r\n<a href=\"/about\"><img style=\"width: 100%;\" src=\"https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png\" ></a>\r\n</div>\r\n<br></br>\r\nMastitis is a potentially fatal mammary gland infection. It is one of the most costly issues in the dairy industry. In this post we discuss how to identify and handle the issue...\r\n<br></br>\r\n\r\n![](./access-soon.jpg)\r\n\r\n<br></br>\r\n\r\n---\r\n### Read more topics\r\nThere are number of other important topics in this guide:\r\n\r\n* [Preventing and treating milk fever](/preventing-and-treating-milk-fever) ⭐ - Guidance on milk fever issues\r\n* [Feeding your cows - basics](/feeding-your-cow-basics)  ⭐- Understand the basics of feeding\r\n* [Feeding milking cows](/feeding-milking-cows)  🔒- Know best feeds for milking cows\r\n\r\n...or you can just [see all topics](/)\r\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "75056c5114a0c3f93957b38c9debab12",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "prefix": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Preventing Mastitus",
-        "subTitle": "Disease & animal health",
-        "category": "disease & animal health",
-        "cover": "unlock-preventing-mastitus.png",
-        "_PARENT": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/index.md absPath of file",
-        "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/index.md",
-      "fields": {
-        "slug": "/preventing-mastitus/",
-        "prefix": "2017-12-07"
       }
     },
     "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-11--getting-better-prices/index.md absPath of file >>> MarkdownRemark": {
@@ -10875,52 +10734,6 @@
       "ctime": "2018-05-07T10:45:23.253Z",
       "birthtime": "2018-05-07T10:45:23.249Z"
     },
-    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/lock-preventing-mastitus.png absPath of file": {
-      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/lock-preventing-mastitus.png absPath of file",
-      "children": [
-        "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/lock-preventing-mastitus.png absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "e1a2c123ab3654472b01fbeff09345dd",
-        "mediaType": "image/png",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/lock-preventing-mastitus.png",
-      "relativePath": "2017-12-07--preventing-mastitus/lock-preventing-mastitus.png",
-      "extension": "png",
-      "size": 449982,
-      "prettySize": "450 kB",
-      "modifiedTime": "2018-05-07T10:45:23.827Z",
-      "accessTime": "2018-05-07T10:45:23.903Z",
-      "changeTime": "2018-05-07T10:45:23.827Z",
-      "birthTime": "2018-05-07T10:45:23.823Z",
-      "root": "/",
-      "dir": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus",
-      "base": "lock-preventing-mastitus.png",
-      "ext": ".png",
-      "name": "lock-preventing-mastitus",
-      "relativeDirectory": "2017-12-07--preventing-mastitus",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8598660430,
-      "blocks": 880,
-      "atimeMs": 1525689923903.3887,
-      "mtimeMs": 1525689923826.615,
-      "ctimeMs": 1525689923826.615,
-      "birthtimeMs": 1525689923822.5476,
-      "atime": "2018-05-07T10:45:23.903Z",
-      "mtime": "2018-05-07T10:45:23.827Z",
-      "ctime": "2018-05-07T10:45:23.827Z",
-      "birthtime": "2018-05-07T10:45:23.823Z"
-    },
     "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-05--increasing-milk-production-part-1/unlock-increasing-milk-production.png absPath of file": {
       "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-05--increasing-milk-production-part-1/unlock-increasing-milk-production.png absPath of file",
       "children": [
@@ -11559,16 +11372,6 @@
       "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-10-09--feeding-dry-cows/lock-feeding-dry-cows.png absPath of file",
       "internal": {
         "contentDigest": "c6fc1f30caa375e512907dc7132dd145",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/lock-preventing-mastitus.png absPath of file >> ImageSharp": {
-      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/lock-preventing-mastitus.png absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/lock-preventing-mastitus.png absPath of file",
-      "internal": {
-        "contentDigest": "e1a2c123ab3654472b01fbeff09345dd",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -12986,7 +12789,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "1c71a5481f0cb8e4eac7efd77b7c8df3",
+        "contentDigest": "db0f64b5f9b0c2d7f5c30ac8c09a7096",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -12997,7 +12800,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-05-07T10:45:23.200Z",
-      "accessTime": "2018-05-07T11:57:03.470Z",
+      "accessTime": "2018-05-14T14:04:34.291Z",
       "changeTime": "2018-05-07T10:45:23.200Z",
       "birthTime": "2018-05-07T10:45:23.170Z",
       "root": "/",
@@ -13015,11 +12818,11 @@
       "blksize": 4194304,
       "ino": 8598660281,
       "blocks": 0,
-      "atimeMs": 1525694223470.191,
+      "atimeMs": 1526306674290.6187,
       "mtimeMs": 1525689923199.8608,
       "ctimeMs": 1525689923199.8608,
       "birthtimeMs": 1525689923169.936,
-      "atime": "2018-05-07T11:57:03.470Z",
+      "atime": "2018-05-14T14:04:34.291Z",
       "mtime": "2018-05-07T10:45:23.200Z",
       "ctime": "2018-05-07T10:45:23.200Z",
       "birthtime": "2018-05-07T10:45:23.170Z"
@@ -13029,7 +12832,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e2b9954186a7c48f00b3a4dad45d8e81",
+        "contentDigest": "11cf37f53b8c5f0fdf05323fa6ce2b4f",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -13040,7 +12843,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-05-07T10:45:23.170Z",
-      "accessTime": "2018-05-07T11:57:03.471Z",
+      "accessTime": "2018-05-14T14:04:34.293Z",
       "changeTime": "2018-05-07T10:45:23.170Z",
       "birthTime": "2018-05-07T10:45:23.170Z",
       "root": "/",
@@ -13058,11 +12861,11 @@
       "blksize": 4194304,
       "ino": 8598660282,
       "blocks": 0,
-      "atimeMs": 1525694223470.9731,
+      "atimeMs": 1526306674293.394,
       "mtimeMs": 1525689923170.055,
       "ctimeMs": 1525689923170.055,
       "birthtimeMs": 1525689923169.9854,
-      "atime": "2018-05-07T11:57:03.471Z",
+      "atime": "2018-05-14T14:04:34.293Z",
       "mtime": "2018-05-07T10:45:23.170Z",
       "ctime": "2018-05-07T10:45:23.170Z",
       "birthtime": "2018-05-07T10:45:23.170Z"
@@ -13072,7 +12875,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6d4e564c39917d96a83a86e9dd4235a6",
+        "contentDigest": "7753dadfb209ff7eba865981b1295576",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -13083,7 +12886,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.197Z",
-      "accessTime": "2018-05-07T11:57:03.471Z",
+      "accessTime": "2018-05-14T14:04:34.294Z",
       "changeTime": "2018-05-07T10:45:23.197Z",
       "birthTime": "2018-05-07T10:45:23.176Z",
       "root": "/",
@@ -13101,11 +12904,11 @@
       "blksize": 4194304,
       "ino": 8598660284,
       "blocks": 0,
-      "atimeMs": 1525694223470.998,
+      "atimeMs": 1526306674293.6235,
       "mtimeMs": 1525689923196.769,
       "ctimeMs": 1525689923196.769,
       "birthtimeMs": 1525689923176.0789,
-      "atime": "2018-05-07T11:57:03.471Z",
+      "atime": "2018-05-14T14:04:34.294Z",
       "mtime": "2018-05-07T10:45:23.197Z",
       "ctime": "2018-05-07T10:45:23.197Z",
       "birthtime": "2018-05-07T10:45:23.176Z"
@@ -13115,7 +12918,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f5a47301d501dc8fbfeae6e1d5c9cb56",
+        "contentDigest": "54ff88830e1e8f2fb4e1315b4497a295",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -13126,7 +12929,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-05-07T10:45:23.200Z",
-      "accessTime": "2018-05-07T11:57:03.471Z",
+      "accessTime": "2018-05-14T14:04:34.294Z",
       "changeTime": "2018-05-07T10:45:23.200Z",
       "birthTime": "2018-05-07T10:45:23.200Z",
       "root": "/",
@@ -13144,11 +12947,11 @@
       "blksize": 4194304,
       "ino": 8598660290,
       "blocks": 0,
-      "atimeMs": 1525694223471.0173,
+      "atimeMs": 1526306674293.5022,
       "mtimeMs": 1525689923199.9358,
       "ctimeMs": 1525689923199.9358,
       "birthtimeMs": 1525689923199.8464,
-      "atime": "2018-05-07T11:57:03.471Z",
+      "atime": "2018-05-14T14:04:34.294Z",
       "mtime": "2018-05-07T10:45:23.200Z",
       "ctime": "2018-05-07T10:45:23.200Z",
       "birthtime": "2018-05-07T10:45:23.200Z"
@@ -13600,7 +13403,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d3b1ec52e0061483db257eca2b3bb22f",
+        "contentDigest": "6bdc8cd5c33f0ab63b1f112e0a762194",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -13611,7 +13414,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-05-07T10:45:23.222Z",
-      "accessTime": "2018-05-07T11:57:03.483Z",
+      "accessTime": "2018-05-14T14:04:34.338Z",
       "changeTime": "2018-05-07T10:45:23.222Z",
       "birthTime": "2018-05-07T10:45:23.204Z",
       "root": "/",
@@ -13629,11 +13432,11 @@
       "blksize": 4194304,
       "ino": 8598660292,
       "blocks": 0,
-      "atimeMs": 1525694223483.2715,
+      "atimeMs": 1526306674338.1707,
       "mtimeMs": 1525689923221.9297,
       "ctimeMs": 1525689923221.9297,
       "birthtimeMs": 1525689923204.2542,
-      "atime": "2018-05-07T11:57:03.483Z",
+      "atime": "2018-05-14T14:04:34.338Z",
       "mtime": "2018-05-07T10:45:23.222Z",
       "ctime": "2018-05-07T10:45:23.222Z",
       "birthtime": "2018-05-07T10:45:23.204Z"
@@ -13861,7 +13664,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5a3c22b25724ea4e3f7fea43013485b9",
+        "contentDigest": "ad7e6e7099eaa1cd864998567b41f8c9",
         "mediaType": "image/png",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -13870,11 +13673,11 @@
       "absolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-10-11--feeding-calf/afc_calf_feeding_schedule.png",
       "relativePath": "2017-10-11--feeding-calf/afc_calf_feeding_schedule.png",
       "extension": "png",
-      "size": 264586,
-      "prettySize": "265 kB",
-      "modifiedTime": "2018-05-07T11:29:07.755Z",
-      "accessTime": "2018-05-07T11:29:07.756Z",
-      "changeTime": "2018-05-07T11:29:07.755Z",
+      "size": 262469,
+      "prettySize": "262 kB",
+      "modifiedTime": "2018-05-07T14:20:47.902Z",
+      "accessTime": "2018-05-07T14:22:16.666Z",
+      "changeTime": "2018-05-07T14:20:48.059Z",
       "birthTime": "2018-05-07T11:26:44.527Z",
       "root": "/",
       "dir": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-10-11--feeding-calf",
@@ -13891,13 +13694,13 @@
       "blksize": 4194304,
       "ino": 8598722470,
       "blocks": 520,
-      "atimeMs": 1525692547755.802,
-      "mtimeMs": 1525692547754.714,
-      "ctimeMs": 1525692547754.714,
+      "atimeMs": 1525702936666.37,
+      "mtimeMs": 1525702847901.7927,
+      "ctimeMs": 1525702848058.9692,
       "birthtimeMs": 1525692404526.6282,
-      "atime": "2018-05-07T11:29:07.756Z",
-      "mtime": "2018-05-07T11:29:07.755Z",
-      "ctime": "2018-05-07T11:29:07.755Z",
+      "atime": "2018-05-07T14:22:16.666Z",
+      "mtime": "2018-05-07T14:20:47.902Z",
+      "ctime": "2018-05-07T14:20:48.059Z",
       "birthtime": "2018-05-07T11:26:44.527Z"
     },
     "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-10-11--feeding-calf/afc_bucket_with_teat.png absPath of file": {
@@ -13956,22 +13759,12 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-10-11--feeding-calf/afc_calf_feeding_schedule.png absPath of file >> ImageSharp": {
-      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-10-11--feeding-calf/afc_calf_feeding_schedule.png absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-10-11--feeding-calf/afc_calf_feeding_schedule.png absPath of file",
-      "internal": {
-        "contentDigest": "5a3c22b25724ea4e3f7fea43013485b9",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
     "/Users/georgiabarrie/gatsby-afc-guide/content/posts/.DS_Store absPath of file": {
       "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/.DS_Store absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "84624996bc3deb6a12cafa8c7552d9ba",
+        "contentDigest": "3c19c3d81973d9af6f6d59446687e5b0",
         "mediaType": "application/octet-stream",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -13980,11 +13773,11 @@
       "absolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/.DS_Store",
       "relativePath": ".DS_Store",
       "extension": "",
-      "size": 8196,
-      "prettySize": "8.2 kB",
-      "modifiedTime": "2018-05-07T11:32:32.781Z",
-      "accessTime": "2018-05-07T11:32:32.784Z",
-      "changeTime": "2018-05-07T11:32:32.781Z",
+      "size": 10244,
+      "prettySize": "10.2 kB",
+      "modifiedTime": "2018-05-14T10:50:24.584Z",
+      "accessTime": "2018-05-14T10:48:04.285Z",
+      "changeTime": "2018-05-14T10:50:24.584Z",
       "birthTime": "2018-05-07T11:32:25.361Z",
       "root": "/",
       "dir": "/Users/georgiabarrie/gatsby-afc-guide/content/posts",
@@ -14001,13 +13794,13 @@
       "blksize": 4194304,
       "ino": 8598723210,
       "blocks": 24,
-      "atimeMs": 1525692752784.3052,
-      "mtimeMs": 1525692752781.0688,
-      "ctimeMs": 1525692752781.0688,
+      "atimeMs": 1526294884285.0032,
+      "mtimeMs": 1526295024583.8777,
+      "ctimeMs": 1526295024583.8777,
       "birthtimeMs": 1525692745361.136,
-      "atime": "2018-05-07T11:32:32.784Z",
-      "mtime": "2018-05-07T11:32:32.781Z",
-      "ctime": "2018-05-07T11:32:32.781Z",
+      "atime": "2018-05-14T10:48:04.285Z",
+      "mtime": "2018-05-14T10:50:24.584Z",
+      "ctime": "2018-05-14T10:50:24.584Z",
       "birthtime": "2018-05-07T11:32:25.361Z"
     },
     "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-10-11--feeding-calf/.DS_Store absPath of file": {
@@ -14083,6 +13876,201 @@
         "prefix": "2017-10-11"
       }
     },
+    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-10-11--feeding-calf/afc_calf_feeding_schedule.png absPath of file >> ImageSharp": {
+      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-10-11--feeding-calf/afc_calf_feeding_schedule.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-10-11--feeding-calf/afc_calf_feeding_schedule.png absPath of file",
+      "internal": {
+        "contentDigest": "ad7e6e7099eaa1cd864998567b41f8c9",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/.DS_Store absPath of file": {
+      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "194577a7e20bdcc7afbb718f502c134c",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/.DS_Store",
+      "relativePath": "2017-12-07--preventing-mastitus/.DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2018-05-14T10:50:32.483Z",
+      "accessTime": "2018-05-14T10:50:32.482Z",
+      "changeTime": "2018-05-14T10:50:32.483Z",
+      "birthTime": "2018-05-14T10:50:32.482Z",
+      "root": "/",
+      "dir": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "2017-12-07--preventing-mastitus",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599263531,
+      "blocks": 16,
+      "atimeMs": 1526295032482.0183,
+      "mtimeMs": 1526295032482.645,
+      "ctimeMs": 1526295032482.645,
+      "birthtimeMs": 1526295032482.0183,
+      "atime": "2018-05-14T10:50:32.482Z",
+      "mtime": "2018-05-14T10:50:32.483Z",
+      "ctime": "2018-05-14T10:50:32.483Z",
+      "birthtime": "2018-05-14T10:50:32.482Z"
+    },
+    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/afc_dairy_guides_mastitis_cowshed.png absPath of file": {
+      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/afc_dairy_guides_mastitis_cowshed.png absPath of file",
+      "children": [
+        "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/afc_dairy_guides_mastitis_cowshed.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "0ce8dbeffe6753bd409863827fa03396",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/afc_dairy_guides_mastitis_cowshed.png",
+      "relativePath": "2017-12-07--preventing-mastitus/afc_dairy_guides_mastitis_cowshed.png",
+      "extension": "png",
+      "size": 588772,
+      "prettySize": "589 kB",
+      "modifiedTime": "2018-05-14T13:40:25.798Z",
+      "accessTime": "2018-05-14T13:40:48.873Z",
+      "changeTime": "2018-05-14T13:40:49.896Z",
+      "birthTime": "2018-05-14T13:40:25.713Z",
+      "root": "/",
+      "dir": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus",
+      "base": "afc_dairy_guides_mastitis_cowshed.png",
+      "ext": ".png",
+      "name": "afc_dairy_guides_mastitis_cowshed",
+      "relativeDirectory": "2017-12-07--preventing-mastitus",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599277577,
+      "blocks": 1152,
+      "atimeMs": 1526305248872.9966,
+      "mtimeMs": 1526305225797.958,
+      "ctimeMs": 1526305249895.839,
+      "birthtimeMs": 1526305225712.8616,
+      "atime": "2018-05-14T13:40:48.873Z",
+      "mtime": "2018-05-14T13:40:25.798Z",
+      "ctime": "2018-05-14T13:40:49.896Z",
+      "birthtime": "2018-05-14T13:40:25.713Z"
+    },
+    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/afc_dairy_guides_mastitis_cowshed.png absPath of file >> ImageSharp": {
+      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/afc_dairy_guides_mastitis_cowshed.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/afc_dairy_guides_mastitis_cowshed.png absPath of file",
+      "internal": {
+        "contentDigest": "0ce8dbeffe6753bd409863827fa03396",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/afc_dairy_guides_mastitis_milking.png absPath of file": {
+      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/afc_dairy_guides_mastitis_milking.png absPath of file",
+      "children": [
+        "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/afc_dairy_guides_mastitis_milking.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8f0fea31e5dd075c30f4bea14cea9fd6",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/afc_dairy_guides_mastitis_milking.png",
+      "relativePath": "2017-12-07--preventing-mastitus/afc_dairy_guides_mastitis_milking.png",
+      "extension": "png",
+      "size": 540879,
+      "prettySize": "541 kB",
+      "modifiedTime": "2018-05-14T13:41:06.116Z",
+      "accessTime": "2018-05-14T13:41:09.409Z",
+      "changeTime": "2018-05-14T13:41:11.331Z",
+      "birthTime": "2018-05-14T12:53:19.167Z",
+      "root": "/",
+      "dir": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus",
+      "base": "afc_dairy_guides_mastitis_milking.png",
+      "ext": ".png",
+      "name": "afc_dairy_guides_mastitis_milking",
+      "relativeDirectory": "2017-12-07--preventing-mastitus",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599277614,
+      "blocks": 1064,
+      "atimeMs": 1526305269408.689,
+      "mtimeMs": 1526305266115.763,
+      "ctimeMs": 1526305271330.7205,
+      "birthtimeMs": 1526302399166.739,
+      "atime": "2018-05-14T13:41:09.409Z",
+      "mtime": "2018-05-14T13:41:06.116Z",
+      "ctime": "2018-05-14T13:41:11.331Z",
+      "birthtime": "2018-05-14T12:53:19.167Z"
+    },
+    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/afc_dairy_guides_mastitis_milking.png absPath of file >> ImageSharp": {
+      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/afc_dairy_guides_mastitis_milking.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/afc_dairy_guides_mastitis_milking.png absPath of file",
+      "internal": {
+        "contentDigest": "8f0fea31e5dd075c30f4bea14cea9fd6",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/index.md absPath of file",
+      "internal": {
+        "content": "---\r\ntitle: Preventing Mastitis\r\nsubTitle: Disease & animal health\r\ncategory: \"disease & animal health\"\r\ncover: unlock-preventing-mastitus.png\r\n---\r\n<blockquote style=\"background: #f2f3f4;\">\r\n<p style=\"text-align: center; font-weight: 300; font-size: 0.9em\">To add your question press <img style=\"height:2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/comment_icon.png\" >  in bottom corner 👇</p>\r\n</blockquote>\r\n\r\n<div style=\"text-align: center\">\r\n<a href=\"/about\"><img style=\"width: 100%;\" src=\"https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png\" ></a>\r\n</div>\r\n<br></br>\r\nMastitis is one of the most common problems experienced by dairy farmers. Mastitis is an inflammation of the udder and is normally caused by bacteria getting inside the teat. \r\n<br></br>\r\nIn minor cases mastitis will reduce the litres of milk produced and result in poor quality milk. In very serious cases mastitis can cause cow death.\r\n\r\n<blockquote style=\"background: #D7F19F;\">\r\n\r\n### What causes mastitis?\r\n\r\nMastitis is normally caused by poor milking practices or cows being housed in unclean environments. If your cow has not been fed properly or is stressed then she will be more susceptible to mastitis as she will find it harder to fight the infection.\r\n\r\n<br>\r\n\r\n  <div>\r\n    Source:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/ILRI-logo.png\" >\r\n    <b>ILRI</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>21</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\nCheck out our 7 steps to preventing mastitis when milking...\r\n\r\n![unsplash.com](./afc_dairy_guides_mastitis_milking.png)\r\n\r\nCheck out our 6 steps to preventing mastitis from the cowshed...\r\n\r\n![unsplash.com](./afc_dairy_guides_mastitis_cowshed.png)\r\n\r\n### Top Q&A from AFC members\r\n\r\n<blockquote style=\"background: #6EA6A2;\">\r\n\r\n  ### Wycliffe's Question\r\n\r\n  Hi farmers. How do we test for mastitis?!\r\n\r\n  <br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_dairy_guide_mastitis_wycliffe.png\" >\r\n    <b>Wycliffe O</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>12</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\nOur AFC opinion on this topic\r\n\r\n<blockquote style=\"background: #D7F19F;\">\r\n\r\n### AFC opinion\r\n\r\nSigns of mastitis include the udder looking swollen, hard or red. Before you milk the cow you should check the milk from each teat to make sure it is not watery or with clots/flakes/pus. These are signs of mastitis.\r\n<br></br>\r\nSome farmers regularly test their cows using the California Mastitis Test (CMT) which you can buy from your local agrovet. This is a good idea if you multiple cows and you think they may be at risk.\r\n<br></br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_logo.png\" >\r\n    <b>AFC</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>31</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\n<blockquote style=\"background: #6EA6A2;\">\r\n\r\n  ### Beatrice’s Question\r\n\r\n  Can someone advise me on how to treat mastitis on dairy cow?\r\n\r\n  <br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_dairy_guide_mastitis_betty.png\" >\r\n    <b>Beatrice K</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>12</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\nOur AFC opinion on this topic\r\n\r\n<blockquote style=\"background: #D7F19F;\">\r\n\r\n### AFC opinion\r\n\r\nIf your cow has mastitis it is really important that you get her checked by a vet as the type of treatment will depend on the type of infection. It’s impossible to know what type of infection she has without getting tested.\r\n<br></br>\r\nOne way to help your cow recover is by milking regularly. Empty the infected teat every 3 hours and your cow will recover more quickly.\r\n<br></br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_logo.png\" >\r\n    <b>AFC</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>31</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\n### Real Farmer Stories\r\n\r\nDan's experience with Milk fever...\r\n\r\n<blockquote style=\"background: #96e58e;\">\r\n\r\n  <div>\r\n  <img style=\"width: 100%\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_dairy_guide_mastitis_story.jpg\" >\r\n  </div>\r\n\r\n<br>\r\n\r\n  \"DARKEST day in dairy farming is when one of your best dam, just after patiently waiting for it to calf, and you are expecting over 30 litres production, disaster structs. She is attacked by a severe case of mastitis and succumbs less than 72 hours after giving birth! Luckily you remain with a beautiful 46kg female calf to remember her with eventhough you even don't have colostrum to feed her with. The kipsigis people used to say that \"one should not prepare a calabash for storing milk before the cow calfs\" Anything can and will happen. Am experiencing a worst sense of loss in my entire dairy farming life.\"\r\n\r\n<br>\r\n  <a href = \"https://www.facebook.com/groups/DairyFarmingKenya/permalink/1472254976170779/\">\r\n    <img style=\"height:2em; border-radius: 2em;border: 1px solid #ffff;\" src=\"https://s3.amazonaws.com/afc-dairytrial/read_full_story.png\" >\r\n  </a>\r\n  <br></br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_dairy_guide_mastitis_dan.png\" >\r\n    <b>Dan K</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>49</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\nGot more questions about mastitis? Add your questions in the comments section below...\r\n\r\n---\r\n### Read more topics\r\nThere are number of other important topics in this guide:\r\n\r\n* [Feeding your cow - Basics](/feeding-your-cow-basics) ⭐ - How to get started with feeding\r\n* [Preventing and Managing Bloat in Cows](/preventing-and-managing-bloat)  ⭐- Know what to look out for\r\n\r\n...or you can just [see all topics](/)\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "74a67e71a3ace46c2f7e77c9bb0df05f",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Preventing Mastitis",
+        "subTitle": "Disease & animal health",
+        "category": "disease & animal health",
+        "cover": "unlock-preventing-mastitus.png",
+        "_PARENT": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/index.md absPath of file",
+        "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-07--preventing-mastitus/index.md",
+      "fields": {
+        "slug": "/preventing-mastitus/",
+        "prefix": "2017-12-07"
+      }
+    },
     "SitePage /offline-plugin-app-shell-fallback/": {
       "layout": "index",
       "jsonName": "offline-plugin-app-shell-fallback.json",
@@ -14099,7 +14087,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fd9e9aa543a82ebe98053e8905fb1abc",
+        "contentDigest": "4728be3b0109e599432cb5ef142c7846",
         "owner": "internal-data-bridge"
       }
     },
@@ -14121,7 +14109,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4b23bdeba98eca5fdff62c5df50efe9a",
+        "contentDigest": "85b95676852db1e6b0e7fb5746b4b771",
         "owner": "internal-data-bridge"
       }
     },
@@ -14143,7 +14131,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ba351709b95adc8f5400ce34410a77cc",
+        "contentDigest": "828b20d551084ff8657a6382f4d0c431",
         "owner": "internal-data-bridge"
       }
     },
@@ -14165,7 +14153,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2e3df6352b1c5454c7a87b7ba3ad60c4",
+        "contentDigest": "3fff95da96e035bfd16a322fb9d8f396",
         "owner": "internal-data-bridge"
       }
     },
@@ -14187,7 +14175,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3a278bd6c1a91321fdbd0067c74fa15a",
+        "contentDigest": "1c0b4149db8970de15fbed19aa8e4c37",
         "owner": "internal-data-bridge"
       }
     },
@@ -14209,7 +14197,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e872d9c3d5e40ece30661f33ebb57421",
+        "contentDigest": "114faa0c268b20252171a17c4856f4e6",
         "owner": "internal-data-bridge"
       }
     },
@@ -14231,7 +14219,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f66a5a2390de3558e0a9970ee9a07664",
+        "contentDigest": "b63caf6f725cfb4169743ae0d0a58667",
         "owner": "internal-data-bridge"
       }
     },
@@ -14253,7 +14241,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "214f4a939eb792fa1e51d86449918c9a",
+        "contentDigest": "cc5ab2fc4cfffc71e91005af661a27ac",
         "owner": "internal-data-bridge"
       }
     },
@@ -14275,7 +14263,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b0a73b263d89603adbd0df01b51dc258",
+        "contentDigest": "c87978703fb07475fd21814f5fc2ac9a",
         "owner": "internal-data-bridge"
       }
     },
@@ -14297,7 +14285,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3833b3e6a62ed9518f983328e82f19f9",
+        "contentDigest": "3ad9fd231e22f57b62ad445bf55428c3",
         "owner": "internal-data-bridge"
       }
     },
@@ -14319,7 +14307,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "743e14df9cca00481c18ccd8ee4eda0b",
+        "contentDigest": "ef8ad6f1ca0125d04a03032193e19d54",
         "owner": "internal-data-bridge"
       }
     },
@@ -14341,7 +14329,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1e8d0131ffaeb3aae80de3e0bc275b59",
+        "contentDigest": "2079169852c39ae8d1ada81d9296ae09",
         "owner": "internal-data-bridge"
       }
     },
@@ -14363,7 +14351,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0a923d0871751980dc208b9761d98892",
+        "contentDigest": "db8d258ee0021bce900f6a2e8ecea376",
         "owner": "internal-data-bridge"
       }
     },
@@ -14385,7 +14373,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "eb356d173a38527ad28104535ffa4f24",
+        "contentDigest": "a8fbfaaf33a8bd390c783ab026d27560",
         "owner": "internal-data-bridge"
       }
     },
@@ -14407,7 +14395,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0d85ef412b23b008be778a757ee2c394",
+        "contentDigest": "a484ccfde554c24f3163181b985466f1",
         "owner": "internal-data-bridge"
       }
     },
@@ -14429,7 +14417,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "37005a558560c6a08a033b2e4d80c2e9",
+        "contentDigest": "6047b5a25c476757ef0e8d83d3869957",
         "owner": "internal-data-bridge"
       }
     },
@@ -14451,7 +14439,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9685dc3143305e3bcda49c2a6e399a7b",
+        "contentDigest": "4b8efd2a4efc93a6f86d9a82b2708d31",
         "owner": "internal-data-bridge"
       }
     },
@@ -14473,7 +14461,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fc21674ae722be8b993f08c5f854adc4",
+        "contentDigest": "ffd6434ed2c7a3343a913a047d772941",
         "owner": "internal-data-bridge"
       }
     },
@@ -14495,7 +14483,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c263f940ab3ea1bea567e7326af43abf",
+        "contentDigest": "72c14852b1e477b67530a01d54a47b38",
         "owner": "internal-data-bridge"
       }
     },
@@ -14517,7 +14505,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9dcccdf2ca6aaaa09dd26889f6007d22",
+        "contentDigest": "8c78b7e31456f4571d5b2bb60adc9748",
         "owner": "internal-data-bridge"
       }
     },
@@ -14539,29 +14527,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "492ccd95de1b101ae9da34543616061b",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /preventing-mastitus/": {
-      "layout": "index",
-      "jsonName": "preventing-mastitus.json",
-      "internalComponentName": "ComponentPreventingMastitus",
-      "path": "/preventing-mastitus/",
-      "component": "/Users/georgiabarrie/gatsby-afc-guide/src/templates/PostTemplate.js",
-      "componentChunkName": "component---src-templates-post-template-js",
-      "context": {
-        "slug": "/preventing-mastitus/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/georgiabarrie/gatsby-afc-guide/src/templates/PostTemplate.js",
-      "id": "SitePage /preventing-mastitus/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7c4b305dc922a1fdc8002b7022b9bd61",
+        "contentDigest": "dfd8f77a8b676248f5183c445f77cb66",
         "owner": "internal-data-bridge"
       }
     },
@@ -14583,7 +14549,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f57f972390af0a56087d80fc6bd7fb61",
+        "contentDigest": "5840352fbcae8cc7693592954c93b3cf",
         "owner": "internal-data-bridge"
       }
     },
@@ -14605,7 +14571,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4714ce8d5da3d95447e1c48ae3215ae9",
+        "contentDigest": "581745c71ee4331cc56740423527d722",
         "owner": "internal-data-bridge"
       }
     },
@@ -14627,7 +14593,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fa7337c6a248bbb39d96d572b1e47400",
+        "contentDigest": "082d69d964a4a78275a8a4665d8d949e",
         "owner": "internal-data-bridge"
       }
     },
@@ -14649,7 +14615,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "32d9c0e496f590274803731b56618da3",
+        "contentDigest": "ff5ea1b3e8717bc3292a2aab0abb43f2",
         "owner": "internal-data-bridge"
       }
     },
@@ -14671,7 +14637,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "95a8d64376187888486b36248646c78b",
+        "contentDigest": "f4ada0357a64ca291387b24c048e0274",
         "owner": "internal-data-bridge"
       }
     },
@@ -14693,7 +14659,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "efd312b3b63afe7c77b87be65fae2134",
+        "contentDigest": "e95b0ad339268c785e7ce8fffef36497",
         "owner": "internal-data-bridge"
       }
     },
@@ -14715,7 +14681,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d9c3b9874370566f17b8a32b3f66477b",
+        "contentDigest": "ff7537c516d2f1b2993c8bdb0b1b20b6",
         "owner": "internal-data-bridge"
       }
     },
@@ -14737,7 +14703,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "34d46bafee7dee7cc011a8e0d2ad6a06",
+        "contentDigest": "bb7dae2938c6982dd165a9cbe55bc8c3",
         "owner": "internal-data-bridge"
       }
     },
@@ -14759,7 +14725,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0a3817783d604cc7532e52e31ce92ea3",
+        "contentDigest": "46bd280f5fc05670b5875b5660106a5a",
         "owner": "internal-data-bridge"
       }
     },
@@ -14781,7 +14747,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0bc1635d661d280a65320c6569525da1",
+        "contentDigest": "4d41b9729f6928c600cab6c5c7f31f1f",
         "owner": "internal-data-bridge"
       }
     },
@@ -14803,7 +14769,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "95cbb33ee1390be7b386983ad5239209",
+        "contentDigest": "82eae7c28015d3191f4deb3f9bf0fa6a",
         "owner": "internal-data-bridge"
       }
     },
@@ -14825,7 +14791,29 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "26d1559696c5afe7ff3077536432f894",
+        "contentDigest": "a88709928aefa0ad3d96a65f0c475061",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /preventing-mastitus/": {
+      "layout": "index",
+      "jsonName": "preventing-mastitus.json",
+      "internalComponentName": "ComponentPreventingMastitus",
+      "path": "/preventing-mastitus/",
+      "component": "/Users/georgiabarrie/gatsby-afc-guide/src/templates/PostTemplate.js",
+      "componentChunkName": "component---src-templates-post-template-js",
+      "context": {
+        "slug": "/preventing-mastitus/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/georgiabarrie/gatsby-afc-guide/src/templates/PostTemplate.js",
+      "id": "SitePage /preventing-mastitus/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4048b797f609e4240881d8b6509db824",
         "owner": "internal-data-bridge"
       }
     },
@@ -14845,7 +14833,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4def90dede8df1f80eac5c77cb950416",
+        "contentDigest": "e0607a66538bc5d3a98ee24c27bac41e",
         "owner": "internal-data-bridge"
       }
     },
@@ -14865,7 +14853,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5bde16ce79d67952f40dcbc397761072",
+        "contentDigest": "cacf730d804c3ed04f002568bd92a729",
         "owner": "internal-data-bridge"
       }
     },
@@ -14885,7 +14873,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "68c4eeb493c8332e97a9066298c26ce6",
+        "contentDigest": "6495acb555a86e1dfc8711e713253132",
         "owner": "internal-data-bridge"
       }
     }
