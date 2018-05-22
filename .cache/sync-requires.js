@@ -42,7 +42,6 @@ exports.json = {
   "understanding-breeds.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/understanding-breeds.json"),
   "feeding-your-cow-basics.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/feeding-your-cow-basics.json"),
   "increasing-milk-production-part-1.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/increasing-milk-production-part-1.json"),
-  "east-coast-fever-disease.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/east-coast-fever-disease.json"),
   "preventing-and-managing-bloat.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/preventing-and-managing-bloat.json"),
   "feeding-milking-cows.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/feeding-milking-cows.json"),
   "preventing-and-treating-milk-fever.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/preventing-and-treating-milk-fever.json"),
@@ -51,6 +50,7 @@ exports.json = {
   "starters.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/starters.json"),
   "feeding-calf.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/feeding-calf.json"),
   "preventing-mastitus.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/preventing-mastitus.json"),
+  "east-coast-fever-disease.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/east-coast-fever-disease.json"),
   "contact.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/contact.json"),
   "index.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/index.json"),
   "search.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/search.json")

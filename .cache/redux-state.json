@@ -1962,12 +1962,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-14T14:04:28.731Z",
+      "buildTime": "2018-05-22T14:32:11.039Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "ce8a9f5d9d1f68e13f78ec717c81e868",
+        "contentDigest": "25b9164913e700c90875e75cb277c5d6",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1977,7 +1977,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5b76efd9a0bbcfec957a76b23ea3d0fe",
+        "contentDigest": "ca0eaaea98fa8bb0744548e5f199ff99",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1988,7 +1988,7 @@
       "size": 1056,
       "prettySize": "1.06 kB",
       "modifiedTime": "2018-05-07T11:32:25.361Z",
-      "accessTime": "2018-05-14T14:04:33.644Z",
+      "accessTime": "2018-05-22T14:32:15.378Z",
       "changeTime": "2018-05-07T11:32:25.361Z",
       "birthTime": "2018-05-07T10:45:23.227Z",
       "root": "/",
@@ -2006,11 +2006,11 @@
       "blksize": 4194304,
       "ino": 8598660296,
       "blocks": 0,
-      "atimeMs": 1526306673643.98,
+      "atimeMs": 1526999535378.4224,
       "mtimeMs": 1525692745361.1602,
       "ctimeMs": 1525692745361.1602,
       "birthtimeMs": 1525689923227.1462,
-      "atime": "2018-05-14T14:04:33.644Z",
+      "atime": "2018-05-22T14:32:15.378Z",
       "mtime": "2018-05-07T11:32:25.361Z",
       "ctime": "2018-05-07T11:32:25.361Z",
       "birthtime": "2018-05-07T10:45:23.227Z"
@@ -2020,7 +2020,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ff952d8e867c87d131578d7a9e0d6849",
+        "contentDigest": "b71027dc72c3d65c34a9ac528c98694b",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2031,7 +2031,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-05-07T10:45:23.236Z",
-      "accessTime": "2018-05-14T14:04:33.665Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.236Z",
       "birthTime": "2018-05-07T10:45:23.227Z",
       "root": "/",
@@ -2049,11 +2049,11 @@
       "blksize": 4194304,
       "ino": 8598660297,
       "blocks": 0,
-      "atimeMs": 1526306673664.5935,
+      "atimeMs": 1526999535390.763,
       "mtimeMs": 1525689923235.5862,
       "ctimeMs": 1525689923235.5862,
       "birthtimeMs": 1525689923227.2312,
-      "atime": "2018-05-14T14:04:33.665Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.236Z",
       "ctime": "2018-05-07T10:45:23.236Z",
       "birthtime": "2018-05-07T10:45:23.227Z"
@@ -2063,7 +2063,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ab0ac2fa4357cce4bddeb7d070777cf5",
+        "contentDigest": "5f5955400e4010effb074f5e0f8c1bed",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2074,7 +2074,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.261Z",
-      "accessTime": "2018-05-14T14:04:33.665Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.261Z",
       "birthTime": "2018-05-07T10:45:23.242Z",
       "root": "/",
@@ -2092,11 +2092,11 @@
       "blksize": 4194304,
       "ino": 8598660301,
       "blocks": 0,
-      "atimeMs": 1526306673664.6858,
+      "atimeMs": 1526999535390.7793,
       "mtimeMs": 1525689923261.4216,
       "ctimeMs": 1525689923261.4216,
       "birthtimeMs": 1525689923241.7607,
-      "atime": "2018-05-14T14:04:33.665Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.261Z",
       "ctime": "2018-05-07T10:45:23.261Z",
       "birthtime": "2018-05-07T10:45:23.242Z"
@@ -2106,7 +2106,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9ad067bf879aab9fd45b78d543f1a434",
+        "contentDigest": "7fd434e1d0598ad4fa985afbb04c124b",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2117,7 +2117,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2018-05-07T11:32:40.472Z",
-      "accessTime": "2018-05-14T14:04:33.665Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T11:32:40.472Z",
       "birthTime": "2018-05-07T10:45:23.266Z",
       "root": "/",
@@ -2135,11 +2135,11 @@
       "blksize": 4194304,
       "ino": 8598660307,
       "blocks": 0,
-      "atimeMs": 1526306673664.8142,
+      "atimeMs": 1526999535390.837,
       "mtimeMs": 1525692760472.489,
       "ctimeMs": 1525692760472.489,
       "birthtimeMs": 1525689923265.9624,
-      "atime": "2018-05-14T14:04:33.665Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T11:32:40.472Z",
       "ctime": "2018-05-07T11:32:40.472Z",
       "birthtime": "2018-05-07T10:45:23.266Z"
@@ -2149,7 +2149,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c01c2cc6c8d6864cb0b87ee4043d1138",
+        "contentDigest": "b24503df49c32f32bbf8ca7907591f21",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2160,7 +2160,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.298Z",
-      "accessTime": "2018-05-14T14:04:33.665Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.298Z",
       "birthTime": "2018-05-07T10:45:23.285Z",
       "root": "/",
@@ -2178,11 +2178,11 @@
       "blksize": 4194304,
       "ino": 8598660313,
       "blocks": 0,
-      "atimeMs": 1526306673664.8735,
+      "atimeMs": 1526999535390.815,
       "mtimeMs": 1525689923297.7454,
       "ctimeMs": 1525689923297.7454,
       "birthtimeMs": 1525689923285.1387,
-      "atime": "2018-05-14T14:04:33.665Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.298Z",
       "ctime": "2018-05-07T10:45:23.298Z",
       "birthtime": "2018-05-07T10:45:23.285Z"
@@ -2192,7 +2192,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8f60eab0ab107648e11c91b0bccb178c",
+        "contentDigest": "a7562776965b5d28e6b5a0a8d2ddc38d",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2203,7 +2203,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.321Z",
-      "accessTime": "2018-05-14T14:04:33.665Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.321Z",
       "birthTime": "2018-05-07T10:45:23.301Z",
       "root": "/",
@@ -2221,11 +2221,11 @@
       "blksize": 4194304,
       "ino": 8598660319,
       "blocks": 0,
-      "atimeMs": 1526306673665.1885,
+      "atimeMs": 1526999535390.9626,
       "mtimeMs": 1525689923321.4236,
       "ctimeMs": 1525689923321.4236,
       "birthtimeMs": 1525689923300.674,
-      "atime": "2018-05-14T14:04:33.665Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.321Z",
       "ctime": "2018-05-07T10:45:23.321Z",
       "birthtime": "2018-05-07T10:45:23.301Z"
@@ -2235,7 +2235,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "cf75bfcf74adbe16049320c72f637d38",
+        "contentDigest": "b8556cac41cd8751d205134167b71311",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2246,7 +2246,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.375Z",
-      "accessTime": "2018-05-14T14:04:33.665Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.375Z",
       "birthTime": "2018-05-07T10:45:23.327Z",
       "root": "/",
@@ -2264,11 +2264,11 @@
       "blksize": 4194304,
       "ino": 8598660325,
       "blocks": 0,
-      "atimeMs": 1526306673665.2144,
+      "atimeMs": 1526999535390.8882,
       "mtimeMs": 1525689923374.8967,
       "ctimeMs": 1525689923374.8967,
       "birthtimeMs": 1525689923326.7996,
-      "atime": "2018-05-14T14:04:33.665Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.375Z",
       "ctime": "2018-05-07T10:45:23.375Z",
       "birthtime": "2018-05-07T10:45:23.327Z"
@@ -2278,7 +2278,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0e46bbe3028388663474acd774f48dbc",
+        "contentDigest": "42758afd25acde73027c55f1984e350b",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2289,7 +2289,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.398Z",
-      "accessTime": "2018-05-14T14:04:33.665Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.398Z",
       "birthTime": "2018-05-07T10:45:23.379Z",
       "root": "/",
@@ -2307,11 +2307,11 @@
       "blksize": 4194304,
       "ino": 8598660331,
       "blocks": 0,
-      "atimeMs": 1526306673664.9976,
+      "atimeMs": 1526999535390.7964,
       "mtimeMs": 1525689923398.0205,
       "ctimeMs": 1525689923398.0205,
       "birthtimeMs": 1525689923378.5742,
-      "atime": "2018-05-14T14:04:33.665Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.398Z",
       "ctime": "2018-05-07T10:45:23.398Z",
       "birthtime": "2018-05-07T10:45:23.379Z"
@@ -2321,7 +2321,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b42088fc579776acdbd34d049b4a010c",
+        "contentDigest": "f0d676936ceb2d1f5f707300e6607b36",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2332,7 +2332,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.428Z",
-      "accessTime": "2018-05-14T14:04:33.665Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.428Z",
       "birthTime": "2018-05-07T10:45:23.402Z",
       "root": "/",
@@ -2350,11 +2350,11 @@
       "blksize": 4194304,
       "ino": 8598660337,
       "blocks": 0,
-      "atimeMs": 1526306673665.0503,
+      "atimeMs": 1526999535390.8533,
       "mtimeMs": 1525689923428.4414,
       "ctimeMs": 1525689923428.4414,
       "birthtimeMs": 1525689923401.7988,
-      "atime": "2018-05-14T14:04:33.665Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.428Z",
       "ctime": "2018-05-07T10:45:23.428Z",
       "birthtime": "2018-05-07T10:45:23.402Z"
@@ -2364,7 +2364,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4fe8eb1a9ca444e7a8c4448c7359ca11",
+        "contentDigest": "670c91f29e6e23b3151e3fb72f18b892",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2375,7 +2375,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.458Z",
-      "accessTime": "2018-05-14T14:04:33.665Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.458Z",
       "birthTime": "2018-05-07T10:45:23.432Z",
       "root": "/",
@@ -2393,11 +2393,11 @@
       "blksize": 4194304,
       "ino": 8598660343,
       "blocks": 0,
-      "atimeMs": 1526306673665.0735,
+      "atimeMs": 1526999535390.8704,
       "mtimeMs": 1525689923457.7908,
       "ctimeMs": 1525689923457.7908,
       "birthtimeMs": 1525689923432.1123,
-      "atime": "2018-05-14T14:04:33.665Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.458Z",
       "ctime": "2018-05-07T10:45:23.458Z",
       "birthtime": "2018-05-07T10:45:23.432Z"
@@ -2407,7 +2407,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "99321ac85cd79d29b4f0df3e8b090d5a",
+        "contentDigest": "6491916f4f3be3ca7b3038db5357f164",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2418,7 +2418,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.496Z",
-      "accessTime": "2018-05-14T14:04:33.665Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.496Z",
       "birthTime": "2018-05-07T10:45:23.461Z",
       "root": "/",
@@ -2436,11 +2436,11 @@
       "blksize": 4194304,
       "ino": 8598660349,
       "blocks": 0,
-      "atimeMs": 1526306673665.1187,
+      "atimeMs": 1526999535390.91,
       "mtimeMs": 1525689923496.0117,
       "ctimeMs": 1525689923496.0117,
       "birthtimeMs": 1525689923461.4697,
-      "atime": "2018-05-14T14:04:33.665Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.496Z",
       "ctime": "2018-05-07T10:45:23.496Z",
       "birthtime": "2018-05-07T10:45:23.461Z"
@@ -2450,7 +2450,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e8cb2cc05517a0d59975be01f58e2cbc",
+        "contentDigest": "157b3f51bb3058e0abf898b60477a5ff",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2461,7 +2461,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.547Z",
-      "accessTime": "2018-05-14T14:04:33.666Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.547Z",
       "birthTime": "2018-05-07T10:45:23.499Z",
       "root": "/",
@@ -2479,11 +2479,11 @@
       "blksize": 4194304,
       "ino": 8598660355,
       "blocks": 0,
-      "atimeMs": 1526306673665.6301,
+      "atimeMs": 1526999535390.985,
       "mtimeMs": 1525689923546.5393,
       "ctimeMs": 1525689923546.5393,
       "birthtimeMs": 1525689923498.9324,
-      "atime": "2018-05-14T14:04:33.666Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.547Z",
       "ctime": "2018-05-07T10:45:23.547Z",
       "birthtime": "2018-05-07T10:45:23.499Z"
@@ -2493,7 +2493,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "05e9c2b7ede1f47777c948b3650c4941",
+        "contentDigest": "338682584fbd284a080224282655cdc7",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2504,7 +2504,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.575Z",
-      "accessTime": "2018-05-14T14:04:33.665Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.575Z",
       "birthTime": "2018-05-07T10:45:23.550Z",
       "root": "/",
@@ -2522,11 +2522,11 @@
       "blksize": 4194304,
       "ino": 8598660361,
       "blocks": 0,
-      "atimeMs": 1526306673665.147,
+      "atimeMs": 1526999535390.9263,
       "mtimeMs": 1525689923574.768,
       "ctimeMs": 1525689923574.768,
       "birthtimeMs": 1525689923550.371,
-      "atime": "2018-05-14T14:04:33.665Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.575Z",
       "ctime": "2018-05-07T10:45:23.575Z",
       "birthtime": "2018-05-07T10:45:23.550Z"
@@ -2536,7 +2536,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ea088008a1e9272b5a0f424a0fa658a1",
+        "contentDigest": "c52f2a678325519bdbcc44ca3238e7d2",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2547,7 +2547,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.627Z",
-      "accessTime": "2018-05-14T14:04:33.665Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.627Z",
       "birthTime": "2018-05-07T10:45:23.605Z",
       "root": "/",
@@ -2565,11 +2565,11 @@
       "blksize": 4194304,
       "ino": 8598660373,
       "blocks": 0,
-      "atimeMs": 1526306673665.2964,
+      "atimeMs": 1526999535391.0017,
       "mtimeMs": 1525689923627.1821,
       "ctimeMs": 1525689923627.1821,
       "birthtimeMs": 1525689923605.0312,
-      "atime": "2018-05-14T14:04:33.665Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.627Z",
       "ctime": "2018-05-07T10:45:23.627Z",
       "birthtime": "2018-05-07T10:45:23.605Z"
@@ -2579,7 +2579,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "dc4e59277d96d451da030a15811dd0b6",
+        "contentDigest": "4ca70c657f5066f4702476c494c306fc",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2590,7 +2590,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.602Z",
-      "accessTime": "2018-05-14T14:04:33.665Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.602Z",
       "birthTime": "2018-05-07T10:45:23.579Z",
       "root": "/",
@@ -2608,11 +2608,11 @@
       "blksize": 4194304,
       "ino": 8598660367,
       "blocks": 0,
-      "atimeMs": 1526306673665.2493,
+      "atimeMs": 1526999535390.9426,
       "mtimeMs": 1525689923602.3098,
       "ctimeMs": 1525689923602.3098,
       "birthtimeMs": 1525689923578.5503,
-      "atime": "2018-05-14T14:04:33.665Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.602Z",
       "ctime": "2018-05-07T10:45:23.602Z",
       "birthtime": "2018-05-07T10:45:23.579Z"
@@ -2622,7 +2622,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "563f38f7c919f26c558077a6f2e3cb7a",
+        "contentDigest": "4d1160d8a71317d0f2c8166e98f6c3cb",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2633,7 +2633,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.650Z",
-      "accessTime": "2018-05-14T14:04:33.665Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.650Z",
       "birthTime": "2018-05-07T10:45:23.630Z",
       "root": "/",
@@ -2651,11 +2651,11 @@
       "blksize": 4194304,
       "ino": 8598660379,
       "blocks": 0,
-      "atimeMs": 1526306673665.3591,
+      "atimeMs": 1526999535391.018,
       "mtimeMs": 1525689923650.0474,
       "ctimeMs": 1525689923650.0474,
       "birthtimeMs": 1525689923630.3428,
-      "atime": "2018-05-14T14:04:33.665Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.650Z",
       "ctime": "2018-05-07T10:45:23.650Z",
       "birthtime": "2018-05-07T10:45:23.630Z"
@@ -2665,7 +2665,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "407ba1a4b80b8a327d9dd61261743e2c",
+        "contentDigest": "7b227269507c1ca8de19a2a31a3a55e6",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2676,7 +2676,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.669Z",
-      "accessTime": "2018-05-14T14:04:33.665Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.669Z",
       "birthTime": "2018-05-07T10:45:23.653Z",
       "root": "/",
@@ -2694,11 +2694,11 @@
       "blksize": 4194304,
       "ino": 8598660385,
       "blocks": 0,
-      "atimeMs": 1526306673665.323,
+      "atimeMs": 1526999535391.0361,
       "mtimeMs": 1525689923668.9963,
       "ctimeMs": 1525689923668.9963,
       "birthtimeMs": 1525689923652.9375,
-      "atime": "2018-05-14T14:04:33.665Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.669Z",
       "ctime": "2018-05-07T10:45:23.669Z",
       "birthtime": "2018-05-07T10:45:23.653Z"
@@ -2708,7 +2708,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0287c646fc850f075ffed779ea5e1a91",
+        "contentDigest": "3642826557687cd228d2307cc191dfcb",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2719,7 +2719,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.706Z",
-      "accessTime": "2018-05-14T14:04:33.665Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.706Z",
       "birthTime": "2018-05-07T10:45:23.672Z",
       "root": "/",
@@ -2737,11 +2737,11 @@
       "blksize": 4194304,
       "ino": 8598660391,
       "blocks": 0,
-      "atimeMs": 1526306673665.3933,
+      "atimeMs": 1526999535391.0747,
       "mtimeMs": 1525689923705.8245,
       "ctimeMs": 1525689923705.8245,
       "birthtimeMs": 1525689923672.032,
-      "atime": "2018-05-14T14:04:33.665Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.706Z",
       "ctime": "2018-05-07T10:45:23.706Z",
       "birthtime": "2018-05-07T10:45:23.672Z"
@@ -2751,7 +2751,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "05b1bb867aa3a94d1e53f33e1bf4934d",
+        "contentDigest": "d46c9ad783674d1f09bd865cf5442aa8",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2762,7 +2762,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.726Z",
-      "accessTime": "2018-05-14T14:04:33.665Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.726Z",
       "birthTime": "2018-05-07T10:45:23.709Z",
       "root": "/",
@@ -2780,11 +2780,11 @@
       "blksize": 4194304,
       "ino": 8598660397,
       "blocks": 0,
-      "atimeMs": 1526306673665.455,
+      "atimeMs": 1526999535391.0908,
       "mtimeMs": 1525689923726.2217,
       "ctimeMs": 1525689923726.2217,
       "birthtimeMs": 1525689923708.6785,
-      "atime": "2018-05-14T14:04:33.665Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.726Z",
       "ctime": "2018-05-07T10:45:23.726Z",
       "birthtime": "2018-05-07T10:45:23.709Z"
@@ -2794,7 +2794,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d7f46dbc3f15d556dfc0690c2e6ed7bb",
+        "contentDigest": "c0bec87a77d170391e92d897e87d9214",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2805,7 +2805,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.750Z",
-      "accessTime": "2018-05-14T14:04:33.665Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.750Z",
       "birthTime": "2018-05-07T10:45:23.730Z",
       "root": "/",
@@ -2823,11 +2823,11 @@
       "blksize": 4194304,
       "ino": 8598660403,
       "blocks": 0,
-      "atimeMs": 1526306673665.498,
+      "atimeMs": 1526999535391.1091,
       "mtimeMs": 1525689923750.2864,
       "ctimeMs": 1525689923750.2864,
       "birthtimeMs": 1525689923729.8323,
-      "atime": "2018-05-14T14:04:33.665Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.750Z",
       "ctime": "2018-05-07T10:45:23.750Z",
       "birthtime": "2018-05-07T10:45:23.730Z"
@@ -2837,7 +2837,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "83b92096adeffc1edbda8bbf0ba83bb6",
+        "contentDigest": "cac63dbcc77fe5f497e4324821537480",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2848,7 +2848,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.778Z",
-      "accessTime": "2018-05-14T14:04:33.666Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.778Z",
       "birthTime": "2018-05-07T10:45:23.753Z",
       "root": "/",
@@ -2866,11 +2866,11 @@
       "blksize": 4194304,
       "ino": 8598660409,
       "blocks": 0,
-      "atimeMs": 1526306673665.5195,
+      "atimeMs": 1526999535391.1309,
       "mtimeMs": 1525689923777.6348,
       "ctimeMs": 1525689923777.6348,
       "birthtimeMs": 1525689923753.4602,
-      "atime": "2018-05-14T14:04:33.666Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.778Z",
       "ctime": "2018-05-07T10:45:23.778Z",
       "birthtime": "2018-05-07T10:45:23.753Z"
@@ -2880,7 +2880,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "166b960c898b5a5920e42198fec9b5f6",
+        "contentDigest": "17346725ed07fbbc7038db51eff513fd",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2891,7 +2891,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.797Z",
-      "accessTime": "2018-05-14T14:04:33.666Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.797Z",
       "birthTime": "2018-05-07T10:45:23.781Z",
       "root": "/",
@@ -2909,11 +2909,11 @@
       "blksize": 4194304,
       "ino": 8598660415,
       "blocks": 0,
-      "atimeMs": 1526306673665.539,
+      "atimeMs": 1526999535391.1538,
       "mtimeMs": 1525689923796.9004,
       "ctimeMs": 1525689923796.9004,
       "birthtimeMs": 1525689923780.75,
-      "atime": "2018-05-14T14:04:33.666Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.797Z",
       "ctime": "2018-05-07T10:45:23.797Z",
       "birthtime": "2018-05-07T10:45:23.781Z"
@@ -2923,7 +2923,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "277637d6c110624d572820e14e276a43",
+        "contentDigest": "137fb6a7f20ded2073c273ae257c4ce3",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2934,7 +2934,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.812Z",
-      "accessTime": "2018-05-14T14:04:33.666Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.812Z",
       "birthTime": "2018-05-07T10:45:23.800Z",
       "root": "/",
@@ -2952,11 +2952,11 @@
       "blksize": 4194304,
       "ino": 8598660421,
       "blocks": 0,
-      "atimeMs": 1526306673665.5576,
+      "atimeMs": 1526999535391.1885,
       "mtimeMs": 1525689923811.6453,
       "ctimeMs": 1525689923811.6453,
       "birthtimeMs": 1525689923799.9692,
-      "atime": "2018-05-14T14:04:33.666Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.812Z",
       "ctime": "2018-05-07T10:45:23.812Z",
       "birthtime": "2018-05-07T10:45:23.800Z"
@@ -2966,7 +2966,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7f4188648a5d8574f613f155e2eb01b2",
+        "contentDigest": "a7076cc2376495f9152f5004e923342e",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2977,7 +2977,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-14T13:41:13.310Z",
-      "accessTime": "2018-05-14T14:04:33.666Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-14T13:41:13.310Z",
       "birthTime": "2018-05-07T10:45:23.815Z",
       "root": "/",
@@ -2995,11 +2995,11 @@
       "blksize": 4194304,
       "ino": 8598660427,
       "blocks": 0,
-      "atimeMs": 1526306673665.5935,
+      "atimeMs": 1526999535391.1702,
       "mtimeMs": 1526305273309.612,
       "ctimeMs": 1526305273309.612,
       "birthtimeMs": 1525689923815.1436,
-      "atime": "2018-05-14T14:04:33.666Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-14T13:41:13.310Z",
       "ctime": "2018-05-14T13:41:13.310Z",
       "birthtime": "2018-05-07T10:45:23.815Z"
@@ -3009,7 +3009,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7c1c5ecfbd0448b60f7fa090ad9c8937",
+        "contentDigest": "ffd051daf355cefe8f127eccd8ea8655",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3020,7 +3020,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.864Z",
-      "accessTime": "2018-05-14T14:04:33.666Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.864Z",
       "birthTime": "2018-05-07T10:45:23.840Z",
       "root": "/",
@@ -3038,11 +3038,11 @@
       "blksize": 4194304,
       "ino": 8598660433,
       "blocks": 0,
-      "atimeMs": 1526306673665.5764,
+      "atimeMs": 1526999535391.211,
       "mtimeMs": 1525689923864.0876,
       "ctimeMs": 1525689923864.0876,
       "birthtimeMs": 1525689923839.6416,
-      "atime": "2018-05-14T14:04:33.666Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.864Z",
       "ctime": "2018-05-07T10:45:23.864Z",
       "birthtime": "2018-05-07T10:45:23.840Z"
@@ -3052,7 +3052,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d7bc4a6c2fee2f2ef85dd6730a013f45",
+        "contentDigest": "7a7f5a234a64510e62519c8deb674829",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3063,7 +3063,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2018-05-07T10:45:23.889Z",
-      "accessTime": "2018-05-14T14:04:33.666Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.889Z",
       "birthTime": "2018-05-07T10:45:23.867Z",
       "root": "/",
@@ -3081,11 +3081,11 @@
       "blksize": 4194304,
       "ino": 8598660439,
       "blocks": 0,
-      "atimeMs": 1526306673665.6113,
+      "atimeMs": 1526999535391.243,
       "mtimeMs": 1525689923888.6956,
       "ctimeMs": 1525689923888.6956,
       "birthtimeMs": 1525689923866.8938,
-      "atime": "2018-05-14T14:04:33.666Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.889Z",
       "ctime": "2018-05-07T10:45:23.889Z",
       "birthtime": "2018-05-07T10:45:23.867Z"
@@ -3095,7 +3095,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "1eff90590834359ece84cc437dae7e64",
+        "contentDigest": "8ae7b11792e523b8e4e0b6d93c79361f",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3106,7 +3106,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2018-05-07T10:45:23.921Z",
-      "accessTime": "2018-05-14T14:04:33.666Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.921Z",
       "birthTime": "2018-05-07T10:45:23.893Z",
       "root": "/",
@@ -3124,11 +3124,11 @@
       "blksize": 4194304,
       "ino": 8598660444,
       "blocks": 0,
-      "atimeMs": 1526306673665.6643,
+      "atimeMs": 1526999535391.2874,
       "mtimeMs": 1525689923920.5432,
       "ctimeMs": 1525689923920.5432,
       "birthtimeMs": 1525689923893.1082,
-      "atime": "2018-05-14T14:04:33.666Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.921Z",
       "ctime": "2018-05-07T10:45:23.921Z",
       "birthtime": "2018-05-07T10:45:23.893Z"
@@ -3138,7 +3138,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4b15f4539353bb0b16be1aa0a06ea264",
+        "contentDigest": "a78a347a30be4f3196e0888bcdd9744c",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3149,7 +3149,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-05-07T10:45:23.928Z",
-      "accessTime": "2018-05-14T14:04:33.666Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
       "changeTime": "2018-05-07T10:45:23.928Z",
       "birthTime": "2018-05-07T10:45:23.924Z",
       "root": "/",
@@ -3167,11 +3167,11 @@
       "blksize": 4194304,
       "ino": 8598660452,
       "blocks": 0,
-      "atimeMs": 1526306673665.646,
+      "atimeMs": 1526999535391.2659,
       "mtimeMs": 1525689923928.4927,
       "ctimeMs": 1525689923928.4927,
       "birthtimeMs": 1525689923923.8574,
-      "atime": "2018-05-14T14:04:33.666Z",
+      "atime": "2018-05-22T14:32:15.391Z",
       "mtime": "2018-05-07T10:45:23.928Z",
       "ctime": "2018-05-07T10:45:23.928Z",
       "birthtime": "2018-05-07T10:45:23.924Z"
@@ -3181,7 +3181,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "448e66a2c2e331ff49f19539578c7142",
+        "contentDigest": "c207573dc9ba6d73df3d4148e4775968",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3189,11 +3189,11 @@
       "absolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease",
       "relativePath": "2017-12-17--east-coast-fever-disease",
       "extension": "",
-      "size": 256,
-      "prettySize": "256 B",
-      "modifiedTime": "2018-05-07T10:45:23.960Z",
-      "accessTime": "2018-05-14T14:04:33.666Z",
-      "changeTime": "2018-05-07T10:45:23.960Z",
+      "size": 224,
+      "prettySize": "224 B",
+      "modifiedTime": "2018-05-22T09:22:03.331Z",
+      "accessTime": "2018-05-22T14:32:15.391Z",
+      "changeTime": "2018-05-22T09:22:03.331Z",
       "birthTime": "2018-05-07T10:45:23.934Z",
       "root": "/",
       "dir": "/Users/georgiabarrie/gatsby-afc-guide/content/posts",
@@ -3203,20 +3203,20 @@
       "relativeDirectory": "",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 8,
+      "nlink": 7,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 8598660455,
       "blocks": 0,
-      "atimeMs": 1526306673665.797,
-      "mtimeMs": 1525689923960.0623,
-      "ctimeMs": 1525689923960.0623,
+      "atimeMs": 1526999535391.3042,
+      "mtimeMs": 1526980923331.3538,
+      "ctimeMs": 1526980923331.3538,
       "birthtimeMs": 1525689923933.6335,
-      "atime": "2018-05-14T14:04:33.666Z",
-      "mtime": "2018-05-07T10:45:23.960Z",
-      "ctime": "2018-05-07T10:45:23.960Z",
+      "atime": "2018-05-22T14:32:15.391Z",
+      "mtime": "2018-05-22T09:22:03.331Z",
+      "ctime": "2018-05-22T09:22:03.331Z",
       "birthtime": "2018-05-07T10:45:23.934Z"
     },
     "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-19--preventing-and-managing-bloat absPath of file": {
@@ -3224,7 +3224,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "311e9af0cc08cf4aed550c30e15d5570",
+        "contentDigest": "3d183914365d46bd2842e528ac1dc515",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3235,7 +3235,7 @@
       "size": 480,
       "prettySize": "480 B",
       "modifiedTime": "2018-05-07T10:45:24.001Z",
-      "accessTime": "2018-05-14T14:04:33.666Z",
+      "accessTime": "2018-05-22T14:32:15.393Z",
       "changeTime": "2018-05-07T10:45:24.001Z",
       "birthTime": "2018-05-07T10:45:23.966Z",
       "root": "/",
@@ -3253,11 +3253,11 @@
       "blksize": 4194304,
       "ino": 8598660462,
       "blocks": 0,
-      "atimeMs": 1526306673665.9211,
+      "atimeMs": 1526999535393.0203,
       "mtimeMs": 1525689924000.7156,
       "ctimeMs": 1525689924000.7156,
       "birthtimeMs": 1525689923966.3623,
-      "atime": "2018-05-14T14:04:33.666Z",
+      "atime": "2018-05-22T14:32:15.393Z",
       "mtime": "2018-05-07T10:45:24.001Z",
       "ctime": "2018-05-07T10:45:24.001Z",
       "birthtime": "2018-05-07T10:45:23.966Z"
@@ -3267,7 +3267,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f9add911d1a85e91a91f5d1ebe9eb0d0",
+        "contentDigest": "8371e4dddd1d6b31f6ddb722b748071d",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3278,7 +3278,7 @@
       "size": 576,
       "prettySize": "576 B",
       "modifiedTime": "2018-05-07T10:45:24.047Z",
-      "accessTime": "2018-05-14T14:04:33.666Z",
+      "accessTime": "2018-05-22T14:32:15.394Z",
       "changeTime": "2018-05-07T10:45:24.047Z",
       "birthTime": "2018-05-07T10:45:24.003Z",
       "root": "/",
@@ -3296,11 +3296,11 @@
       "blksize": 4194304,
       "ino": 8598660476,
       "blocks": 0,
-      "atimeMs": 1526306673666.2559,
+      "atimeMs": 1526999535393.895,
       "mtimeMs": 1525689924047.41,
       "ctimeMs": 1525689924047.41,
       "birthtimeMs": 1525689924003.191,
-      "atime": "2018-05-14T14:04:33.666Z",
+      "atime": "2018-05-22T14:32:15.394Z",
       "mtime": "2018-05-07T10:45:24.047Z",
       "ctime": "2018-05-07T10:45:24.047Z",
       "birthtime": "2018-05-07T10:45:24.003Z"
@@ -3310,7 +3310,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "446e871cc05b3dcd36d907c543308a15",
+        "contentDigest": "8c4be429e2df4895965280faad31ca91",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3321,7 +3321,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-05-07T10:45:23.895Z",
-      "accessTime": "2018-05-14T14:04:33.685Z",
+      "accessTime": "2018-05-22T14:32:15.407Z",
       "changeTime": "2018-05-07T10:45:23.895Z",
       "birthTime": "2018-05-07T10:45:23.895Z",
       "root": "/",
@@ -3339,11 +3339,11 @@
       "blksize": 4194304,
       "ino": 8598660446,
       "blocks": 0,
-      "atimeMs": 1526306673684.885,
+      "atimeMs": 1526999535406.7366,
       "mtimeMs": 1525689923895.4355,
       "ctimeMs": 1525689923895.4355,
       "birthtimeMs": 1525689923895.3425,
-      "atime": "2018-05-14T14:04:33.685Z",
+      "atime": "2018-05-22T14:32:15.407Z",
       "mtime": "2018-05-07T10:45:23.895Z",
       "ctime": "2018-05-07T10:45:23.895Z",
       "birthtime": "2018-05-07T10:45:23.895Z"
@@ -4595,7 +4595,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "735aa78bfda05e96c8b129f176403e15",
+        "contentDigest": "cf2cf8646d89755e146a9d79325cc6b6",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -4604,11 +4604,11 @@
       "absolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/index.md",
       "relativePath": "2017-12-17--east-coast-fever-disease/index.md",
       "extension": "md",
-      "size": 1271,
-      "prettySize": "1.27 kB",
-      "modifiedTime": "2018-05-07T10:45:23.945Z",
-      "accessTime": "2018-05-07T10:45:24.005Z",
-      "changeTime": "2018-05-07T10:45:23.945Z",
+      "size": 7724,
+      "prettySize": "7.72 kB",
+      "modifiedTime": "2018-05-22T09:34:55.718Z",
+      "accessTime": "2018-05-22T09:34:51.539Z",
+      "changeTime": "2018-05-22T09:34:55.718Z",
       "birthTime": "2018-05-07T10:45:23.945Z",
       "root": "/",
       "dir": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease",
@@ -4624,14 +4624,14 @@
       "rdev": 0,
       "blksize": 4194304,
       "ino": 8598660458,
-      "blocks": 8,
-      "atimeMs": 1525689924005.3062,
-      "mtimeMs": 1525689923944.8923,
-      "ctimeMs": 1525689923944.8923,
+      "blocks": 16,
+      "atimeMs": 1526981691538.7637,
+      "mtimeMs": 1526981695718.0908,
+      "ctimeMs": 1526981695718.0908,
       "birthtimeMs": 1525689923944.779,
-      "atime": "2018-05-07T10:45:24.005Z",
-      "mtime": "2018-05-07T10:45:23.945Z",
-      "ctime": "2018-05-07T10:45:23.945Z",
+      "atime": "2018-05-22T09:34:51.539Z",
+      "mtime": "2018-05-22T09:34:55.718Z",
+      "ctime": "2018-05-22T09:34:55.718Z",
       "birthtime": "2018-05-07T10:45:23.945Z"
     },
     "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-19--preventing-and-managing-bloat/Franche.jpg absPath of file": {
@@ -6792,52 +6792,6 @@
       "ctime": "2018-05-07T10:45:23.801Z",
       "birthtime": "2018-05-07T10:45:23.800Z"
     },
-    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/access-soon.jpg absPath of file": {
-      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/access-soon.jpg absPath of file",
-      "children": [
-        "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/access-soon.jpg absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "e30cc9a385c6bbad59ad3ae758e7f0b3",
-        "mediaType": "image/jpeg",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/access-soon.jpg",
-      "relativePath": "2017-12-17--east-coast-fever-disease/access-soon.jpg",
-      "extension": "jpg",
-      "size": 70440,
-      "prettySize": "70.4 kB",
-      "modifiedTime": "2018-05-07T10:45:23.934Z",
-      "accessTime": "2018-05-07T10:45:24.002Z",
-      "changeTime": "2018-05-07T10:45:23.934Z",
-      "birthTime": "2018-05-07T10:45:23.934Z",
-      "root": "/",
-      "dir": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease",
-      "base": "access-soon.jpg",
-      "ext": ".jpg",
-      "name": "access-soon",
-      "relativeDirectory": "2017-12-17--east-coast-fever-disease",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8598660456,
-      "blocks": 144,
-      "atimeMs": 1525689924002.348,
-      "mtimeMs": 1525689923934.4724,
-      "ctimeMs": 1525689923934.4724,
-      "birthtimeMs": 1525689923933.7732,
-      "atime": "2018-05-07T10:45:24.002Z",
-      "mtime": "2018-05-07T10:45:23.934Z",
-      "ctime": "2018-05-07T10:45:23.934Z",
-      "birthtime": "2018-05-07T10:45:23.934Z"
-    },
     "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-19--preventing-and-managing-bloat/bloat_rumen_diagram.png absPath of file": {
       "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-19--preventing-and-managing-bloat/bloat_rumen_diagram.png absPath of file",
       "children": [
@@ -8408,16 +8362,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/access-soon.jpg absPath of file >> ImageSharp": {
-      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/access-soon.jpg absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/access-soon.jpg absPath of file",
-      "internal": {
-        "contentDigest": "e30cc9a385c6bbad59ad3ae758e7f0b3",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
     "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-19--preventing-and-managing-bloat/bloat_rumen_diagram.png absPath of file >> ImageSharp": {
       "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-19--preventing-and-managing-bloat/bloat_rumen_diagram.png absPath of file >> ImageSharp",
       "children": [],
@@ -9725,52 +9669,6 @@
       "ctime": "2018-05-07T10:45:23.808Z",
       "birthtime": "2018-05-07T10:45:23.807Z"
     },
-    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/locked-ecf.png absPath of file": {
-      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/locked-ecf.png absPath of file",
-      "children": [
-        "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/locked-ecf.png absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "fadbb35c3be707b2c59c085b06d2e680",
-        "mediaType": "image/png",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/locked-ecf.png",
-      "relativePath": "2017-12-17--east-coast-fever-disease/locked-ecf.png",
-      "extension": "png",
-      "size": 307537,
-      "prettySize": "308 kB",
-      "modifiedTime": "2018-05-07T10:45:23.958Z",
-      "accessTime": "2018-05-07T10:45:24.017Z",
-      "changeTime": "2018-05-07T10:45:23.958Z",
-      "birthTime": "2018-05-07T10:45:23.955Z",
-      "root": "/",
-      "dir": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease",
-      "base": "locked-ecf.png",
-      "ext": ".png",
-      "name": "locked-ecf",
-      "relativeDirectory": "2017-12-17--east-coast-fever-disease",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8598660460,
-      "blocks": 608,
-      "atimeMs": 1525689924016.8635,
-      "mtimeMs": 1525689923958.413,
-      "ctimeMs": 1525689923958.413,
-      "birthtimeMs": 1525689923954.501,
-      "atime": "2018-05-07T10:45:24.017Z",
-      "mtime": "2018-05-07T10:45:23.958Z",
-      "ctime": "2018-05-07T10:45:23.958Z",
-      "birthtime": "2018-05-07T10:45:23.955Z"
-    },
     "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-21--preventing-and-treating-milk-fever/milk_fever_cow.png absPath of file": {
       "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-21--preventing-and-treating-milk-fever/milk_fever_cow.png absPath of file",
       "children": [
@@ -10142,35 +10040,6 @@
       "fields": {
         "slug": "/increasing-milk-production-part-1/",
         "prefix": "2017-12-05"
-      }
-    },
-    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/index.md absPath of file",
-      "internal": {
-        "content": "---\r\ntitle: East Coast Fever Disease\r\nsubTitle: Disease & animal health\r\ncategory: \"disease & animal health\"\r\ncover: unlock-east-coast-fever-disease.png\r\n---\r\n<blockquote style=\"background: #f2f3f4;\">\r\n<p style=\"text-align: center; font-weight: 300; font-size: 0.9em\">To add your question press <img style=\"height:2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/comment_icon.png\" >  in bottom corner 👇</p>\r\n</blockquote>\r\n\r\n<div style=\"text-align: center\">\r\n<a href=\"/about\"><img style=\"width: 100%;\" src=\"https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png\" ></a>\r\n</div>\r\n<br></br>\r\nAs of 1992 East Coast fever was called probably the most important livestock disease of cattle, sheep and goats in Africa, causing an annual loss of 1.1 million cattle and $168 million in 1992...\r\n<br></br>\r\n\r\n![](./access-soon.jpg)\r\n\r\n<br></br>\r\n\r\n---\r\n### Read more topics\r\nThere are number of other important topics in this guide:\r\n\r\n* [Preventing and treating milk fever](/preventing-and-treating-milk-fever) ⭐ - Guidance on milk fever issues\r\n* [Feeding your cows - basics](/feeding-your-cow-basics)  ⭐- Understand the basics of feeding\r\n* [Feeding milking cows](/feeding-milking-cows)  🔒- Know best feeds for milking cows\r\n\r\n...or you can just [see all topics](/)\r\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "a14a1a54ce452d58a84f95bde857d492",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin",
-          "prefix": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "East Coast Fever Disease",
-        "subTitle": "Disease & animal health",
-        "category": "disease & animal health",
-        "cover": "unlock-east-coast-fever-disease.png",
-        "_PARENT": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/index.md absPath of file",
-        "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/index.md absPath of file"
-      },
-      "excerpt": "",
-      "fileAbsolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/index.md",
-      "fields": {
-        "slug": "/east-coast-fever-disease/",
-        "prefix": "2017-12-17"
       }
     },
     "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-19--preventing-and-managing-bloat/index.md absPath of file >>> MarkdownRemark": {
@@ -10644,16 +10513,6 @@
       "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-05--increasing-milk-production-part-1/lock-increasing-milk-production.png absPath of file",
       "internal": {
         "contentDigest": "dbe04e3dc9be7bf584b31396d2e63254",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/locked-ecf.png absPath of file >> ImageSharp": {
-      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/locked-ecf.png absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/locked-ecf.png absPath of file",
-      "internal": {
-        "contentDigest": "fadbb35c3be707b2c59c085b06d2e680",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -11181,52 +11040,6 @@
       "mtime": "2018-05-07T10:45:23.854Z",
       "ctime": "2018-05-07T10:45:23.854Z",
       "birthtime": "2018-05-07T10:45:23.850Z"
-    },
-    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/lock-east-coast-fever-disease.png absPath of file": {
-      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/lock-east-coast-fever-disease.png absPath of file",
-      "children": [
-        "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/lock-east-coast-fever-disease.png absPath of file >> ImageSharp"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "8de0bbad0c4e95a1ae5a721e4922668d",
-        "mediaType": "image/png",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "posts",
-      "absolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/lock-east-coast-fever-disease.png",
-      "relativePath": "2017-12-17--east-coast-fever-disease/lock-east-coast-fever-disease.png",
-      "extension": "png",
-      "size": 515782,
-      "prettySize": "516 kB",
-      "modifiedTime": "2018-05-07T10:45:23.953Z",
-      "accessTime": "2018-05-07T10:45:24.015Z",
-      "changeTime": "2018-05-07T10:45:23.953Z",
-      "birthTime": "2018-05-07T10:45:23.950Z",
-      "root": "/",
-      "dir": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease",
-      "base": "lock-east-coast-fever-disease.png",
-      "ext": ".png",
-      "name": "lock-east-coast-fever-disease",
-      "relativeDirectory": "2017-12-17--east-coast-fever-disease",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8598660459,
-      "blocks": 1008,
-      "atimeMs": 1525689924014.5376,
-      "mtimeMs": 1525689923953.2874,
-      "ctimeMs": 1525689923953.2874,
-      "birthtimeMs": 1525689923949.5645,
-      "atime": "2018-05-07T10:45:24.015Z",
-      "mtime": "2018-05-07T10:45:23.953Z",
-      "ctime": "2018-05-07T10:45:23.953Z",
-      "birthtime": "2018-05-07T10:45:23.950Z"
     },
     "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-10-11--feeding-calf/unlock-feeding-calf.png absPath of file": {
       "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-10-11--feeding-calf/unlock-feeding-calf.png absPath of file",
@@ -11820,16 +11633,6 @@
       "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-09--understanding-breeds/lock-understanding-breeds.png absPath of file",
       "internal": {
         "contentDigest": "dcfa9c1e5031ac6264ef7187b02ddf9b",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/lock-east-coast-fever-disease.png absPath of file >> ImageSharp": {
-      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/lock-east-coast-fever-disease.png absPath of file >> ImageSharp",
-      "children": [],
-      "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/lock-east-coast-fever-disease.png absPath of file",
-      "internal": {
-        "contentDigest": "8de0bbad0c4e95a1ae5a721e4922668d",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -12789,7 +12592,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "db0f64b5f9b0c2d7f5c30ac8c09a7096",
+        "contentDigest": "b10e9032aec44624e9eb03cae6e2ab93",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -12800,7 +12603,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-05-07T10:45:23.200Z",
-      "accessTime": "2018-05-14T14:04:34.291Z",
+      "accessTime": "2018-05-22T14:32:15.800Z",
       "changeTime": "2018-05-07T10:45:23.200Z",
       "birthTime": "2018-05-07T10:45:23.170Z",
       "root": "/",
@@ -12818,11 +12621,11 @@
       "blksize": 4194304,
       "ino": 8598660281,
       "blocks": 0,
-      "atimeMs": 1526306674290.6187,
+      "atimeMs": 1526999535800.3198,
       "mtimeMs": 1525689923199.8608,
       "ctimeMs": 1525689923199.8608,
       "birthtimeMs": 1525689923169.936,
-      "atime": "2018-05-14T14:04:34.291Z",
+      "atime": "2018-05-22T14:32:15.800Z",
       "mtime": "2018-05-07T10:45:23.200Z",
       "ctime": "2018-05-07T10:45:23.200Z",
       "birthtime": "2018-05-07T10:45:23.170Z"
@@ -12832,7 +12635,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "11cf37f53b8c5f0fdf05323fa6ce2b4f",
+        "contentDigest": "d6214421dd3be30e8ccf20d7f33bfa51",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -12843,7 +12646,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-05-07T10:45:23.170Z",
-      "accessTime": "2018-05-14T14:04:34.293Z",
+      "accessTime": "2018-05-22T14:32:15.801Z",
       "changeTime": "2018-05-07T10:45:23.170Z",
       "birthTime": "2018-05-07T10:45:23.170Z",
       "root": "/",
@@ -12861,11 +12664,11 @@
       "blksize": 4194304,
       "ino": 8598660282,
       "blocks": 0,
-      "atimeMs": 1526306674293.394,
+      "atimeMs": 1526999535801.0984,
       "mtimeMs": 1525689923170.055,
       "ctimeMs": 1525689923170.055,
       "birthtimeMs": 1525689923169.9854,
-      "atime": "2018-05-14T14:04:34.293Z",
+      "atime": "2018-05-22T14:32:15.801Z",
       "mtime": "2018-05-07T10:45:23.170Z",
       "ctime": "2018-05-07T10:45:23.170Z",
       "birthtime": "2018-05-07T10:45:23.170Z"
@@ -12875,7 +12678,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7753dadfb209ff7eba865981b1295576",
+        "contentDigest": "e027de34b2a45694e787dac0c4616a78",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -12886,7 +12689,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.197Z",
-      "accessTime": "2018-05-14T14:04:34.294Z",
+      "accessTime": "2018-05-22T14:32:15.801Z",
       "changeTime": "2018-05-07T10:45:23.197Z",
       "birthTime": "2018-05-07T10:45:23.176Z",
       "root": "/",
@@ -12904,11 +12707,11 @@
       "blksize": 4194304,
       "ino": 8598660284,
       "blocks": 0,
-      "atimeMs": 1526306674293.6235,
+      "atimeMs": 1526999535801.1423,
       "mtimeMs": 1525689923196.769,
       "ctimeMs": 1525689923196.769,
       "birthtimeMs": 1525689923176.0789,
-      "atime": "2018-05-14T14:04:34.294Z",
+      "atime": "2018-05-22T14:32:15.801Z",
       "mtime": "2018-05-07T10:45:23.197Z",
       "ctime": "2018-05-07T10:45:23.197Z",
       "birthtime": "2018-05-07T10:45:23.176Z"
@@ -12918,7 +12721,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "54ff88830e1e8f2fb4e1315b4497a295",
+        "contentDigest": "1325804651742eeb6807b6c1d1b6d2b7",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -12929,7 +12732,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-05-07T10:45:23.200Z",
-      "accessTime": "2018-05-14T14:04:34.294Z",
+      "accessTime": "2018-05-22T14:32:15.801Z",
       "changeTime": "2018-05-07T10:45:23.200Z",
       "birthTime": "2018-05-07T10:45:23.200Z",
       "root": "/",
@@ -12947,11 +12750,11 @@
       "blksize": 4194304,
       "ino": 8598660290,
       "blocks": 0,
-      "atimeMs": 1526306674293.5022,
+      "atimeMs": 1526999535801.1162,
       "mtimeMs": 1525689923199.9358,
       "ctimeMs": 1525689923199.9358,
       "birthtimeMs": 1525689923199.8464,
-      "atime": "2018-05-14T14:04:34.294Z",
+      "atime": "2018-05-22T14:32:15.801Z",
       "mtime": "2018-05-07T10:45:23.200Z",
       "ctime": "2018-05-07T10:45:23.200Z",
       "birthtime": "2018-05-07T10:45:23.200Z"
@@ -13403,7 +13206,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6bdc8cd5c33f0ab63b1f112e0a762194",
+        "contentDigest": "a2e8e1211605d2e147e91a4c8864eef9",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -13414,7 +13217,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-05-07T10:45:23.222Z",
-      "accessTime": "2018-05-14T14:04:34.338Z",
+      "accessTime": "2018-05-22T14:32:15.815Z",
       "changeTime": "2018-05-07T10:45:23.222Z",
       "birthTime": "2018-05-07T10:45:23.204Z",
       "root": "/",
@@ -13432,11 +13235,11 @@
       "blksize": 4194304,
       "ino": 8598660292,
       "blocks": 0,
-      "atimeMs": 1526306674338.1707,
+      "atimeMs": 1526999535815.1326,
       "mtimeMs": 1525689923221.9297,
       "ctimeMs": 1525689923221.9297,
       "birthtimeMs": 1525689923204.2542,
-      "atime": "2018-05-14T14:04:34.338Z",
+      "atime": "2018-05-22T14:32:15.815Z",
       "mtime": "2018-05-07T10:45:23.222Z",
       "ctime": "2018-05-07T10:45:23.222Z",
       "birthtime": "2018-05-07T10:45:23.204Z"
@@ -14071,6 +13874,147 @@
         "prefix": "2017-12-07"
       }
     },
+    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/ecf_symptoms.png absPath of file": {
+      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/ecf_symptoms.png absPath of file",
+      "children": [
+        "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/ecf_symptoms.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "af2ee5d3e4c5d975af6438b88053daf3",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/ecf_symptoms.png",
+      "relativePath": "2017-12-17--east-coast-fever-disease/ecf_symptoms.png",
+      "extension": "png",
+      "size": 555345,
+      "prettySize": "555 kB",
+      "modifiedTime": "2018-05-22T09:16:50.964Z",
+      "accessTime": "2018-05-22T09:16:52.795Z",
+      "changeTime": "2018-05-22T09:16:51.128Z",
+      "birthTime": "2018-05-22T09:16:50.893Z",
+      "root": "/",
+      "dir": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease",
+      "base": "ecf_symptoms.png",
+      "ext": ".png",
+      "name": "ecf_symptoms",
+      "relativeDirectory": "2017-12-17--east-coast-fever-disease",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599823332,
+      "blocks": 1088,
+      "atimeMs": 1526980612795.2693,
+      "mtimeMs": 1526980610963.6113,
+      "ctimeMs": 1526980611128.4966,
+      "birthtimeMs": 1526980610893.2087,
+      "atime": "2018-05-22T09:16:52.795Z",
+      "mtime": "2018-05-22T09:16:50.964Z",
+      "ctime": "2018-05-22T09:16:51.128Z",
+      "birthtime": "2018-05-22T09:16:50.893Z"
+    },
+    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/ecf_symptoms.png absPath of file >> ImageSharp": {
+      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/ecf_symptoms.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/ecf_symptoms.png absPath of file",
+      "internal": {
+        "contentDigest": "af2ee5d3e4c5d975af6438b88053daf3",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/tick_spraying.png absPath of file": {
+      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/tick_spraying.png absPath of file",
+      "children": [
+        "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/tick_spraying.png absPath of file >> ImageSharp"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "938cde806901ff8cd697576479402c7b",
+        "mediaType": "image/png",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "posts",
+      "absolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/tick_spraying.png",
+      "relativePath": "2017-12-17--east-coast-fever-disease/tick_spraying.png",
+      "extension": "png",
+      "size": 1194108,
+      "prettySize": "1.19 MB",
+      "modifiedTime": "2018-05-22T09:22:03.475Z",
+      "accessTime": "2018-05-22T09:22:03.331Z",
+      "changeTime": "2018-05-22T09:22:03.647Z",
+      "birthTime": "2018-05-22T09:22:03.331Z",
+      "root": "/",
+      "dir": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease",
+      "base": "tick_spraying.png",
+      "ext": ".png",
+      "name": "tick_spraying",
+      "relativeDirectory": "2017-12-17--east-coast-fever-disease",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8599824235,
+      "blocks": 2336,
+      "atimeMs": 1526980923331.3108,
+      "mtimeMs": 1526980923475.24,
+      "ctimeMs": 1526980923647.206,
+      "birthtimeMs": 1526980923331.3108,
+      "atime": "2018-05-22T09:22:03.331Z",
+      "mtime": "2018-05-22T09:22:03.475Z",
+      "ctime": "2018-05-22T09:22:03.647Z",
+      "birthtime": "2018-05-22T09:22:03.331Z"
+    },
+    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/tick_spraying.png absPath of file >> ImageSharp": {
+      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/tick_spraying.png absPath of file >> ImageSharp",
+      "children": [],
+      "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/tick_spraying.png absPath of file",
+      "internal": {
+        "contentDigest": "938cde806901ff8cd697576479402c7b",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/index.md absPath of file",
+      "internal": {
+        "content": "---\r\ntitle: East Coast Fever Disease\r\nsubTitle: Disease & animal health\r\ncategory: \"disease & animal health\"\r\ncover: unlock-east-coast-fever-disease.png\r\n---\r\n<blockquote style=\"background: #f2f3f4;\">\r\n<p style=\"text-align: center; font-weight: 300; font-size: 0.9em\">To add your question press <img style=\"height:2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/comment_icon.png\" >  in bottom corner 👇</p>\r\n</blockquote>\r\n\r\n<div style=\"text-align: center\">\r\n<a href=\"/about\"><img style=\"width: 100%;\" src=\"https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png\" ></a>\r\n</div>\r\n<br></br>\r\nAs of 1992 East Coast fever was called probably the most important livestock disease of cattle, sheep and goats in Africa, causing an annual loss of 1.1 million cattle and $168 million in 1992...\r\n<br></br>\r\n\r\n<blockquote style=\"background: #D7F19F;\">\r\n\r\n### What causes East Coast Fever?\r\n\r\nEast Coast Fever is transmitted to cows by the “brown ear tick”. It is called this because the ticks normally attach themselves to the cow’s ear. \r\n<br><br>\r\nIf you see symptoms of East Coast Fever you must call a vet immediately as cows can die within 3 weeks. There is now a vaccination available to protect cows from the disease.\r\n\r\n<br>\r\n\r\n  <div>\r\n    Source:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/ILRI-logo.png\" >\r\n    <b>ILRI</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>21</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\nCheck out our 6 signs to watch out for...\r\n\r\n![unsplash.com](./ecf_symptoms.png)\r\n\r\n### Top Q&A from AFC members\r\n\r\nJosephat asked a common question about ECF vaccinations...\r\n\r\n<blockquote style=\"background: #6EA6A2;\">\r\n\r\n  ### Josephat's Question\r\n\r\n  I've witnessed a number of animals coming down with ECF despite having been vaccinated against the same. Any expert on this?\r\n\r\n  <br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_dairy_guide_ecf_josephat.png\" >\r\n    <b>Josephat W</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>12</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\n<blockquote style=\"background: #96e58e;\">\r\n\r\n### David's Answer\r\n\r\nIt depends with the strain of parasite in the area.n should take in account that introduction of new stock,or wild life or mixing with other animals may result in your cow acquiring a different kind of parasite other than you vaccinated, its advisable to continually washing with accaricide once a week to kill the life cycle of such ticks and avoid mixing new stock immediately you purchase\r\n<br></br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_dairy_guide_ecf_david.png\" >\r\n    <b>Davidkariuki</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>31</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\n<blockquote style=\"background: #D7F19F;\">\r\n\r\n### AFC opinion\r\n\r\nECF vaccination will only protect your cattle from one strain of ECF so it is possible for cows to be infected by other strains. \r\n<br></br>\r\nThere are also reports of farmers doing the vaccinations themselves (without a trained vet) or buying the vaccination from people who are not registered. If the vaccination is not stored properly and administered properly then the animal will not be protected and could become very sick.\r\n<br></br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_logo.png\" >\r\n    <b>AFC</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>31</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\nJudy was looking for more information on the best way to spray against ticks...\r\n\r\n<blockquote style=\"background: #6EA6A2;\">\r\n\r\n  ### Judy’s Question\r\n\r\n  My calf has a lot of ticks which is the best to to spray pliz advice\r\n\r\n  <br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_dairy_guide_ecf_judy.png\" >\r\n    <b>Judy W</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>12</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\n<blockquote style=\"background: #96e58e;\">\r\n\r\n### Gordon's Answer\r\n\r\nGo to an agrovet shop,buy DUO DIP. At home if washing 1 cow,take a Knapsack spray,clean thorough with soapy water to clear any pesticide used before. Pour clean water 2.5 litres into the Knapsack,measure Dupdip 5ml and pour into the Knapsack. Mix thoroughly,then add 2.5 litre of water into the Knapsack then mix thoroughly. If the cow is muddy wash it and allow water to drain. Now spray very all over,the ears,between hooves.thereafter spray the sleeping area and dogs if around.\r\n<br><br>\r\nREAD THE LABEL OF THE ACARICIDE YOU HAVE BOUGHT!\r\n\r\n<br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_dairy_guide_ecf_gordon.png\" >\r\n    <b>Gordon A</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>31</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\n<blockquote style=\"background: #D7F19F;\">\r\n\r\n### AFC opinion\r\n\r\nRegular spraying of acaricides will help to control ticks. If your calf has a lot of ticks then start by spraying 2-3 times per week. You can reduce to 1 spray per week once you see the ticks reduce. Remember that ticks can become resistant to some sprays so you may need to try different brands to see what is most effective.\r\n<br><br>\r\nMake sure that the pasture around your calf isn’t overgrown and bushy as this can spread ticks. Also make sure the calf isn’t coming into contact with other animals such as dogs.\r\n<br></br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_logo.png\" >\r\n    <b>AFC</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>31</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\n![unsplash.com](./tick_spraying.png)\r\n\r\nGot more questions about East Coast Fever? Add your questions in the comments section below...\r\n\r\n---\r\n### Read more topics\r\nThere are number of other important topics in this guide:\r\n\r\n* [Preventing and treating milk fever](/preventing-and-treating-milk-fever) ⭐ - Guidance on milk fever issues\r\n* [Feeding your cows - basics](/feeding-your-cow-basics)  ⭐- Understand the basics of feeding\r\n* [Feeding milking cows](/feeding-milking-cows)  🔒- Know best feeds for milking cows\r\n\r\n...or you can just [see all topics](/)\r\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "a0ba1c04546bd9d8e81906526371e9a6",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin",
+          "prefix": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "East Coast Fever Disease",
+        "subTitle": "Disease & animal health",
+        "category": "disease & animal health",
+        "cover": "unlock-east-coast-fever-disease.png",
+        "_PARENT": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/index.md absPath of file",
+        "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/index.md absPath of file"
+      },
+      "excerpt": "",
+      "fileAbsolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/index.md",
+      "fields": {
+        "slug": "/east-coast-fever-disease/",
+        "prefix": "2017-12-17"
+      }
+    },
     "SitePage /offline-plugin-app-shell-fallback/": {
       "layout": "index",
       "jsonName": "offline-plugin-app-shell-fallback.json",
@@ -14087,7 +14031,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4728be3b0109e599432cb5ef142c7846",
+        "contentDigest": "d4e3c950a7c3de4f0a9a790b1b18338c",
         "owner": "internal-data-bridge"
       }
     },
@@ -14109,7 +14053,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "85b95676852db1e6b0e7fb5746b4b771",
+        "contentDigest": "e76a144c11d9f7cc2de96242f02247df",
         "owner": "internal-data-bridge"
       }
     },
@@ -14131,7 +14075,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "828b20d551084ff8657a6382f4d0c431",
+        "contentDigest": "c60fc636b23521a842135ae75537e218",
         "owner": "internal-data-bridge"
       }
     },
@@ -14153,7 +14097,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3fff95da96e035bfd16a322fb9d8f396",
+        "contentDigest": "c771933f23bb25fde6846d16ebb601d4",
         "owner": "internal-data-bridge"
       }
     },
@@ -14175,7 +14119,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1c0b4149db8970de15fbed19aa8e4c37",
+        "contentDigest": "138b95cc483d5666a64e3ae9e930a2e6",
         "owner": "internal-data-bridge"
       }
     },
@@ -14197,7 +14141,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "114faa0c268b20252171a17c4856f4e6",
+        "contentDigest": "f1131105bc688b01e953195fc276ffd8",
         "owner": "internal-data-bridge"
       }
     },
@@ -14219,7 +14163,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b63caf6f725cfb4169743ae0d0a58667",
+        "contentDigest": "8f08816732483f69e13fc23d9ff304b1",
         "owner": "internal-data-bridge"
       }
     },
@@ -14241,7 +14185,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cc5ab2fc4cfffc71e91005af661a27ac",
+        "contentDigest": "cab198fb6d0a54fcaef2d53bf9ea768d",
         "owner": "internal-data-bridge"
       }
     },
@@ -14263,7 +14207,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c87978703fb07475fd21814f5fc2ac9a",
+        "contentDigest": "84de8461d1137d0e1e5b2ae6b0483e49",
         "owner": "internal-data-bridge"
       }
     },
@@ -14285,7 +14229,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3ad9fd231e22f57b62ad445bf55428c3",
+        "contentDigest": "a2b99abb61860ff0da1d76c8c13d8669",
         "owner": "internal-data-bridge"
       }
     },
@@ -14307,7 +14251,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ef8ad6f1ca0125d04a03032193e19d54",
+        "contentDigest": "ec36dafeedbaeeba4f7265ca7ff2c1d4",
         "owner": "internal-data-bridge"
       }
     },
@@ -14329,7 +14273,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2079169852c39ae8d1ada81d9296ae09",
+        "contentDigest": "93fc4de98a064c2b023fc04cb2c045f0",
         "owner": "internal-data-bridge"
       }
     },
@@ -14351,7 +14295,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "db8d258ee0021bce900f6a2e8ecea376",
+        "contentDigest": "1f5b7911388f871c344786d19294ec6b",
         "owner": "internal-data-bridge"
       }
     },
@@ -14373,7 +14317,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a8fbfaaf33a8bd390c783ab026d27560",
+        "contentDigest": "173563e15f1fe9a387a904948a396c36",
         "owner": "internal-data-bridge"
       }
     },
@@ -14395,7 +14339,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a484ccfde554c24f3163181b985466f1",
+        "contentDigest": "749828493091aa9b4bb8c8921143a00e",
         "owner": "internal-data-bridge"
       }
     },
@@ -14417,7 +14361,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6047b5a25c476757ef0e8d83d3869957",
+        "contentDigest": "5c04588a5461361959285394ebe7b532",
         "owner": "internal-data-bridge"
       }
     },
@@ -14439,7 +14383,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4b8efd2a4efc93a6f86d9a82b2708d31",
+        "contentDigest": "4b8919cb3c18a19fb1728baf66fbf292",
         "owner": "internal-data-bridge"
       }
     },
@@ -14461,7 +14405,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ffd6434ed2c7a3343a913a047d772941",
+        "contentDigest": "937162b3cebfbc130dbcf7173cb71469",
         "owner": "internal-data-bridge"
       }
     },
@@ -14483,7 +14427,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "72c14852b1e477b67530a01d54a47b38",
+        "contentDigest": "d3f4aaa127659603824818113a17bd4f",
         "owner": "internal-data-bridge"
       }
     },
@@ -14505,7 +14449,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8c78b7e31456f4571d5b2bb60adc9748",
+        "contentDigest": "499a99b217b52c0123b295875b007c62",
         "owner": "internal-data-bridge"
       }
     },
@@ -14527,7 +14471,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dfd8f77a8b676248f5183c445f77cb66",
+        "contentDigest": "666aa455d3d7ff293e1f19f6a8418ee3",
         "owner": "internal-data-bridge"
       }
     },
@@ -14549,7 +14493,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5840352fbcae8cc7693592954c93b3cf",
+        "contentDigest": "36f1d9f756735c4471b6471b5403bcc5",
         "owner": "internal-data-bridge"
       }
     },
@@ -14571,7 +14515,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "581745c71ee4331cc56740423527d722",
+        "contentDigest": "4dc31ec4bd876f1918da02d6ccead57d",
         "owner": "internal-data-bridge"
       }
     },
@@ -14593,7 +14537,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "082d69d964a4a78275a8a4665d8d949e",
+        "contentDigest": "d9982ff552709e94fc51779eb96af016",
         "owner": "internal-data-bridge"
       }
     },
@@ -14615,29 +14559,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ff5ea1b3e8717bc3292a2aab0abb43f2",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /east-coast-fever-disease/": {
-      "layout": "index",
-      "jsonName": "east-coast-fever-disease.json",
-      "internalComponentName": "ComponentEastCoastFeverDisease",
-      "path": "/east-coast-fever-disease/",
-      "component": "/Users/georgiabarrie/gatsby-afc-guide/src/templates/PostTemplate.js",
-      "componentChunkName": "component---src-templates-post-template-js",
-      "context": {
-        "slug": "/east-coast-fever-disease/"
-      },
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/georgiabarrie/gatsby-afc-guide/src/templates/PostTemplate.js",
-      "id": "SitePage /east-coast-fever-disease/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f4ada0357a64ca291387b24c048e0274",
+        "contentDigest": "9713573b1366cccec22aec785eebf249",
         "owner": "internal-data-bridge"
       }
     },
@@ -14659,7 +14581,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e95b0ad339268c785e7ce8fffef36497",
+        "contentDigest": "36b7d1fa36d0cde1a184590ba4fdc787",
         "owner": "internal-data-bridge"
       }
     },
@@ -14681,7 +14603,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ff7537c516d2f1b2993c8bdb0b1b20b6",
+        "contentDigest": "0615bad8261f85aee77961659c98afb0",
         "owner": "internal-data-bridge"
       }
     },
@@ -14703,7 +14625,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bb7dae2938c6982dd165a9cbe55bc8c3",
+        "contentDigest": "5038f3e2bef28d51546bfc8eede3f770",
         "owner": "internal-data-bridge"
       }
     },
@@ -14725,7 +14647,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "46bd280f5fc05670b5875b5660106a5a",
+        "contentDigest": "b34b0f685528e6638e3916a72d2c6c0d",
         "owner": "internal-data-bridge"
       }
     },
@@ -14747,7 +14669,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4d41b9729f6928c600cab6c5c7f31f1f",
+        "contentDigest": "af7fd2417234d53aa895e7a7236c8108",
         "owner": "internal-data-bridge"
       }
     },
@@ -14769,7 +14691,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "82eae7c28015d3191f4deb3f9bf0fa6a",
+        "contentDigest": "423434dda8d1554073697963760d023d",
         "owner": "internal-data-bridge"
       }
     },
@@ -14791,7 +14713,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a88709928aefa0ad3d96a65f0c475061",
+        "contentDigest": "36147b320b06f632001746c9bba5552e",
         "owner": "internal-data-bridge"
       }
     },
@@ -14813,7 +14735,29 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4048b797f609e4240881d8b6509db824",
+        "contentDigest": "bad8a777a6cc6af57200381bba66e8e2",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /east-coast-fever-disease/": {
+      "layout": "index",
+      "jsonName": "east-coast-fever-disease.json",
+      "internalComponentName": "ComponentEastCoastFeverDisease",
+      "path": "/east-coast-fever-disease/",
+      "component": "/Users/georgiabarrie/gatsby-afc-guide/src/templates/PostTemplate.js",
+      "componentChunkName": "component---src-templates-post-template-js",
+      "context": {
+        "slug": "/east-coast-fever-disease/"
+      },
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/georgiabarrie/gatsby-afc-guide/src/templates/PostTemplate.js",
+      "id": "SitePage /east-coast-fever-disease/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c4cebb660a1cc684470639ceaad24780",
         "owner": "internal-data-bridge"
       }
     },
@@ -14833,7 +14777,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e0607a66538bc5d3a98ee24c27bac41e",
+        "contentDigest": "57699825af0ce2de212fda9f6db6a642",
         "owner": "internal-data-bridge"
       }
     },
@@ -14853,7 +14797,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cacf730d804c3ed04f002568bd92a729",
+        "contentDigest": "70620150604181040fc551508bb797b4",
         "owner": "internal-data-bridge"
       }
     },
@@ -14873,7 +14817,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6495acb555a86e1dfc8711e713253132",
+        "contentDigest": "baac09ba06048ba166d8c4946e54b762",
         "owner": "internal-data-bridge"
       }
     }
