@@ -42,6 +42,35 @@ Check out our 6 signs to watch out for...
 
 ![unsplash.com](./ecf_symptoms.png)
 
+<blockquote style="background: #D7F19F;">
+
+### Where can I get the vaccine?
+
+Make sure you buy your vaccine from a registered organisation. Here are contacts of some registered suppliers in Kenya:
+<br><br>
+<b>VetAid:</b> Dr Mpilei David (0725330278), Dr Gabriel Turasha (0721473926)
+<br>
+<b>Sidai Africa:</b> Dr Rezin Odede (0722628472, 0701225949, 0703491296)
+<br>
+<b>BMC/Agrihaus:</b> Dr Rawlynce Bett (0726681441)
+<br>
+<b>KDFF:</b> Mr David Bett (0725799246)
+
+<br>
+
+  <div>
+    Source:
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/ILRI-logo.png" >
+    <b>ILRI</b>
+    <div style="float: right;margin-top:0px;"> <b>21</b>
+      <a href = "#">
+        <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
+      </a>
+    </div>
+  </div>
+
+</blockquote>
+
 ### Top Q&A from AFC members
 
 Josephat asked a common question about ECF vaccinations...
