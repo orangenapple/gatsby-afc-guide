@@ -1962,12 +1962,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-05-22T14:49:14.627Z",
+      "buildTime": "2018-05-23T04:17:07.185Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "debbeb8352aaa9c94963baee4f468fc8",
+        "contentDigest": "8006c7b0763de23b65fe276ae8b35d0d",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1977,7 +1977,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ebe9e70243a3c5fe269fc4afae1f74ba",
+        "contentDigest": "17763e804026571797fb26569406ff16",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -1988,7 +1988,7 @@
       "size": 1056,
       "prettySize": "1.06 kB",
       "modifiedTime": "2018-05-07T11:32:25.361Z",
-      "accessTime": "2018-05-22T14:49:19.009Z",
+      "accessTime": "2018-05-23T04:17:11.127Z",
       "changeTime": "2018-05-07T11:32:25.361Z",
       "birthTime": "2018-05-07T10:45:23.227Z",
       "root": "/",
@@ -2006,11 +2006,11 @@
       "blksize": 4194304,
       "ino": 8598660296,
       "blocks": 0,
-      "atimeMs": 1527000559009.0894,
+      "atimeMs": 1527049031126.799,
       "mtimeMs": 1525692745361.1602,
       "ctimeMs": 1525692745361.1602,
       "birthtimeMs": 1525689923227.1462,
-      "atime": "2018-05-22T14:49:19.009Z",
+      "atime": "2018-05-23T04:17:11.127Z",
       "mtime": "2018-05-07T11:32:25.361Z",
       "ctime": "2018-05-07T11:32:25.361Z",
       "birthtime": "2018-05-07T10:45:23.227Z"
@@ -2020,7 +2020,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "50f4879e300178f82ece170b6fdd219b",
+        "contentDigest": "64845d56ed4d0e065332953fccc378ac",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2031,7 +2031,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-05-07T10:45:23.236Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.135Z",
       "changeTime": "2018-05-07T10:45:23.236Z",
       "birthTime": "2018-05-07T10:45:23.227Z",
       "root": "/",
@@ -2049,11 +2049,11 @@
       "blksize": 4194304,
       "ino": 8598660297,
       "blocks": 0,
-      "atimeMs": 1527000559017.5947,
+      "atimeMs": 1527049031135.2673,
       "mtimeMs": 1525689923235.5862,
       "ctimeMs": 1525689923235.5862,
       "birthtimeMs": 1525689923227.2312,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.135Z",
       "mtime": "2018-05-07T10:45:23.236Z",
       "ctime": "2018-05-07T10:45:23.236Z",
       "birthtime": "2018-05-07T10:45:23.227Z"
@@ -2063,7 +2063,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "14309fa788d862880a4d9464c0e97af2",
+        "contentDigest": "c3dd4de304b77fba99fa91faf227bf44",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2074,7 +2074,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.261Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.135Z",
       "changeTime": "2018-05-07T10:45:23.261Z",
       "birthTime": "2018-05-07T10:45:23.242Z",
       "root": "/",
@@ -2092,11 +2092,11 @@
       "blksize": 4194304,
       "ino": 8598660301,
       "blocks": 0,
-      "atimeMs": 1527000559017.6128,
+      "atimeMs": 1527049031135.3145,
       "mtimeMs": 1525689923261.4216,
       "ctimeMs": 1525689923261.4216,
       "birthtimeMs": 1525689923241.7607,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.135Z",
       "mtime": "2018-05-07T10:45:23.261Z",
       "ctime": "2018-05-07T10:45:23.261Z",
       "birthtime": "2018-05-07T10:45:23.242Z"
@@ -2106,7 +2106,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4799ba9fa779f6a2b828e16cd0afee40",
+        "contentDigest": "386d712115b4e5a98aa47936ad86c201",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2117,7 +2117,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2018-05-07T11:32:40.472Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.135Z",
       "changeTime": "2018-05-07T11:32:40.472Z",
       "birthTime": "2018-05-07T10:45:23.266Z",
       "root": "/",
@@ -2135,11 +2135,11 @@
       "blksize": 4194304,
       "ino": 8598660307,
       "blocks": 0,
-      "atimeMs": 1527000559017.901,
+      "atimeMs": 1527049031135.291,
       "mtimeMs": 1525692760472.489,
       "ctimeMs": 1525692760472.489,
       "birthtimeMs": 1525689923265.9624,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.135Z",
       "mtime": "2018-05-07T11:32:40.472Z",
       "ctime": "2018-05-07T11:32:40.472Z",
       "birthtime": "2018-05-07T10:45:23.266Z"
@@ -2149,7 +2149,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e2d046bbd0ba7132e2ba82acc03b5c5a",
+        "contentDigest": "3eaad0f145a07900ced5b0c933258088",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2160,7 +2160,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.298Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.135Z",
       "changeTime": "2018-05-07T10:45:23.298Z",
       "birthTime": "2018-05-07T10:45:23.285Z",
       "root": "/",
@@ -2178,11 +2178,11 @@
       "blksize": 4194304,
       "ino": 8598660313,
       "blocks": 0,
-      "atimeMs": 1527000559017.8591,
+      "atimeMs": 1527049031135.3381,
       "mtimeMs": 1525689923297.7454,
       "ctimeMs": 1525689923297.7454,
       "birthtimeMs": 1525689923285.1387,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.135Z",
       "mtime": "2018-05-07T10:45:23.298Z",
       "ctime": "2018-05-07T10:45:23.298Z",
       "birthtime": "2018-05-07T10:45:23.285Z"
@@ -2192,7 +2192,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c36f69bc7b69ba5740be8a4abb044fb8",
+        "contentDigest": "a5ae95096c8f91e5f48e71845097d19e",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2203,7 +2203,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.321Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.135Z",
       "changeTime": "2018-05-07T10:45:23.321Z",
       "birthTime": "2018-05-07T10:45:23.301Z",
       "root": "/",
@@ -2221,11 +2221,11 @@
       "blksize": 4194304,
       "ino": 8598660319,
       "blocks": 0,
-      "atimeMs": 1527000559017.6355,
+      "atimeMs": 1527049031135.3608,
       "mtimeMs": 1525689923321.4236,
       "ctimeMs": 1525689923321.4236,
       "birthtimeMs": 1525689923300.674,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.135Z",
       "mtime": "2018-05-07T10:45:23.321Z",
       "ctime": "2018-05-07T10:45:23.321Z",
       "birthtime": "2018-05-07T10:45:23.301Z"
@@ -2235,7 +2235,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0f2c1ef36f47e60e9414eb94947f7b0d",
+        "contentDigest": "b172f9e91ccecf4f52ddc4939ef50047",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2246,7 +2246,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.375Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.135Z",
       "changeTime": "2018-05-07T10:45:23.375Z",
       "birthTime": "2018-05-07T10:45:23.327Z",
       "root": "/",
@@ -2264,11 +2264,11 @@
       "blksize": 4194304,
       "ino": 8598660325,
       "blocks": 0,
-      "atimeMs": 1527000559017.6826,
+      "atimeMs": 1527049031135.384,
       "mtimeMs": 1525689923374.8967,
       "ctimeMs": 1525689923374.8967,
       "birthtimeMs": 1525689923326.7996,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.135Z",
       "mtime": "2018-05-07T10:45:23.375Z",
       "ctime": "2018-05-07T10:45:23.375Z",
       "birthtime": "2018-05-07T10:45:23.327Z"
@@ -2278,7 +2278,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0b4ab30456939d6c1d72682416801d37",
+        "contentDigest": "9c56eda9340e8ab25566d1a67ec5d48c",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2289,7 +2289,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.398Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.135Z",
       "changeTime": "2018-05-07T10:45:23.398Z",
       "birthTime": "2018-05-07T10:45:23.379Z",
       "root": "/",
@@ -2307,11 +2307,11 @@
       "blksize": 4194304,
       "ino": 8598660331,
       "blocks": 0,
-      "atimeMs": 1527000559017.7476,
+      "atimeMs": 1527049031135.4072,
       "mtimeMs": 1525689923398.0205,
       "ctimeMs": 1525689923398.0205,
       "birthtimeMs": 1525689923378.5742,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.135Z",
       "mtime": "2018-05-07T10:45:23.398Z",
       "ctime": "2018-05-07T10:45:23.398Z",
       "birthtime": "2018-05-07T10:45:23.379Z"
@@ -2321,7 +2321,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "794f636d6dd84a5d4915d3fc29d3b1ce",
+        "contentDigest": "a5cde11e5f13a80ea85be8c000325f5b",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2332,7 +2332,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.428Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.135Z",
       "changeTime": "2018-05-07T10:45:23.428Z",
       "birthTime": "2018-05-07T10:45:23.402Z",
       "root": "/",
@@ -2350,11 +2350,11 @@
       "blksize": 4194304,
       "ino": 8598660337,
       "blocks": 0,
-      "atimeMs": 1527000559017.7717,
+      "atimeMs": 1527049031135.4297,
       "mtimeMs": 1525689923428.4414,
       "ctimeMs": 1525689923428.4414,
       "birthtimeMs": 1525689923401.7988,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.135Z",
       "mtime": "2018-05-07T10:45:23.428Z",
       "ctime": "2018-05-07T10:45:23.428Z",
       "birthtime": "2018-05-07T10:45:23.402Z"
@@ -2364,7 +2364,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "bcbf1550aa16c67eeeff386c9efcd3a1",
+        "contentDigest": "b7ee7fad6b2fb68f06b633d3440d10e1",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2375,7 +2375,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.458Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.135Z",
       "changeTime": "2018-05-07T10:45:23.458Z",
       "birthTime": "2018-05-07T10:45:23.432Z",
       "root": "/",
@@ -2393,11 +2393,11 @@
       "blksize": 4194304,
       "ino": 8598660343,
       "blocks": 0,
-      "atimeMs": 1527000559017.7896,
+      "atimeMs": 1527049031135.4531,
       "mtimeMs": 1525689923457.7908,
       "ctimeMs": 1525689923457.7908,
       "birthtimeMs": 1525689923432.1123,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.135Z",
       "mtime": "2018-05-07T10:45:23.458Z",
       "ctime": "2018-05-07T10:45:23.458Z",
       "birthtime": "2018-05-07T10:45:23.432Z"
@@ -2407,7 +2407,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e5e25602838b107963b516e9f264c96b",
+        "contentDigest": "7ea7aa6807dc4a103099990fa2096796",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2418,7 +2418,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.496Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.135Z",
       "changeTime": "2018-05-07T10:45:23.496Z",
       "birthTime": "2018-05-07T10:45:23.461Z",
       "root": "/",
@@ -2436,11 +2436,11 @@
       "blksize": 4194304,
       "ino": 8598660349,
       "blocks": 0,
-      "atimeMs": 1527000559017.812,
+      "atimeMs": 1527049031135.4758,
       "mtimeMs": 1525689923496.0117,
       "ctimeMs": 1525689923496.0117,
       "birthtimeMs": 1525689923461.4697,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.135Z",
       "mtime": "2018-05-07T10:45:23.496Z",
       "ctime": "2018-05-07T10:45:23.496Z",
       "birthtime": "2018-05-07T10:45:23.461Z"
@@ -2450,7 +2450,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9f6ffcc044f08b6587e21197e3f48447",
+        "contentDigest": "a46d30cb0a0a9a39c0ec75762c0fa10a",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2461,7 +2461,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.547Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.135Z",
       "changeTime": "2018-05-07T10:45:23.547Z",
       "birthTime": "2018-05-07T10:45:23.499Z",
       "root": "/",
@@ -2479,11 +2479,11 @@
       "blksize": 4194304,
       "ino": 8598660355,
       "blocks": 0,
-      "atimeMs": 1527000559017.8364,
+      "atimeMs": 1527049031135.4995,
       "mtimeMs": 1525689923546.5393,
       "ctimeMs": 1525689923546.5393,
       "birthtimeMs": 1525689923498.9324,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.135Z",
       "mtime": "2018-05-07T10:45:23.547Z",
       "ctime": "2018-05-07T10:45:23.547Z",
       "birthtime": "2018-05-07T10:45:23.499Z"
@@ -2493,7 +2493,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "de54b1e73fb7139898b818f415dca476",
+        "contentDigest": "125676c10b5e5e74578be720f7d1c6fb",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2504,7 +2504,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.575Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.136Z",
       "changeTime": "2018-05-07T10:45:23.575Z",
       "birthTime": "2018-05-07T10:45:23.550Z",
       "root": "/",
@@ -2522,11 +2522,11 @@
       "blksize": 4194304,
       "ino": 8598660361,
       "blocks": 0,
-      "atimeMs": 1527000559017.877,
+      "atimeMs": 1527049031135.5217,
       "mtimeMs": 1525689923574.768,
       "ctimeMs": 1525689923574.768,
       "birthtimeMs": 1525689923550.371,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.136Z",
       "mtime": "2018-05-07T10:45:23.575Z",
       "ctime": "2018-05-07T10:45:23.575Z",
       "birthtime": "2018-05-07T10:45:23.550Z"
@@ -2536,7 +2536,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "168056d7757abe57feb31e67ed52c9f2",
+        "contentDigest": "6ef8bcab2ab635109f4220593956e557",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2547,7 +2547,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.627Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.136Z",
       "changeTime": "2018-05-07T10:45:23.627Z",
       "birthTime": "2018-05-07T10:45:23.605Z",
       "root": "/",
@@ -2565,11 +2565,11 @@
       "blksize": 4194304,
       "ino": 8598660373,
       "blocks": 0,
-      "atimeMs": 1527000559017.9873,
+      "atimeMs": 1527049031135.5676,
       "mtimeMs": 1525689923627.1821,
       "ctimeMs": 1525689923627.1821,
       "birthtimeMs": 1525689923605.0312,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.136Z",
       "mtime": "2018-05-07T10:45:23.627Z",
       "ctime": "2018-05-07T10:45:23.627Z",
       "birthtime": "2018-05-07T10:45:23.605Z"
@@ -2579,7 +2579,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9db9508a5da679d07bfec0c3c199f9bc",
+        "contentDigest": "b78049208339baa36f67e6271df8c9dc",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2590,7 +2590,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.602Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.136Z",
       "changeTime": "2018-05-07T10:45:23.602Z",
       "birthTime": "2018-05-07T10:45:23.579Z",
       "root": "/",
@@ -2608,11 +2608,11 @@
       "blksize": 4194304,
       "ino": 8598660367,
       "blocks": 0,
-      "atimeMs": 1527000559017.923,
+      "atimeMs": 1527049031135.5447,
       "mtimeMs": 1525689923602.3098,
       "ctimeMs": 1525689923602.3098,
       "birthtimeMs": 1525689923578.5503,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.136Z",
       "mtime": "2018-05-07T10:45:23.602Z",
       "ctime": "2018-05-07T10:45:23.602Z",
       "birthtime": "2018-05-07T10:45:23.579Z"
@@ -2622,7 +2622,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "eab1fe352797ece59cf5236246181dc8",
+        "contentDigest": "6deda3f3dafb3e7b1ef842d27e31d313",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2633,7 +2633,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.650Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.136Z",
       "changeTime": "2018-05-07T10:45:23.650Z",
       "birthTime": "2018-05-07T10:45:23.630Z",
       "root": "/",
@@ -2651,11 +2651,11 @@
       "blksize": 4194304,
       "ino": 8598660379,
       "blocks": 0,
-      "atimeMs": 1527000559017.946,
+      "atimeMs": 1527049031135.5903,
       "mtimeMs": 1525689923650.0474,
       "ctimeMs": 1525689923650.0474,
       "birthtimeMs": 1525689923630.3428,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.136Z",
       "mtime": "2018-05-07T10:45:23.650Z",
       "ctime": "2018-05-07T10:45:23.650Z",
       "birthtime": "2018-05-07T10:45:23.630Z"
@@ -2665,7 +2665,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9bfa60d190a671b22e1910fa8c737cba",
+        "contentDigest": "187c27b735b04cb3660f6f54086202e2",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2676,7 +2676,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.669Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.136Z",
       "changeTime": "2018-05-07T10:45:23.669Z",
       "birthTime": "2018-05-07T10:45:23.653Z",
       "root": "/",
@@ -2694,11 +2694,11 @@
       "blksize": 4194304,
       "ino": 8598660385,
       "blocks": 0,
-      "atimeMs": 1527000559018.0107,
+      "atimeMs": 1527049031135.6135,
       "mtimeMs": 1525689923668.9963,
       "ctimeMs": 1525689923668.9963,
       "birthtimeMs": 1525689923652.9375,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.136Z",
       "mtime": "2018-05-07T10:45:23.669Z",
       "ctime": "2018-05-07T10:45:23.669Z",
       "birthtime": "2018-05-07T10:45:23.653Z"
@@ -2708,7 +2708,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "98e3f6c7ea4de514dcabbc454334452e",
+        "contentDigest": "5b24d4a485f9b9bd2f90742d7a031bb0",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2719,7 +2719,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.706Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.136Z",
       "changeTime": "2018-05-07T10:45:23.706Z",
       "birthTime": "2018-05-07T10:45:23.672Z",
       "root": "/",
@@ -2737,11 +2737,11 @@
       "blksize": 4194304,
       "ino": 8598660391,
       "blocks": 0,
-      "atimeMs": 1527000559017.9644,
+      "atimeMs": 1527049031135.6362,
       "mtimeMs": 1525689923705.8245,
       "ctimeMs": 1525689923705.8245,
       "birthtimeMs": 1525689923672.032,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.136Z",
       "mtime": "2018-05-07T10:45:23.706Z",
       "ctime": "2018-05-07T10:45:23.706Z",
       "birthtime": "2018-05-07T10:45:23.672Z"
@@ -2751,7 +2751,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0d76024ee215675df9797d05081ca3f5",
+        "contentDigest": "515567d617dd6305e6a6bb6c832296a2",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2762,7 +2762,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.726Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.136Z",
       "changeTime": "2018-05-07T10:45:23.726Z",
       "birthTime": "2018-05-07T10:45:23.709Z",
       "root": "/",
@@ -2780,11 +2780,11 @@
       "blksize": 4194304,
       "ino": 8598660397,
       "blocks": 0,
-      "atimeMs": 1527000559018.0403,
+      "atimeMs": 1527049031135.6592,
       "mtimeMs": 1525689923726.2217,
       "ctimeMs": 1525689923726.2217,
       "birthtimeMs": 1525689923708.6785,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.136Z",
       "mtime": "2018-05-07T10:45:23.726Z",
       "ctime": "2018-05-07T10:45:23.726Z",
       "birthtime": "2018-05-07T10:45:23.709Z"
@@ -2794,7 +2794,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f3a2fb15453f357e7eafb1ce833a5367",
+        "contentDigest": "41ba6c01eccbdfe4c7a397620dc17ed1",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2805,7 +2805,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.750Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.136Z",
       "changeTime": "2018-05-07T10:45:23.750Z",
       "birthTime": "2018-05-07T10:45:23.730Z",
       "root": "/",
@@ -2823,11 +2823,11 @@
       "blksize": 4194304,
       "ino": 8598660403,
       "blocks": 0,
-      "atimeMs": 1527000559018.0586,
+      "atimeMs": 1527049031135.682,
       "mtimeMs": 1525689923750.2864,
       "ctimeMs": 1525689923750.2864,
       "birthtimeMs": 1525689923729.8323,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.136Z",
       "mtime": "2018-05-07T10:45:23.750Z",
       "ctime": "2018-05-07T10:45:23.750Z",
       "birthtime": "2018-05-07T10:45:23.730Z"
@@ -2837,7 +2837,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4e6919d4ae9cf5785330e40f07b54660",
+        "contentDigest": "1f2f07c17c7002302e852a807dbcbab9",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2848,7 +2848,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.778Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.136Z",
       "changeTime": "2018-05-07T10:45:23.778Z",
       "birthTime": "2018-05-07T10:45:23.753Z",
       "root": "/",
@@ -2866,11 +2866,11 @@
       "blksize": 4194304,
       "ino": 8598660409,
       "blocks": 0,
-      "atimeMs": 1527000559018.0818,
+      "atimeMs": 1527049031135.7048,
       "mtimeMs": 1525689923777.6348,
       "ctimeMs": 1525689923777.6348,
       "birthtimeMs": 1525689923753.4602,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.136Z",
       "mtime": "2018-05-07T10:45:23.778Z",
       "ctime": "2018-05-07T10:45:23.778Z",
       "birthtime": "2018-05-07T10:45:23.753Z"
@@ -2880,7 +2880,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "d04ddfe1964576f63f53482e476ea139",
+        "contentDigest": "97f02bf643c00b457fe9c488be1d1c67",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2891,7 +2891,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.797Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.136Z",
       "changeTime": "2018-05-07T10:45:23.797Z",
       "birthTime": "2018-05-07T10:45:23.781Z",
       "root": "/",
@@ -2909,11 +2909,11 @@
       "blksize": 4194304,
       "ino": 8598660415,
       "blocks": 0,
-      "atimeMs": 1527000559018.1057,
+      "atimeMs": 1527049031135.7273,
       "mtimeMs": 1525689923796.9004,
       "ctimeMs": 1525689923796.9004,
       "birthtimeMs": 1525689923780.75,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.136Z",
       "mtime": "2018-05-07T10:45:23.797Z",
       "ctime": "2018-05-07T10:45:23.797Z",
       "birthtime": "2018-05-07T10:45:23.781Z"
@@ -2923,7 +2923,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0c7340f35da2d77ef3ad780089674fca",
+        "contentDigest": "ef4419bb9a53eb9ec44dbfcf407137a4",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2934,7 +2934,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.812Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.136Z",
       "changeTime": "2018-05-07T10:45:23.812Z",
       "birthTime": "2018-05-07T10:45:23.800Z",
       "root": "/",
@@ -2952,11 +2952,11 @@
       "blksize": 4194304,
       "ino": 8598660421,
       "blocks": 0,
-      "atimeMs": 1527000559018.1292,
+      "atimeMs": 1527049031135.7507,
       "mtimeMs": 1525689923811.6453,
       "ctimeMs": 1525689923811.6453,
       "birthtimeMs": 1525689923799.9692,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.136Z",
       "mtime": "2018-05-07T10:45:23.812Z",
       "ctime": "2018-05-07T10:45:23.812Z",
       "birthtime": "2018-05-07T10:45:23.800Z"
@@ -2966,7 +2966,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "79b168fe113722a019c0462bc0943c25",
+        "contentDigest": "5d3b5c0d5ac278cb32d83f31eb1e794c",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -2977,7 +2977,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-14T13:41:13.310Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.136Z",
       "changeTime": "2018-05-14T13:41:13.310Z",
       "birthTime": "2018-05-07T10:45:23.815Z",
       "root": "/",
@@ -2995,11 +2995,11 @@
       "blksize": 4194304,
       "ino": 8598660427,
       "blocks": 0,
-      "atimeMs": 1527000559018.1472,
+      "atimeMs": 1527049031135.7744,
       "mtimeMs": 1526305273309.612,
       "ctimeMs": 1526305273309.612,
       "birthtimeMs": 1525689923815.1436,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.136Z",
       "mtime": "2018-05-14T13:41:13.310Z",
       "ctime": "2018-05-14T13:41:13.310Z",
       "birthtime": "2018-05-07T10:45:23.815Z"
@@ -3009,7 +3009,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "05a9b4f5383049799a59b25df8a2b5c6",
+        "contentDigest": "2ba3afba1f061e33a6147971a786ea18",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3020,7 +3020,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.864Z",
-      "accessTime": "2018-05-22T14:49:19.019Z",
+      "accessTime": "2018-05-23T04:17:11.136Z",
       "changeTime": "2018-05-07T10:45:23.864Z",
       "birthTime": "2018-05-07T10:45:23.840Z",
       "root": "/",
@@ -3038,11 +3038,11 @@
       "blksize": 4194304,
       "ino": 8598660433,
       "blocks": 0,
-      "atimeMs": 1527000559018.6958,
+      "atimeMs": 1527049031135.798,
       "mtimeMs": 1525689923864.0876,
       "ctimeMs": 1525689923864.0876,
       "birthtimeMs": 1525689923839.6416,
-      "atime": "2018-05-22T14:49:19.019Z",
+      "atime": "2018-05-23T04:17:11.136Z",
       "mtime": "2018-05-07T10:45:23.864Z",
       "ctime": "2018-05-07T10:45:23.864Z",
       "birthtime": "2018-05-07T10:45:23.840Z"
@@ -3052,7 +3052,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ce62c110b84be897cb5cb429f653549f",
+        "contentDigest": "f3d5f09a6b4829a7771b7d475dea5115",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3063,7 +3063,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2018-05-07T10:45:23.889Z",
-      "accessTime": "2018-05-22T14:49:19.019Z",
+      "accessTime": "2018-05-23T04:17:11.136Z",
       "changeTime": "2018-05-07T10:45:23.889Z",
       "birthTime": "2018-05-07T10:45:23.867Z",
       "root": "/",
@@ -3081,11 +3081,11 @@
       "blksize": 4194304,
       "ino": 8598660439,
       "blocks": 0,
-      "atimeMs": 1527000559018.7207,
+      "atimeMs": 1527049031135.821,
       "mtimeMs": 1525689923888.6956,
       "ctimeMs": 1525689923888.6956,
       "birthtimeMs": 1525689923866.8938,
-      "atime": "2018-05-22T14:49:19.019Z",
+      "atime": "2018-05-23T04:17:11.136Z",
       "mtime": "2018-05-07T10:45:23.889Z",
       "ctime": "2018-05-07T10:45:23.889Z",
       "birthtime": "2018-05-07T10:45:23.867Z"
@@ -3095,7 +3095,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "98b0b522f8150d8365861f8bb543786b",
+        "contentDigest": "cece276af5a9e07427fa27f007a7c7ce",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3106,7 +3106,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2018-05-07T10:45:23.921Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.136Z",
       "changeTime": "2018-05-07T10:45:23.921Z",
       "birthTime": "2018-05-07T10:45:23.893Z",
       "root": "/",
@@ -3124,11 +3124,11 @@
       "blksize": 4194304,
       "ino": 8598660444,
       "blocks": 0,
-      "atimeMs": 1527000559018.17,
+      "atimeMs": 1527049031135.8442,
       "mtimeMs": 1525689923920.5432,
       "ctimeMs": 1525689923920.5432,
       "birthtimeMs": 1525689923893.1082,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.136Z",
       "mtime": "2018-05-07T10:45:23.921Z",
       "ctime": "2018-05-07T10:45:23.921Z",
       "birthtime": "2018-05-07T10:45:23.893Z"
@@ -3138,7 +3138,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6951da603fd6d6a46e3cc25f28b8d291",
+        "contentDigest": "1acd054b9e7a052d2fa1fcaee102d3d1",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3149,7 +3149,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-05-07T10:45:23.928Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.136Z",
       "changeTime": "2018-05-07T10:45:23.928Z",
       "birthTime": "2018-05-07T10:45:23.924Z",
       "root": "/",
@@ -3167,11 +3167,11 @@
       "blksize": 4194304,
       "ino": 8598660452,
       "blocks": 0,
-      "atimeMs": 1527000559018.1938,
+      "atimeMs": 1527049031135.8684,
       "mtimeMs": 1525689923928.4927,
       "ctimeMs": 1525689923928.4927,
       "birthtimeMs": 1525689923923.8574,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.136Z",
       "mtime": "2018-05-07T10:45:23.928Z",
       "ctime": "2018-05-07T10:45:23.928Z",
       "birthtime": "2018-05-07T10:45:23.924Z"
@@ -3181,7 +3181,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3417bb1f20171cc115e8260c26883a05",
+        "contentDigest": "4c8043891fc451e7c4bc1bab17bb2e4e",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3192,7 +3192,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-22T09:22:03.331Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.136Z",
       "changeTime": "2018-05-22T09:22:03.331Z",
       "birthTime": "2018-05-07T10:45:23.934Z",
       "root": "/",
@@ -3210,11 +3210,11 @@
       "blksize": 4194304,
       "ino": 8598660455,
       "blocks": 0,
-      "atimeMs": 1527000559018.217,
+      "atimeMs": 1527049031135.8916,
       "mtimeMs": 1526980923331.3538,
       "ctimeMs": 1526980923331.3538,
       "birthtimeMs": 1525689923933.6335,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.136Z",
       "mtime": "2018-05-22T09:22:03.331Z",
       "ctime": "2018-05-22T09:22:03.331Z",
       "birthtime": "2018-05-07T10:45:23.934Z"
@@ -3224,7 +3224,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a9a33b2e4f9ba9fea4d8760d50e7b54d",
+        "contentDigest": "95e7e0a5b3bab725049402ce5c536e93",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3235,7 +3235,7 @@
       "size": 480,
       "prettySize": "480 B",
       "modifiedTime": "2018-05-07T10:45:24.001Z",
-      "accessTime": "2018-05-22T14:49:19.018Z",
+      "accessTime": "2018-05-23T04:17:11.136Z",
       "changeTime": "2018-05-07T10:45:24.001Z",
       "birthTime": "2018-05-07T10:45:23.966Z",
       "root": "/",
@@ -3253,11 +3253,11 @@
       "blksize": 4194304,
       "ino": 8598660462,
       "blocks": 0,
-      "atimeMs": 1527000559018.2354,
+      "atimeMs": 1527049031135.915,
       "mtimeMs": 1525689924000.7156,
       "ctimeMs": 1525689924000.7156,
       "birthtimeMs": 1525689923966.3623,
-      "atime": "2018-05-22T14:49:19.018Z",
+      "atime": "2018-05-23T04:17:11.136Z",
       "mtime": "2018-05-07T10:45:24.001Z",
       "ctime": "2018-05-07T10:45:24.001Z",
       "birthtime": "2018-05-07T10:45:23.966Z"
@@ -3267,7 +3267,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8a4a6a91cdc4d1c6dfb06e291475db01",
+        "contentDigest": "801f5bf584774864b6cebb9704ec9942",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3278,7 +3278,7 @@
       "size": 576,
       "prettySize": "576 B",
       "modifiedTime": "2018-05-07T10:45:24.047Z",
-      "accessTime": "2018-05-22T14:49:19.019Z",
+      "accessTime": "2018-05-23T04:17:11.136Z",
       "changeTime": "2018-05-07T10:45:24.047Z",
       "birthTime": "2018-05-07T10:45:24.003Z",
       "root": "/",
@@ -3296,11 +3296,11 @@
       "blksize": 4194304,
       "ino": 8598660476,
       "blocks": 0,
-      "atimeMs": 1527000559018.5647,
+      "atimeMs": 1527049031135.9373,
       "mtimeMs": 1525689924047.41,
       "ctimeMs": 1525689924047.41,
       "birthtimeMs": 1525689924003.191,
-      "atime": "2018-05-22T14:49:19.019Z",
+      "atime": "2018-05-23T04:17:11.136Z",
       "mtime": "2018-05-07T10:45:24.047Z",
       "ctime": "2018-05-07T10:45:24.047Z",
       "birthtime": "2018-05-07T10:45:24.003Z"
@@ -3310,7 +3310,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "f2e1de61f648ef658281a45cdf67b9dc",
+        "contentDigest": "3e183d9d457d1ab90b50d4507ba3bbb9",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -3321,7 +3321,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-05-07T10:45:23.895Z",
-      "accessTime": "2018-05-22T14:49:19.032Z",
+      "accessTime": "2018-05-23T04:17:11.151Z",
       "changeTime": "2018-05-07T10:45:23.895Z",
       "birthTime": "2018-05-07T10:45:23.895Z",
       "root": "/",
@@ -3339,11 +3339,11 @@
       "blksize": 4194304,
       "ino": 8598660446,
       "blocks": 0,
-      "atimeMs": 1527000559031.5525,
+      "atimeMs": 1527049031151.2617,
       "mtimeMs": 1525689923895.4355,
       "ctimeMs": 1525689923895.4355,
       "birthtimeMs": 1525689923895.3425,
-      "atime": "2018-05-22T14:49:19.032Z",
+      "atime": "2018-05-23T04:17:11.151Z",
       "mtime": "2018-05-07T10:45:23.895Z",
       "ctime": "2018-05-07T10:45:23.895Z",
       "birthtime": "2018-05-07T10:45:23.895Z"
@@ -4595,7 +4595,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "45b8008f5132165b33c2db707e053b7e",
+        "contentDigest": "c49eee4925da57e260b6c67f47f5a114",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -4604,11 +4604,11 @@
       "absolutePath": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/index.md",
       "relativePath": "2017-12-17--east-coast-fever-disease/index.md",
       "extension": "md",
-      "size": 8636,
-      "prettySize": "8.64 kB",
-      "modifiedTime": "2018-05-22T14:48:48.410Z",
-      "accessTime": "2018-05-22T14:48:40.220Z",
-      "changeTime": "2018-05-22T14:48:48.410Z",
+      "size": 8648,
+      "prettySize": "8.65 kB",
+      "modifiedTime": "2018-05-23T04:15:13.068Z",
+      "accessTime": "2018-05-23T04:15:29.444Z",
+      "changeTime": "2018-05-23T04:15:13.068Z",
       "birthTime": "2018-05-07T10:45:23.945Z",
       "root": "/",
       "dir": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease",
@@ -4625,13 +4625,13 @@
       "blksize": 4194304,
       "ino": 8598660458,
       "blocks": 24,
-      "atimeMs": 1527000520219.6,
-      "mtimeMs": 1527000528410.3655,
-      "ctimeMs": 1527000528410.3655,
+      "atimeMs": 1527048929443.7053,
+      "mtimeMs": 1527048913068.3074,
+      "ctimeMs": 1527048913068.3074,
       "birthtimeMs": 1525689923944.779,
-      "atime": "2018-05-22T14:48:40.220Z",
-      "mtime": "2018-05-22T14:48:48.410Z",
-      "ctime": "2018-05-22T14:48:48.410Z",
+      "atime": "2018-05-23T04:15:29.444Z",
+      "mtime": "2018-05-23T04:15:13.068Z",
+      "ctime": "2018-05-23T04:15:13.068Z",
       "birthtime": "2018-05-07T10:45:23.945Z"
     },
     "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-19--preventing-and-managing-bloat/Franche.jpg absPath of file": {
@@ -12592,7 +12592,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "6d0d502bfa491b05b15a838990d131d0",
+        "contentDigest": "6555b15c9c1c3430ee577d977b6c9138",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -12603,7 +12603,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-05-07T10:45:23.200Z",
-      "accessTime": "2018-05-22T14:49:19.421Z",
+      "accessTime": "2018-05-23T04:17:11.668Z",
       "changeTime": "2018-05-07T10:45:23.200Z",
       "birthTime": "2018-05-07T10:45:23.170Z",
       "root": "/",
@@ -12621,11 +12621,11 @@
       "blksize": 4194304,
       "ino": 8598660281,
       "blocks": 0,
-      "atimeMs": 1527000559420.9602,
+      "atimeMs": 1527049031667.8652,
       "mtimeMs": 1525689923199.8608,
       "ctimeMs": 1525689923199.8608,
       "birthtimeMs": 1525689923169.936,
-      "atime": "2018-05-22T14:49:19.421Z",
+      "atime": "2018-05-23T04:17:11.668Z",
       "mtime": "2018-05-07T10:45:23.200Z",
       "ctime": "2018-05-07T10:45:23.200Z",
       "birthtime": "2018-05-07T10:45:23.170Z"
@@ -12635,7 +12635,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "28d1694758097f2045d812cd62f78f2a",
+        "contentDigest": "a23dea6879e151698df3b291024cdb08",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -12646,7 +12646,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-05-07T10:45:23.170Z",
-      "accessTime": "2018-05-22T14:49:19.423Z",
+      "accessTime": "2018-05-23T04:17:11.669Z",
       "changeTime": "2018-05-07T10:45:23.170Z",
       "birthTime": "2018-05-07T10:45:23.170Z",
       "root": "/",
@@ -12664,11 +12664,11 @@
       "blksize": 4194304,
       "ino": 8598660282,
       "blocks": 0,
-      "atimeMs": 1527000559422.7134,
+      "atimeMs": 1527049031668.8274,
       "mtimeMs": 1525689923170.055,
       "ctimeMs": 1525689923170.055,
       "birthtimeMs": 1525689923169.9854,
-      "atime": "2018-05-22T14:49:19.423Z",
+      "atime": "2018-05-23T04:17:11.669Z",
       "mtime": "2018-05-07T10:45:23.170Z",
       "ctime": "2018-05-07T10:45:23.170Z",
       "birthtime": "2018-05-07T10:45:23.170Z"
@@ -12678,7 +12678,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "440915dd268b92d6c8cc819d04a8bf0b",
+        "contentDigest": "70682700ef23f64fe509d6b4a76c9b2d",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -12689,7 +12689,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2018-05-07T10:45:23.197Z",
-      "accessTime": "2018-05-22T14:49:19.423Z",
+      "accessTime": "2018-05-23T04:17:11.669Z",
       "changeTime": "2018-05-07T10:45:23.197Z",
       "birthTime": "2018-05-07T10:45:23.176Z",
       "root": "/",
@@ -12707,11 +12707,11 @@
       "blksize": 4194304,
       "ino": 8598660284,
       "blocks": 0,
-      "atimeMs": 1527000559422.765,
+      "atimeMs": 1527049031668.8464,
       "mtimeMs": 1525689923196.769,
       "ctimeMs": 1525689923196.769,
       "birthtimeMs": 1525689923176.0789,
-      "atime": "2018-05-22T14:49:19.423Z",
+      "atime": "2018-05-23T04:17:11.669Z",
       "mtime": "2018-05-07T10:45:23.197Z",
       "ctime": "2018-05-07T10:45:23.197Z",
       "birthtime": "2018-05-07T10:45:23.176Z"
@@ -12721,7 +12721,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "39efc3a618dadf6cb4a20dc0d0735257",
+        "contentDigest": "68d09ee6ef080b9da04807710f7d428e",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -12732,7 +12732,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-05-07T10:45:23.200Z",
-      "accessTime": "2018-05-22T14:49:19.423Z",
+      "accessTime": "2018-05-23T04:17:11.669Z",
       "changeTime": "2018-05-07T10:45:23.200Z",
       "birthTime": "2018-05-07T10:45:23.200Z",
       "root": "/",
@@ -12750,11 +12750,11 @@
       "blksize": 4194304,
       "ino": 8598660290,
       "blocks": 0,
-      "atimeMs": 1527000559422.8127,
+      "atimeMs": 1527049031668.8723,
       "mtimeMs": 1525689923199.9358,
       "ctimeMs": 1525689923199.9358,
       "birthtimeMs": 1525689923199.8464,
-      "atime": "2018-05-22T14:49:19.423Z",
+      "atime": "2018-05-23T04:17:11.669Z",
       "mtime": "2018-05-07T10:45:23.200Z",
       "ctime": "2018-05-07T10:45:23.200Z",
       "birthtime": "2018-05-07T10:45:23.200Z"
@@ -13206,7 +13206,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a98f225d3298c799fc22d140dbb3ecd8",
+        "contentDigest": "410ef37d4b8a3051e07649c2a16c1be2",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
@@ -13217,7 +13217,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-05-07T10:45:23.222Z",
-      "accessTime": "2018-05-22T14:49:19.492Z",
+      "accessTime": "2018-05-23T04:17:11.700Z",
       "changeTime": "2018-05-07T10:45:23.222Z",
       "birthTime": "2018-05-07T10:45:23.204Z",
       "root": "/",
@@ -13235,11 +13235,11 @@
       "blksize": 4194304,
       "ino": 8598660292,
       "blocks": 0,
-      "atimeMs": 1527000559492.354,
+      "atimeMs": 1527049031699.6565,
       "mtimeMs": 1525689923221.9297,
       "ctimeMs": 1525689923221.9297,
       "birthtimeMs": 1525689923204.2542,
-      "atime": "2018-05-22T14:49:19.492Z",
+      "atime": "2018-05-23T04:17:11.700Z",
       "mtime": "2018-05-07T10:45:23.222Z",
       "ctime": "2018-05-07T10:45:23.222Z",
       "birthtime": "2018-05-07T10:45:23.204Z"
@@ -13991,9 +13991,9 @@
       "children": [],
       "parent": "/Users/georgiabarrie/gatsby-afc-guide/content/posts/2017-12-17--east-coast-fever-disease/index.md absPath of file",
       "internal": {
-        "content": "---\r\ntitle: East Coast Fever Disease\r\nsubTitle: Disease & animal health\r\ncategory: \"disease & animal health\"\r\ncover: unlock-east-coast-fever-disease.png\r\n---\r\n<blockquote style=\"background: #f2f3f4;\">\r\n<p style=\"text-align: center; font-weight: 300; font-size: 0.9em\">To add your question press <img style=\"height:2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/comment_icon.png\" >  in bottom corner 👇</p>\r\n</blockquote>\r\n\r\n<div style=\"text-align: center\">\r\n<a href=\"/about\"><img style=\"width: 100%;\" src=\"https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png\" ></a>\r\n</div>\r\n<br></br>\r\nAs of 1992 East Coast fever was called probably the most important livestock disease of cattle, sheep and goats in Africa, causing an annual loss of 1.1 million cattle and $168 million in 1992...\r\n<br></br>\r\n\r\n<blockquote style=\"background: #D7F19F;\">\r\n\r\n### What causes East Coast Fever?\r\n\r\nEast Coast Fever is transmitted to cows by the “brown ear tick”. It is called this because the ticks normally attach themselves to the cow’s ear. \r\n<br><br>\r\nIf you see symptoms of East Coast Fever you must call a vet immediately as cows can die within 3 weeks. There is now a vaccination available to protect cows from the disease.\r\n\r\n<br>\r\n\r\n  <div>\r\n    Source:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/ILRI-logo.png\" >\r\n    <b>ILRI</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>21</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\nCheck out our 6 signs to watch out for...\r\n\r\n![unsplash.com](./ecf_symptoms.png)\r\n\r\n<blockquote style=\"background: #D7F19F;\">\r\n\r\n### Where can I get the vaccine?\r\n\r\nMake sure you buy your vaccine from a registered organisation. Here are contacts of some registered suppliers in Kenya:\r\n<br><br>\r\n<b>VetAid:</b> Dr Mpilei David (0725330278), Dr Gabriel Turasha (0721473926)\r\n<br>\r\n<b>Sidai Africa:</b> Dr Rezin Odede (0722628472, 0701225949, 0703491296)\r\n<br>\r\n<b>BMC/Agrihaus:</b> Dr Rawlynce Bett (0726681441)\r\n<br>\r\n<b>KDFF:</b> Mr David Bett (0725799246)\r\n\r\n<br>\r\n\r\n  <div>\r\n    Source:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/ILRI-logo.png\" >\r\n    <b>ILRI</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>21</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\n### Top Q&A from AFC members\r\n\r\nJosephat asked a common question about ECF vaccinations...\r\n\r\n<blockquote style=\"background: #6EA6A2;\">\r\n\r\n  ### Josephat's Question\r\n\r\n  I've witnessed a number of animals coming down with ECF despite having been vaccinated against the same. Any expert on this?\r\n\r\n  <br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_dairy_guide_ecf_josephat.png\" >\r\n    <b>Josephat W</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>12</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\n<blockquote style=\"background: #96e58e;\">\r\n\r\n### David's Answer\r\n\r\nIt depends with the strain of parasite in the area.n should take in account that introduction of new stock,or wild life or mixing with other animals may result in your cow acquiring a different kind of parasite other than you vaccinated, its advisable to continually washing with accaricide once a week to kill the life cycle of such ticks and avoid mixing new stock immediately you purchase\r\n<br></br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_dairy_guide_ecf_david.png\" >\r\n    <b>Davidkariuki</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>31</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\n<blockquote style=\"background: #D7F19F;\">\r\n\r\n### AFC opinion\r\n\r\nECF vaccination will only protect your cattle from one strain of ECF so it is possible for cows to be infected by other strains. \r\n<br></br>\r\nThere are also reports of farmers doing the vaccinations themselves (without a trained vet) or buying the vaccination from people who are not registered. If the vaccination is not stored properly and administered properly then the animal will not be protected and could become very sick.\r\n<br></br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_logo.png\" >\r\n    <b>AFC</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>31</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\nJudy was looking for more information on the best way to spray against ticks...\r\n\r\n<blockquote style=\"background: #6EA6A2;\">\r\n\r\n  ### Judy’s Question\r\n\r\n  My calf has a lot of ticks which is the best to to spray pliz advice\r\n\r\n  <br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_dairy_guide_ecf_judy.png\" >\r\n    <b>Judy W</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>12</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\n<blockquote style=\"background: #96e58e;\">\r\n\r\n### Gordon's Answer\r\n\r\nGo to an agrovet shop,buy DUO DIP. At home if washing 1 cow,take a Knapsack spray,clean thorough with soapy water to clear any pesticide used before. Pour clean water 2.5 litres into the Knapsack,measure Dupdip 5ml and pour into the Knapsack. Mix thoroughly,then add 2.5 litre of water into the Knapsack then mix thoroughly. If the cow is muddy wash it and allow water to drain. Now spray very all over,the ears,between hooves.thereafter spray the sleeping area and dogs if around.\r\n<br><br>\r\nREAD THE LABEL OF THE ACARICIDE YOU HAVE BOUGHT!\r\n\r\n<br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_dairy_guide_ecf_gordon.png\" >\r\n    <b>Gordon A</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>31</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\n<blockquote style=\"background: #D7F19F;\">\r\n\r\n### AFC opinion\r\n\r\nRegular spraying of acaricides will help to control ticks. If your calf has a lot of ticks then start by spraying 2-3 times per week. You can reduce to 1 spray per week once you see the ticks reduce. Remember that ticks can become resistant to some sprays so you may need to try different brands to see what is most effective.\r\n<br><br>\r\nMake sure that the pasture around your calf isn’t overgrown and bushy as this can spread ticks. Also make sure the calf isn’t coming into contact with other animals such as dogs.\r\n<br></br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_logo.png\" >\r\n    <b>AFC</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>31</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\n![unsplash.com](./tick_spraying.png)\r\n\r\nGot more questions about East Coast Fever? Add your questions in the comments section below...\r\n\r\n---\r\n### Read more topics\r\nThere are number of other important topics in this guide:\r\n\r\n* [Preventing and treating milk fever](/preventing-and-treating-milk-fever) ⭐ - Guidance on milk fever issues\r\n* [Feeding your cows - basics](/feeding-your-cow-basics)  ⭐- Understand the basics of feeding\r\n* [Feeding milking cows](/feeding-milking-cows)  🔒- Know best feeds for milking cows\r\n\r\n...or you can just [see all topics](/)\r\n",
+        "content": "---\r\ntitle: East Coast Fever Disease\r\nsubTitle: Disease & animal health\r\ncategory: \"disease & animal health\"\r\ncover: unlock-east-coast-fever-disease.png\r\n---\r\n<blockquote style=\"background: #f2f3f4;\">\r\n<p style=\"text-align: center; font-weight: 300; font-size: 0.9em\">To add your question press <img style=\"height:2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/comment_icon.png\" >  in bottom corner 👇</p>\r\n</blockquote>\r\n\r\n<div style=\"text-align: center\">\r\n<a href=\"/about\"><img style=\"width: 100%;\" src=\"https://s3.amazonaws.com/afc-dairytrial/key_bar-1.png\" ></a>\r\n</div>\r\n<br></br>\r\nAs of 1992 East Coast fever was called probably the most important livestock disease of cattle, sheep and goats in Africa, causing an annual loss of 1.1 million cattle and $168 million in 1992...\r\n<br></br>\r\n\r\n<blockquote style=\"background: #D7F19F;\">\r\n\r\n### What causes East Coast Fever?\r\n\r\nEast Coast Fever is transmitted to cows by the “brown ear tick”. It is called this because the ticks normally attach themselves to the cow’s ear. \r\n<br><br>\r\nIf you see symptoms of East Coast Fever you must call a vet immediately as cows can die within 3 weeks. There is now a vaccination available to protect cows from the disease.\r\n\r\n<br>\r\n\r\n  <div>\r\n    Source:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/ILRI-logo.png\" >\r\n    <b>ILRI</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>21</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\nCheck out our 6 signs to watch out for...\r\n\r\n![unsplash.com](./ecf_symptoms.png)\r\n\r\n<blockquote style=\"background: #D7F19F;\">\r\n\r\n### Where can I get the vaccine?\r\n\r\nThe vaccination currently costs 1000 Ksh for dairy cattle and 700 Ksh for beef cattle.\r\n<br><br>\r\nMake sure you buy the vaccine from a registered organisation:\r\n<br>\r\n<b>Sidai Africa:</b> Dr Rezin Odede (0722628472)\r\n<br>\r\n<b>VetAid:</b> Dr Mpilei David (0725330278), Dr Gabriel Turasha (0721473926)\r\n<br>\r\n<b>BMC/Agrihaus:</b> Dr Rawlynce Bett (0726681441)\r\n<br>\r\n<b>KDFF:</b> Mr David Bett (0725799246)\r\n\r\n<br>\r\n\r\n  <div>\r\n    Source:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/ILRI-logo.png\" >\r\n    <b>ILRI</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>21</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\n### Top Q&A from AFC members\r\n\r\nJosephat asked a common question about ECF vaccinations...\r\n\r\n<blockquote style=\"background: #6EA6A2;\">\r\n\r\n  ### Josephat's Question\r\n\r\n  I've witnessed a number of animals coming down with ECF despite having been vaccinated against the same. Any expert on this?\r\n\r\n  <br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_dairy_guide_ecf_josephat.png\" >\r\n    <b>Josephat W</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>12</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\n<blockquote style=\"background: #96e58e;\">\r\n\r\n### David's Answer\r\n\r\nIt depends with the strain of parasite in the area.n should take in account that introduction of new stock,or wild life or mixing with other animals may result in your cow acquiring a different kind of parasite other than you vaccinated, its advisable to continually washing with accaricide once a week to kill the life cycle of such ticks and avoid mixing new stock immediately you purchase\r\n<br></br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_dairy_guide_ecf_david.png\" >\r\n    <b>Davidkariuki</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>31</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\n<blockquote style=\"background: #D7F19F;\">\r\n\r\n### AFC opinion\r\n\r\nECF vaccination will only protect your cattle from one strain of ECF so it is possible for cows to be infected by other strains. \r\n<br></br>\r\nThere are also reports of farmers doing the vaccinations themselves (without a trained vet) or buying the vaccination from people who are not registered. If the vaccination is not stored properly and administered properly then the animal will not be protected and could become very sick.\r\n<br></br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_logo.png\" >\r\n    <b>AFC</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>31</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\nJudy was looking for more information on the best way to spray against ticks...\r\n\r\n<blockquote style=\"background: #6EA6A2;\">\r\n\r\n  ### Judy’s Question\r\n\r\n  My calf has a lot of ticks which is the best to to spray pliz advice\r\n\r\n  <br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_dairy_guide_ecf_judy.png\" >\r\n    <b>Judy W</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>12</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\n<blockquote style=\"background: #96e58e;\">\r\n\r\n### Gordon's Answer\r\n\r\nGo to an agrovet shop,buy DUO DIP. At home if washing 1 cow,take a Knapsack spray,clean thorough with soapy water to clear any pesticide used before. Pour clean water 2.5 litres into the Knapsack,measure Dupdip 5ml and pour into the Knapsack. Mix thoroughly,then add 2.5 litre of water into the Knapsack then mix thoroughly. If the cow is muddy wash it and allow water to drain. Now spray very all over,the ears,between hooves.thereafter spray the sleeping area and dogs if around.\r\n<br><br>\r\nREAD THE LABEL OF THE ACARICIDE YOU HAVE BOUGHT!\r\n\r\n<br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_dairy_guide_ecf_gordon.png\" >\r\n    <b>Gordon A</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>31</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\n<blockquote style=\"background: #D7F19F;\">\r\n\r\n### AFC opinion\r\n\r\nRegular spraying of acaricides will help to control ticks. If your calf has a lot of ticks then start by spraying 2-3 times per week. You can reduce to 1 spray per week once you see the ticks reduce. Remember that ticks can become resistant to some sprays so you may need to try different brands to see what is most effective.\r\n<br><br>\r\nMake sure that the pasture around your calf isn’t overgrown and bushy as this can spread ticks. Also make sure the calf isn’t coming into contact with other animals such as dogs.\r\n<br></br>\r\n\r\n  <div>\r\n    Posted by:\r\n    <img style=\"height:3.2em; border-radius: 2em; border: 1px solid #ffff\" src=\"https://s3.amazonaws.com/afc-dairytrial/afc_logo.png\" >\r\n    <b>AFC</b>\r\n    <div style=\"float: right;margin-top:0px;\"> <b>31</b>\r\n      <a href = \"#\">\r\n        <img style=\"height:3.2em; border-radius: 2em;\" src=\"https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg\" >\r\n      </a>\r\n    </div>\r\n  </div>\r\n\r\n</blockquote>\r\n\r\n![unsplash.com](./tick_spraying.png)\r\n\r\nGot more questions about East Coast Fever? Add your questions in the comments section below...\r\n\r\n---\r\n### Read more topics\r\nThere are number of other important topics in this guide:\r\n\r\n* [Preventing and treating milk fever](/preventing-and-treating-milk-fever) ⭐ - Guidance on milk fever issues\r\n* [Feeding your cows - basics](/feeding-your-cow-basics)  ⭐- Understand the basics of feeding\r\n* [Feeding milking cows](/feeding-milking-cows)  🔒- Know best feeds for milking cows\r\n\r\n...or you can just [see all topics](/)\r\n",
         "type": "MarkdownRemark",
-        "contentDigest": "c42323ba2b5c0a18d80bcb5e80da425a",
+        "contentDigest": "5321f66c9432d80633039a54782096ca",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin",
@@ -14031,7 +14031,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "35bc06d664d278eadedfd55077c9c145",
+        "contentDigest": "9817b1db932fee73f8d789d34d9ac156",
         "owner": "internal-data-bridge"
       }
     },
@@ -14053,7 +14053,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "79cdf2c5e4e45b1642e1f5163df1f1f2",
+        "contentDigest": "572e6742a87690448fd4a72dfa43f3c4",
         "owner": "internal-data-bridge"
       }
     },
@@ -14075,7 +14075,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7cd39b4ccbb793469ccaeaad8fd564ef",
+        "contentDigest": "4317e743a456f290250ee0b60d488cad",
         "owner": "internal-data-bridge"
       }
     },
@@ -14097,7 +14097,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5e9e077e0e77da9bb59bd296d5faa35c",
+        "contentDigest": "bed8e7f81d75b2bacbe89db55f652401",
         "owner": "internal-data-bridge"
       }
     },
@@ -14119,7 +14119,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6ef128cb6f7188c973d53963464245fd",
+        "contentDigest": "8345aeb0d3128455b75a9a8fdaf50093",
         "owner": "internal-data-bridge"
       }
     },
@@ -14141,7 +14141,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "88716ed7e7a8eba892ad6734e5fe695d",
+        "contentDigest": "87cf814136973d296828406272fa8a22",
         "owner": "internal-data-bridge"
       }
     },
@@ -14163,7 +14163,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3e96993f6e4d18c365f8469a6371e5c6",
+        "contentDigest": "c5af0cbd62ce61045b9d34a17d7b07e4",
         "owner": "internal-data-bridge"
       }
     },
@@ -14185,7 +14185,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "786dc457a23295a547b02afb989b1d4c",
+        "contentDigest": "bc3753fc7cf9ad73cfdc2b10ce69c7a8",
         "owner": "internal-data-bridge"
       }
     },
@@ -14207,7 +14207,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f8913d2a2ffbb37a04c6d7d6bcae6d9e",
+        "contentDigest": "0655f19aac70052307081db562e72c99",
         "owner": "internal-data-bridge"
       }
     },
@@ -14229,7 +14229,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1fe8d9ef39d3925868e25d50dea154ff",
+        "contentDigest": "f463f59f9909d64f6a3f8097b662a1ab",
         "owner": "internal-data-bridge"
       }
     },
@@ -14251,7 +14251,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e5b296927b542e4f1bae0a7c09354ea4",
+        "contentDigest": "7acf04ea358d7d2e137f10ef9355ab2f",
         "owner": "internal-data-bridge"
       }
     },
@@ -14273,7 +14273,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "fa0b55367eb05e4217655934e20b7bbb",
+        "contentDigest": "7af3f3d6cd2b346dd6c80d3df8e1eccb",
         "owner": "internal-data-bridge"
       }
     },
@@ -14295,7 +14295,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2c1e084b07d6c3eecac525fa0785937d",
+        "contentDigest": "8fd1d2b1de36bc528ca9761eba932297",
         "owner": "internal-data-bridge"
       }
     },
@@ -14317,7 +14317,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "40e0085b50cb1380671f3e0d14db0fa4",
+        "contentDigest": "483c7507e635c5cbf2e89395e264b27f",
         "owner": "internal-data-bridge"
       }
     },
@@ -14339,7 +14339,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d46b1e0fb415a524b0940f40dbdd0df2",
+        "contentDigest": "af3c4a9b3530711d2e68377b8632d104",
         "owner": "internal-data-bridge"
       }
     },
@@ -14361,7 +14361,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ab515c7ee47dd3ef3252b1a9614f14c9",
+        "contentDigest": "ee752cd3a2c480d0e61dba0c7f59b04d",
         "owner": "internal-data-bridge"
       }
     },
@@ -14383,7 +14383,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7f3a183eded99738e415d9d1a76fcfb4",
+        "contentDigest": "df2434239b69b1b7a97f2722dbd12f6d",
         "owner": "internal-data-bridge"
       }
     },
@@ -14405,7 +14405,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9af536d18a5a99fb6501dcc3194f34a3",
+        "contentDigest": "13177ae1e133b1b4770bb677df6295cc",
         "owner": "internal-data-bridge"
       }
     },
@@ -14427,7 +14427,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1ea28e6b7bda6f7816a303760b9edb00",
+        "contentDigest": "1a37ea24f98269b0caf9d43968859494",
         "owner": "internal-data-bridge"
       }
     },
@@ -14449,7 +14449,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "16323aa063a1f6161ed61a7dfbf14892",
+        "contentDigest": "bc997a49edb7689526628bfa79118c25",
         "owner": "internal-data-bridge"
       }
     },
@@ -14471,7 +14471,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e24509fcd50dacba2513e03faaef136a",
+        "contentDigest": "75ec71990ad9faaa5501e42fa24ffe39",
         "owner": "internal-data-bridge"
       }
     },
@@ -14493,7 +14493,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d3a44d1964174d07dcaae3a9d22a4699",
+        "contentDigest": "c60154296b4f78eef1aecc228621067a",
         "owner": "internal-data-bridge"
       }
     },
@@ -14515,7 +14515,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b38a2235e1fbd063e71fa9adc5097f9b",
+        "contentDigest": "e7a10eae6656e37c7ca491421df23634",
         "owner": "internal-data-bridge"
       }
     },
@@ -14537,7 +14537,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dd2fbd8ad543f7975a121fa2bdeedaee",
+        "contentDigest": "c2e1d9b229edef40d0502caa7e6530e2",
         "owner": "internal-data-bridge"
       }
     },
@@ -14559,7 +14559,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "28b7c180ec4b69856184a3c49340d4a5",
+        "contentDigest": "041c74f4dd0a03c8c205bc25b06f4d1c",
         "owner": "internal-data-bridge"
       }
     },
@@ -14581,7 +14581,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c9a517b9c61533c0874faa58aaeb4ad3",
+        "contentDigest": "cec861b7ff82a747a3db1610076dfa58",
         "owner": "internal-data-bridge"
       }
     },
@@ -14603,7 +14603,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a182731340695135ae58ee4a8213ea26",
+        "contentDigest": "25ab9236054421d075db9b945f6108d9",
         "owner": "internal-data-bridge"
       }
     },
@@ -14625,7 +14625,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e673fcdeaa1bfd9fede978d83c1f67bc",
+        "contentDigest": "f90a40c7f3963c500b1a416327b65e07",
         "owner": "internal-data-bridge"
       }
     },
@@ -14647,7 +14647,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f5b4814bdeb15024766aa9cd980eb808",
+        "contentDigest": "97de67d2b01765b432ec38c427ca993e",
         "owner": "internal-data-bridge"
       }
     },
@@ -14669,7 +14669,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "49d0f1ee972ccd2fdf188f3e6d1be5bb",
+        "contentDigest": "bf01d4ab0fbd4a83e38dc433666697ac",
         "owner": "internal-data-bridge"
       }
     },
@@ -14691,7 +14691,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d5fcefea36af0d6dc46d630893719021",
+        "contentDigest": "6bc0d7f6153de88da705687f3932f776",
         "owner": "internal-data-bridge"
       }
     },
@@ -14713,7 +14713,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "41ea01bfe052c9be922724f2240c6810",
+        "contentDigest": "da7d3d88cd162ba5c1c49323ee668b94",
         "owner": "internal-data-bridge"
       }
     },
@@ -14735,7 +14735,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "81819d76b357fd54a4510122efb57f79",
+        "contentDigest": "440c685009323b32b34395430c4ac156",
         "owner": "internal-data-bridge"
       }
     },
@@ -14757,7 +14757,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0da7f56822a51e2c45a6111618d9993c",
+        "contentDigest": "57d7e286d8d4acc9258c6626fc7c0de1",
         "owner": "internal-data-bridge"
       }
     },
@@ -14777,7 +14777,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bc326f3ae5a4e775a5b43c04abe33f97",
+        "contentDigest": "96d3b970747804596b768b26503160e1",
         "owner": "internal-data-bridge"
       }
     },
@@ -14797,7 +14797,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "87ae1edcb7225ad7e50e172663584ff6",
+        "contentDigest": "930557836d9a82c3a7a0f8654d6f5df8",
         "owner": "internal-data-bridge"
       }
     },
@@ -14817,7 +14817,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "31219b48979a00af7d4975af9e055b7d",
+        "contentDigest": "8cba6dc276c52dca0bd076c665a59869",
         "owner": "internal-data-bridge"
       }
     }

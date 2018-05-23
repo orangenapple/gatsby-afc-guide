@@ -46,11 +46,13 @@ Check out our 6 signs to watch out for...
 
 ### Where can I get the vaccine?
 
-Make sure you buy your vaccine from a registered organisation. Here are contacts of some registered suppliers in Kenya:
+The vaccination currently costs 1000 Ksh for dairy cattle and 700 Ksh for beef cattle.
 <br><br>
-<b>VetAid:</b> Dr Mpilei David (0725330278), Dr Gabriel Turasha (0721473926)
+Make sure you buy the vaccine from a registered organisation:
 <br>
-<b>Sidai Africa:</b> Dr Rezin Odede (0722628472, 0701225949, 0703491296)
+<b>Sidai Africa:</b> Dr Rezin Odede (0722628472)
+<br>
+<b>VetAid:</b> Dr Mpilei David (0725330278), Dr Gabriel Turasha (0721473926)
 <br>
 <b>BMC/Agrihaus:</b> Dr Rawlynce Bett (0726681441)
 <br>
