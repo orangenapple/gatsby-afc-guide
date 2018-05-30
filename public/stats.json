@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---increasing-milk-production-part-1": [
-      "path---increasing-milk-production-part-1-447d175f3edafc878e2a.js",
-      "path---increasing-milk-production-part-1-447d175f3edafc878e2a.js.map"
+      "path---increasing-milk-production-part-1-3797c1e10e9d9bb2c20a.js",
+      "path---increasing-milk-production-part-1-3797c1e10e9d9bb2c20a.js.map"
     ],
     "path---east-coast-fever-disease": [
       "path---east-coast-fever-disease-0ea6420dbd9cb16f0009.js",
@@ -33,8 +33,8 @@
       "path---dairy-cattle-sheds-introduction-6c0073126cdc827b146c.js.map"
     ],
     "path---": [
-      "path----7748964faa0f9232b071.js",
-      "path----7748964faa0f9232b071.js.map"
+      "path----bfef72e14b0fe8eb3f51.js",
+      "path----bfef72e14b0fe8eb3f51.js.map"
     ],
     "path---understanding-breeds": [
       "path---understanding-breeds-d2e6cc65895102c91928.js",
@@ -73,8 +73,8 @@
       "path---feeding-milking-cows-6827502fe36de777fa92.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-a3c62e24a08832559dc9.js",
-      "component---src-layouts-index-js-a3c62e24a08832559dc9.js.map"
+      "component---src-layouts-index-js-44ae892aec98cf7f9ef7.js",
+      "component---src-layouts-index-js-44ae892aec98cf7f9ef7.js.map"
     ],
     "path---feeding-calf": [
       "path---feeding-calf-842a967a21d717ff8195.js",
@@ -155,9 +155,9 @@
       "path---starters-9c7420b93b62153cc791.js.map"
     ],
     "app": [
-      "app-8994afbda79aac905f00.js",
+      "app-2b53fd99016905d22fea.js",
       "build-js-styles.css",
-      "app-8994afbda79aac905f00.js.map",
+      "app-2b53fd99016905d22fea.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [

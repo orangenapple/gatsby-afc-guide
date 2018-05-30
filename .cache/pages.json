@@ -171,13 +171,6 @@
         "componentChunkName": "component---src-templates-post-template-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "increasing-milk-production-part-1.json",
-        "path": "/increasing-milk-production-part-1/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "preventing-and-managing-bloat.json",
         "path": "/preventing-and-managing-bloat/"
     },
@@ -236,6 +229,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "east-coast-fever-disease.json",
         "path": "/east-coast-fever-disease/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "increasing-milk-production-part-1.json",
+        "path": "/increasing-milk-production-part-1/"
     },
     {
         "componentChunkName": "component---src-pages-contact-js",
