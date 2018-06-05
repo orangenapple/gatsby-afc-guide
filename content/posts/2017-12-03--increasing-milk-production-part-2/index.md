@@ -42,19 +42,19 @@ You can also buy mineral licks which you should make easily accessible so your c
 
 ### Top Q&A from AFC members
 
-John asked a key question relevant to many farmers...
+Joseph asked a key question regarding minerals...
 
 <blockquote style="background: #6EA6A2;">
 
-  ### John's Question
+  ### Joseph's Question
 
-  Good morning farmers we started a dairy unit last week with 2 cows each doing about 6 liters per day. So far the cows have not improved in terms of milk production even after feeding them on 14KG silage, 3KG oat hay, 2Kg dairy meal (Unga) and a lot of clean and fresh drinking water. What can we do to improve the cows in terms of production?
+  Helloooo farmers.... Some one gave me this idea of giving mineral lick adlib to my five dairy cows instead of using the 100-200grm measure per cow per day.... The argument is each cow will lick what it feels is enough just like they drink water.... Need some professional advice.... 
 
-  <br></br>
+  <br>
 
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/afc_dairy_guides_profile.png" >
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/afc_dairy_guide_production2_joseph.jpg" >
     <b>John N</b>
     <div style="float: right;margin-top:0px;"> <b>12</b>
       <a href = "#">
@@ -65,19 +65,36 @@ John asked a key question relevant to many farmers...
 
 </blockquote>
 
-Halbe suggests adding more protein to the diet in the form of pure soy meal...
+Patrick explains the advantages and disadvantages of the different mineral feeding methods...
 
 <blockquote style="background: #96e58e;">
 
-### Halbe's Answer
+### Patrick's Answer
 
-You feed 15 kg of silage, which is around 5 kg dry matter. The hay is around 2.5 kg of dry matter. The total dry matter intake from fodder is than 7.5 kg. This is very is low. An adult HF cow easily eats 12 kg dry matter of fodder. Our starting point is always that a cow eats plenty of fodder (as much as they can eat). Then a cow will eat 9 kgdm of silage (25 kg product) and 3 kg oat hay. I think the oat hay is very low in protein. The silage is also low in protein (5%) Cows need 14% protein as a minimum, so to compensate your lack of protein (7.5 kgdm x 80 = 560 gram protein) your 2 kg of unga should have 280 gram protein extra. Together with the standard 14% the unga should contain 400gram protein. So you should feed pure soy meal.
+Minerals and vitamins has two approach while feeding and both has its own advantage and disadvantage. 
+<br><br>
+One is adlib feeding - its most ideal but faces more challenges:
+1. If minerals are not palatable cows will experience deficiencies and more wastages hence loss to a farmer.
+2. Some of raw materials used are highly soluble thus when come into contact with saliva or water they are lost.
+3. Due to the pecking order some cows might not be able to access minerals.
+4. If its highly palatable within short duration its over hence more cost to farmer and advantageous to cows.
+
+Force feeding/regulated feeding - this one a farmer is sure the quantity offered and cows have consumed it but challenge is:
+1. Will cow requirement be met? if no then deficiencies.
+2. Is manufacturer quoted measure per cow per day honest with it or is there to please farmer on economic sense? If no then expect deficiencies.
+3. On farmer weighing how is the accuracy rate?
+
+My point of view that I opt for, definitely its open to factual critiques is:
+1. Have a mineral block
+2. on average a dairy cow needs 5-6kgs of minerals per month. Have 2kgs (40%) adlib and 3kgs (60%) regulated feeding.
+
+Based on cows need advice from your dairy expert is ideal. Manufacturer advice is also good to adhere to since they know raw materials used.
 
 <br>
   <div>
     Posted by:
-    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/halbe_k.jpg" >
-    <b>Halbe K</b>
+    <img style="height:3.2em; border-radius: 2em; border: 1px solid #ffff" src="https://s3.amazonaws.com/afc-dairytrial/afc_dairy_guide_production2_patrick.jpg" >
+    <b>Patrick N</b>
     <div style="float: right;margin-top:0px;"> <b>44</b>
       <a href = "#">
         <img style="height:3.2em; border-radius: 2em;" src="https://s3.amazonaws.com/afc-dairytrial/clap_btn.jpg" >
