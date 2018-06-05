@@ -136,13 +136,6 @@
         "componentChunkName": "component---src-templates-post-template-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "increasing-milk-production-part-2.json",
-        "path": "/increasing-milk-production-part-2/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "feeding-dry-cows.json",
         "path": "/feeding-dry-cows/"
     },
@@ -236,6 +229,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "increasing-milk-production-part-1.json",
         "path": "/increasing-milk-production-part-1/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "increasing-milk-production-part-2.json",
+        "path": "/increasing-milk-production-part-2/"
     },
     {
         "componentChunkName": "component---src-pages-contact-js",
