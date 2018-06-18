@@ -32,7 +32,6 @@ exports.json = {
   "foot-and-mouth-disease.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/foot-and-mouth-disease.json"),
   "sore-mouth.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/sore-mouth.json"),
   "malignant-catarrhal-fever.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/malignant-catarrhal-fever.json"),
-  "when-to-serve-and-ai.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/when-to-serve-and-ai.json"),
   "signs-for-a-cow-on-heat.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/signs-for-a-cow-on-heat.json"),
   "deworming.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/deworming.json"),
   "heifer-rearing.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/heifer-rearing.json"),
@@ -51,6 +50,7 @@ exports.json = {
   "east-coast-fever-disease.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/east-coast-fever-disease.json"),
   "increasing-milk-production-part-1.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/increasing-milk-production-part-1.json"),
   "increasing-milk-production-part-2.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/increasing-milk-production-part-2.json"),
+  "when-to-serve-and-ai.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/when-to-serve-and-ai.json"),
   "contact.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/contact.json"),
   "index.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/index.json"),
   "search.json": require("/Users/georgiabarrie/gatsby-afc-guide/.cache/json/search.json")
