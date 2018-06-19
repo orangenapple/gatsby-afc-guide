@@ -108,13 +108,6 @@
         "componentChunkName": "component---src-templates-post-template-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "signs-for-a-cow-on-heat.json",
-        "path": "/signs-for-a-cow-on-heat/"
-    },
-    {
-        "componentChunkName": "component---src-templates-post-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "deworming.json",
         "path": "/deworming/"
     },
@@ -229,6 +222,13 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "increasing-milk-production-part-2.json",
         "path": "/increasing-milk-production-part-2/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "signs-for-a-cow-on-heat.json",
+        "path": "/signs-for-a-cow-on-heat/"
     },
     {
         "componentChunkName": "component---src-templates-post-template-js",

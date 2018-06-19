@@ -202,7 +202,7 @@ Got more questions about serving cows? Add your questions in the comments sectio
 There are number of other important topics in this guide:
 
 * [Feeding your calf](/feeding-calf) ⭐ - The best way to feed for a healthy calf
-* [Feeding your cows - basics](/feeding-your-cow-basics)  ⭐- Understand the basics of feeding
-* [Signs of a cow on heat](/signs-for-a-cow-on-heat)  🔒- How to know if your cow is on heat
+* [Feeding your cows - basics](/feeding-your-cow-basics)  ⭐ - Understand the basics of feeding
+* [Signs of a cow on heat](/signs-for-a-cow-on-heat)  ⭐ - How to know if your cow is on heat
 
 ...or you can just [see all topics](/)
